@@ -3,7 +3,7 @@ on:
     push:
     workflow_dispatch:
     schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0,30 * * * *'
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -26,6 +26,9 @@ jobs:
       - name: Fetch Xcel Energy data
         run: |-
           curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > xcel-outages.json
+      - name: Fetch Xcel Energy shutoff watch areas
+        run: |-
+          curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/4/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > xcel-shutoff-watch.json
       - name: Fetch Black Hills Energy data
         run: |-
           curl -sL 'https://www.blackhillsenergy.com/POP/model/PopOutage?ServiceType=Electric' > blackhills-outages.json
