@@ -1,4 +1,4 @@
-name: Denver power outages
+name: Colorado power outages
 on:
     push:
     workflow_dispatch:
@@ -10,40 +10,56 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-      - name: Fetch Xcel data
+      - name: Fetch Xcel Energy data
         run: |-
-          curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > excel-outages.json
-      - name: Tally hourly outages by county
+          curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > xcel-outages.json
+      - name: Fetch Black Hills Energy data
+        run: |-
+          curl -sL 'https://www.blackhillsenergy.com/POP/model/PopOutage?ServiceType=Electric' > blackhills-outages.json
+      - name: Tally hourly Colorado outages by provider and area
         run: |-
           # Only run on the hour (minute 0-5 to account for workflow delay)
           current_minute=$(date -u +%M)
           if [ "$current_minute" -lt 6 ]; then
             # Create header if file doesn't exist
             if [ ! -f outage-history.csv ]; then
-              echo "timestamp,state,county,outages,customers" > outage-history.csv
+              echo "timestamp,provider,area,outages,customers" > outage-history.csv
             fi
             
             timestamp=$(date -u +%Y-%m-%dT%H:00:00Z)
             
-            # Group by state and county, sum outages and customers
+            # Tally Xcel Energy Colorado outages by county
             jq -r --arg ts "$timestamp" '
               .features 
-              | group_by(.properties.states + "|" + .properties.county)
+              | map(select(.properties.states == "CO"))
+              | group_by(.properties.county)
               | map({
-                  state: .[0].properties.states,
-                  county: .[0].properties.county,
+                  area: .[0].properties.county,
                   outages: length,
                   customers: (map(.properties.customers) | add)
                 })
               | .[]
-              | [$ts, .state, .county, .outages, .customers]
+              | [$ts, "Xcel Energy", .area, .outages, .customers]
               | @csv
-            ' excel-outages.json >> outage-history.csv
+            ' xcel-outages.json >> outage-history.csv
+            
+            # Tally Black Hills Energy outages by area
+            jq -r --arg ts "$timestamp" '
+              group_by(.fieldValues.geographicAorIDs)
+              | map({
+                  area: .[0].fieldValues.geographicAorIDs,
+                  outages: length,
+                  customers: (map(.currentAffected) | add)
+                })
+              | .[]
+              | [$ts, "Black Hills Energy", .area, .outages, .customers]
+              | @csv
+            ' blackhills-outages.json >> outage-history.csv 2>/dev/null || true
             
             # Log summary
-            total_counties=$(jq '[.features[].properties.county] | unique | length' excel-outages.json)
-            total_outages=$(jq '.features | length' excel-outages.json)
-            echo "Recorded ${total_outages} outages across ${total_counties} counties"
+            xcel_outages=$(jq '[.features[] | select(.properties.states == "CO")] | length' xcel-outages.json)
+            bh_outages=$(jq 'length' blackhills-outages.json 2>/dev/null || echo "0")
+            echo "Recorded ${xcel_outages} Xcel Energy outages, ${bh_outages} Black Hills Energy outages"
           else
             echo "Skipping hourly tally (minute: ${current_minute})"
           fi
