@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Fetch Xcel data
         run: |-
-          curl -s 'https://xcelenergy-ags.esriemcs.com/arcgis/rest/services/XcelOutage/MapServer/0/query?f=json&where=1%3D1%20AND%201736204798661%3D1736204798661&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A-11885245.083988005%2C%22ymin%22%3A4776583.555972734%2C%22xmax%22%3A-11418979.211448656%2C%22ymax%22%3A4922119.657827639%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100' > excel-outages.json
+          curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > excel-outages.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
