@@ -13,6 +13,40 @@ jobs:
       - name: Fetch Xcel data
         run: |-
           curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > excel-outages.json
+      - name: Tally hourly outages by county
+        run: |-
+          # Only run on the hour (minute 0-5 to account for workflow delay)
+          current_minute=$(date -u +%M)
+          if [ "$current_minute" -lt 6 ]; then
+            # Create header if file doesn't exist
+            if [ ! -f outage-history.csv ]; then
+              echo "timestamp,state,county,outages,customers" > outage-history.csv
+            fi
+            
+            timestamp=$(date -u +%Y-%m-%dT%H:00:00Z)
+            
+            # Group by state and county, sum outages and customers
+            jq -r --arg ts "$timestamp" '
+              .features 
+              | group_by(.properties.states + "|" + .properties.county)
+              | map({
+                  state: .[0].properties.states,
+                  county: .[0].properties.county,
+                  outages: length,
+                  customers: (map(.properties.customers) | add)
+                })
+              | .[]
+              | [$ts, .state, .county, .outages, .customers]
+              | @csv
+            ' excel-outages.json >> outage-history.csv
+            
+            # Log summary
+            total_counties=$(jq '[.features[].properties.county] | unique | length' excel-outages.json)
+            total_outages=$(jq '.features | length' excel-outages.json)
+            echo "Recorded ${total_outages} outages across ${total_counties} counties"
+          else
+            echo "Skipping hourly tally (minute: ${current_minute})"
+          fi
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
