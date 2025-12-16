@@ -10,6 +10,19 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
+      - name: Save previous snapshot for comparison
+        run: |-
+          # Save current data as previous snapshot before fetching new data
+          if [ -f xcel-outages.json ]; then
+            cp xcel-outages.json xcel-outages-previous.json
+          else
+            echo '{"type":"FeatureCollection","features":[]}' > xcel-outages-previous.json
+          fi
+          if [ -f blackhills-outages.json ]; then
+            cp blackhills-outages.json blackhills-outages-previous.json
+          else
+            echo '[]' > blackhills-outages-previous.json
+          fi
       - name: Fetch Xcel Energy data
         run: |-
           curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > xcel-outages.json
