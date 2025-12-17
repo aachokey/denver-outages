@@ -2416,6 +2416,76 @@
   },
   {
     "type": "Feature",
+    "id": 41742,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82357226974567,
+        39.631630829912254
+      ]
+    },
+    "properties": {
+      "objectid": 41742,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 20,
+      "off_": 1765937100000,
+      "etr": 1765945800000,
+      "ticket": "17041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812555.384599999,-11668906.6882",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{B8881A47-5BF7-44AE-829F-154B78FB1CEB}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1765971731000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41746,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82174540996982,
+        39.631322809680093
+      ]
+    },
+    "properties": {
+      "objectid": 41746,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1765937100000,
+      "etr": 1765945800000,
+      "ticket": "17041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812510.863300003,-11668703.3231",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{DC83D284-EA63-46AF-BF8A-EFED5A3531BE}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1765971731000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 41747,
     "geometry": {
       "type": "Point",
@@ -2447,6 +2517,41 @@
       "xcelarea": "Arvada"
     },
     "resolvedAt": 1765970602000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41750,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97015275968253,
+        39.635118470290152
+      ]
+    },
+    "properties": {
+      "objectid": 41750,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1765938660000,
+      "etr": 1765946700000,
+      "ticket": "17041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813059.502599999,-11685223.9537",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{43073C40-BAFD-49AE-95AC-63D9B0849134}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Cherry Hills Village",
+      "xcelarea": "Cherry Hills Village"
+    },
+    "resolvedAt": 1765971731000,
     "status": "resolved"
   },
   {
@@ -2657,6 +2762,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1765970602000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41763,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.09219139014328,
+        39.629039729791074
+      ]
+    },
+    "properties": {
+      "objectid": 41763,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1765944840000,
+      "etr": 1765953000000,
+      "ticket": "17041735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812180.872699998,-11698809.2319",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5C4455FB-A116-4B54-9694-1C473822C47C}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1765971731000,
     "status": "resolved"
   }
 ]
