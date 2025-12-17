@@ -1996,6 +1996,41 @@
   },
   {
     "type": "Feature",
+    "id": 41669,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9437875402669,
+        40.332209610270198
+      ]
+    },
+    "properties": {
+      "objectid": 41669,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1765916340000,
+      "etr": 1765921500000,
+      "ticket": "17043735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4914336.1655,-11682288.990899999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B07FD3F6-1BFC-4017-BD64-557109DC25D9}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Johnstown",
+      "xcelarea": "Johnstown"
+    },
+    "resolvedAt": 1765975933000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 41677,
     "geometry": {
       "type": "Point",
@@ -2412,6 +2447,41 @@
       "xcelarea": "Englewood"
     },
     "resolvedAt": 1765960493000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96418041022905,
+        39.656854709748742
+      ]
+    },
+    "properties": {
+      "objectid": 41731,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 157,
+      "off_": 1765931460000,
+      "etr": 1765945800000,
+      "ticket": "17043735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816201.921800002,-11684559.114799999",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{D10DC370-A303-44A7-BA10-9631C5663426}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1765975933000,
     "status": "resolved"
   },
   {
