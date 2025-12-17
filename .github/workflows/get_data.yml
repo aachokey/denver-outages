@@ -18,29 +18,32 @@ jobs:
           else
             echo '{"type":"FeatureCollection","features":[]}' > xcel-outages-previous.json
           fi
-          if [ -f blackhills-outages.json ]; then
-            cp blackhills-outages.json blackhills-outages-previous.json
-          else
-            echo '[]' > blackhills-outages-previous.json
-          fi
+          # Black Hills disabled
+          # if [ -f blackhills-outages.json ]; then
+          #   cp blackhills-outages.json blackhills-outages-previous.json
+          # else
+          #   echo '[]' > blackhills-outages-previous.json
+          # fi
       - name: Fetch Xcel Energy data
         run: |-
           curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/3/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > xcel-outages.json
       - name: Fetch Xcel Energy shutoff watch areas
         run: |-
           curl -s 'https://emcs-gis.esriemcs.com/arcgis/rest/services/Xcel/XcelOutage/MapServer/4/query?where=1%3D1&text=&objectIds=&time=&timeRelation=esriTimeRelationOverlaps&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&returnExtentOnly=false&sqlFormat=none&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&uniqueIds=&returnUniqueIdsOnly=false&featureEncoding=esriDefault&f=geojson' > xcel-shutoff-watch.json
-      - name: Fetch Black Hills Energy data
-        run: |-
-          curl -sL 'https://www.blackhillsenergy.com/POP/model/PopOutage?ServiceType=Electric' > blackhills-outages.json
+      # Black Hills disabled
+      # - name: Fetch Black Hills Energy data
+      #   run: |-
+      #     curl -sL 'https://www.blackhillsenergy.com/POP/model/PopOutage?ServiceType=Electric' > blackhills-outages.json
       - name: Track and accumulate resolved outages
         run: |-
           # Initialize resolved outages files if they don't exist
           if [ ! -f xcel-resolved-outages.json ]; then
             echo '[]' > xcel-resolved-outages.json
           fi
-          if [ ! -f blackhills-resolved-outages.json ]; then
-            echo '[]' > blackhills-resolved-outages.json
-          fi
+          # Black Hills disabled
+          # if [ ! -f blackhills-resolved-outages.json ]; then
+          #   echo '[]' > blackhills-resolved-outages.json
+          # fi
           
           # Get current timestamp in milliseconds
           current_timestamp=$(date +%s)000
@@ -60,29 +63,29 @@ jobs:
           ' xcel-outages.json > xcel-resolved-outages-temp.json
           mv xcel-resolved-outages-temp.json xcel-resolved-outages.json
           
-          # Find newly resolved Black Hills outages
-          jq --slurpfile previous blackhills-outages-previous.json --slurpfile existing blackhills-resolved-outages.json --arg ts "$current_timestamp" '
-            ($previous[0] | map(.id)) as $prevIds |
-            ([. | map(.id)]) | .[0] as $currIds |
-            $previous[0] | map(select(.id as $id | ($currIds | index($id) == null))) |
-            map(. + {resolvedAt: ($ts | tonumber), status: "resolved"}) |
-            . as $newlyResolved |
-            ($existing[0] + $newlyResolved) |
-            unique_by(.id) |
-            # Remove resolved outages older than 48 hours
-            map(select((.resolvedAt // 0) > (now * 1000 - 172800000)))
-          ' blackhills-outages.json > blackhills-resolved-outages-temp.json
-          mv blackhills-resolved-outages-temp.json blackhills-resolved-outages.json
+          # Black Hills disabled
+          # # Find newly resolved Black Hills outages
+          # jq --slurpfile previous blackhills-outages-previous.json --slurpfile existing blackhills-resolved-outages.json --arg ts "$current_timestamp" '
+          #   ($previous[0] | map(.id)) as $prevIds |
+          #   ([. | map(.id)]) | .[0] as $currIds |
+          #   $previous[0] | map(select(.id as $id | ($currIds | index($id) == null))) |
+          #   map(. + {resolvedAt: ($ts | tonumber), status: "resolved"}) |
+          #   . as $newlyResolved |
+          #   ($existing[0] + $newlyResolved) |
+          #   unique_by(.id) |
+          #   # Remove resolved outages older than 48 hours
+          #   map(select((.resolvedAt // 0) > (now * 1000 - 172800000)))
+          # ' blackhills-outages.json > blackhills-resolved-outages-temp.json
+          # mv blackhills-resolved-outages-temp.json blackhills-resolved-outages.json
           
           # Log summary
           resolved_xcel=$(jq 'length' xcel-resolved-outages.json)
-          resolved_bh=$(jq 'length' blackhills-resolved-outages.json)
           newly_resolved_xcel=$(jq --slurpfile previous xcel-outages-previous.json '
             ($previous[0].features | map(select(.properties.states == "CO")) | map(.id)) as $prevIds |
             ([.features | map(select(.properties.states == "CO")) | map(.id)]) | .[0] as $currIds |
             ($prevIds | length) - ($currIds | length)
           ' xcel-outages.json)
-          echo "Tracking ${resolved_xcel} total resolved Xcel outages (${newly_resolved_xcel} newly resolved), ${resolved_bh} resolved Black Hills outages"
+          echo "Tracking ${resolved_xcel} total resolved Xcel outages (${newly_resolved_xcel} newly resolved)"
       - name: Tally hourly Colorado outages by provider and area
         run: |-
           # Only run on the hour (minute 0-5 to account for workflow delay)
@@ -110,23 +113,23 @@ jobs:
               | @csv
             ' xcel-outages.json >> outage-history.csv
             
-            # Tally Black Hills Energy outages by area
-            jq -r --arg ts "$timestamp" '
-              group_by(.fieldValues.geographicAorIDs)
-              | map({
-                  area: .[0].fieldValues.geographicAorIDs,
-                  outages: length,
-                  customers: (map(.currentAffected) | add)
-                })
-              | .[]
-              | [$ts, "Black Hills Energy", .area, .outages, .customers]
-              | @csv
-            ' blackhills-outages.json >> outage-history.csv 2>/dev/null || true
+            # Black Hills disabled
+            # # Tally Black Hills Energy outages by area
+            # jq -r --arg ts "$timestamp" '
+            #   group_by(.fieldValues.geographicAorIDs)
+            #   | map({
+            #       area: .[0].fieldValues.geographicAorIDs,
+            #       outages: length,
+            #       customers: (map(.currentAffected) | add)
+            #     })
+            #   | .[]
+            #   | [$ts, "Black Hills Energy", .area, .outages, .customers]
+            #   | @csv
+            # ' blackhills-outages.json >> outage-history.csv 2>/dev/null || true
             
             # Log summary
             xcel_outages=$(jq '[.features[] | select(.properties.states == "CO")] | length' xcel-outages.json)
-            bh_outages=$(jq 'length' blackhills-outages.json 2>/dev/null || echo "0")
-            echo "Recorded ${xcel_outages} Xcel Energy outages, ${bh_outages} Black Hills Energy outages"
+            echo "Recorded ${xcel_outages} Xcel Energy outages"
           else
             echo "Skipping hourly tally (minute: ${current_minute})"
           fi
