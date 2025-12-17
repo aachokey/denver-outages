@@ -2906,6 +2906,76 @@
   },
   {
     "type": "Feature",
+    "id": 41779,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99980075013309,
+        39.850905349990917
+      ]
+    },
+    "properties": {
+      "objectid": 41779,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1765950420000,
+      "etr": 1765958400000,
+      "ticket": "17074535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4844299.8464,-11688524.3529",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{12111F19-1419-4A21-B26C-10760BEE496D}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Federal Heights",
+      "xcelarea": "Federal Heights"
+    },
+    "resolvedAt": 1765985275000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41781,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0003460598499,
+        39.850956350254947
+      ]
+    },
+    "properties": {
+      "objectid": 41781,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 16,
+      "off_": 1765950240000,
+      "etr": 1765962000000,
+      "ticket": "17074535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4844307.241499998,-11688585.056499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EDB16DC9-066F-4085-A963-E7C13095C105}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Federal Heights",
+      "xcelarea": "Federal Heights"
+    },
+    "resolvedAt": 1765985275000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 41784,
     "geometry": {
       "type": "Point",
@@ -2972,6 +3042,76 @@
       "xcelarea": "Lone Tree"
     },
     "resolvedAt": 1765981617000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41792,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99623605991421,
+        39.807024339711688
+      ]
+    },
+    "properties": {
+      "objectid": 41792,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1765954080000,
+      "etr": 1765962000000,
+      "ticket": "17074535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837939.0814,-11688127.5334",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4C29FC29-FA06-4E5F-A935-44DA103E6195}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1765985275000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 41801,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08098935004131,
+        39.653628179927807
+      ]
+    },
+    "properties": {
+      "objectid": 41801,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2161,
+      "off_": 1765956060000,
+      "etr": 1765962900000,
+      "ticket": "17074535",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815735.3983,-11697562.2265",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{52E56EAE-A225-43A6-824A-6B695DC3434B}",
+      "county": "DENVER, JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood,  Denver",
+      "xcelarea": "Lakewood,  Denver"
+    },
+    "resolvedAt": 1765985275000,
     "status": "resolved"
   }
 ]
