@@ -48616,6 +48616,41 @@
   },
   {
     "type": "Feature",
+    "id": 44549,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08675892997221,
+        39.766806400030291
+      ]
+    },
+    "properties": {
+      "objectid": 44549,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1766079120000,
+      "etr": 1766114100000,
+      "ticket": "19024135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832112.8609,-11698204.4932",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{739598C3-CA5D-4E87-9E56-AC555BCB3603}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Wheat Ridge",
+      "xcelarea": "Wheat Ridge"
+    },
+    "resolvedAt": 1766140030000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 44550,
     "geometry": {
       "type": "Point",
@@ -84067,6 +84102,41 @@
       "xcelarea": "Golden"
     },
     "resolvedAt": 1766120101000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 46665,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.0684222202125,
+        39.383076979731548
+      ]
+    },
+    "properties": {
+      "objectid": 46665,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1766092140000,
+      "etr": 1766098800000,
+      "ticket": "19024135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4776693.557700001,-11807482.750799999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{789A7451-27F2-4FFA-9295-0A54C8C89FAC}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "resolvedAt": 1766140030000,
     "status": "resolved"
   },
   {
