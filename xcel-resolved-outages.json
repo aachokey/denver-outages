@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 41787,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.86335691004936,
-        39.520167639889848
-      ]
-    },
-    "properties": {
-      "objectid": 41787,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1765952820000,
-      "etr": 1765963800000,
-      "ticket": "17062935",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4796457.3939,-11673335.4941",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4869D7A5-AA5F-44A5-822A-AB9DB9D3484D}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Lone Tree",
-      "xcelarea": "Lone Tree"
-    },
-    "resolvedAt": 1765981617000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 41792,
     "geometry": {
       "type": "Point",
@@ -32407,6 +32372,41 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1766033710000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 43849,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96706358996437,
+        39.890407309859
+      ]
+    },
+    "properties": {
+      "objectid": 43849,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 16,
+      "off_": 1766045460000,
+      "etr": 1766268000000,
+      "ticket": "19071735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4850029.325400002,-11684880.0689",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{02E5B3A4-9A4A-4AC5-88CD-614749FD3BC9}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "resolvedAt": 1766155629000,
     "status": "resolved"
   },
   {
@@ -86521,6 +86521,41 @@
   },
   {
     "type": "Feature",
+    "id": 46899,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.12838663026959,
+        39.889467730066372
+      ]
+    },
+    "properties": {
+      "objectid": 46899,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1766116440000,
+      "etr": 1766131200000,
+      "ticket": "19071735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4849893.007700004,-11702838.4676",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E15829D0-EE0E-4E04-9B3F-9DAC20BB25CC}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1766155629000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 46901,
     "geometry": {
       "type": "Point",
@@ -88197,6 +88232,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1766154269000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 47194,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86645379000761,
+        39.59465823989256
+      ]
+    },
+    "properties": {
+      "objectid": 47194,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1766119920000,
+      "etr": 1766130300000,
+      "ticket": "19071735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807212.7749999985,-11673680.2372",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{78062BE6-DCD4-4330-B8FE-876FEFE2FED7}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood,  Centennial",
+      "xcelarea": "Englewood,  Centennial"
+    },
+    "resolvedAt": 1766155629000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 47237,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.06070453040027,
+        39.280732710256387
+      ]
+    },
+    "properties": {
+      "objectid": 47237,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766127420000,
+      "etr": 1766135700000,
+      "ticket": "19071735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4761964.273699999,-11806623.6215",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{644345F5-6274-4CFE-8E4B-2B79702588C2}",
+      "county": "PARK",
+      "cause": "Outage",
+      "city": "Alma",
+      "xcelarea": "Alma"
+    },
+    "resolvedAt": 1766155629000,
     "status": "resolved"
   }
 ]
