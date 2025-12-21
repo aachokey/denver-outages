@@ -36296,6 +36296,41 @@
   },
   {
     "type": "Feature",
+    "id": 48800,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.126805439961,
+        40.111240290332852
+      ]
+    },
+    "properties": {
+      "objectid": 48800,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1766242260000,
+      "etr": 1766318400000,
+      "ticket": "21064135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4882120.607299998,-11702662.4503",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6690F751-323C-4570-9A25-058445A03240}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Longmont",
+      "xcelarea": "Longmont"
+    },
+    "resolvedAt": 1766326843000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 48845,
     "geometry": {
       "type": "Point",
@@ -38396,6 +38431,76 @@
   },
   {
     "type": "Feature",
+    "id": 49161,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.31603802043622,
+        39.600235059885343
+      ]
+    },
+    "properties": {
+      "objectid": 49161,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1010,
+      "off_": 1766257500000,
+      "etr": 1766318400000,
+      "ticket": "21064135",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4808018.453400001,-11723727.7248",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C323ECA2-8CF9-48CF-A258-F7F5613BDA6D}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1766326843000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 49172,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.34547845963198,
+        39.591226339958929
+      ]
+    },
+    "properties": {
+      "objectid": 49172,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1399,
+      "off_": 1766257620000,
+      "etr": 1766318400000,
+      "ticket": "21064135",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4806717.003600001,-11727005.0195",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D8EFA17C-1A6C-46DC-B568-BC3530D03FD0}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1766326843000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 49195,
     "geometry": {
       "type": "Point",
@@ -39337,6 +39442,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1766307059000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 49293,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.29801087006301,
+        39.655555450042158
+      ]
+    },
+    "properties": {
+      "objectid": 49293,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 42,
+      "off_": 1766272920000,
+      "etr": 1766318400000,
+      "ticket": "21064135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816014.0594,-11721720.9516",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{ADE96685-8A40-488F-A587-C47EFF534E7E}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Kittredge",
+      "xcelarea": "Kittredge"
+    },
+    "resolvedAt": 1766326843000,
     "status": "resolved"
   },
   {
