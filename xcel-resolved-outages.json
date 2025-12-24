@@ -1121,41 +1121,6 @@
   },
   {
     "type": "Feature",
-    "id": 49974,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.44010114003534,
-        39.992221379861896
-      ]
-    },
-    "properties": {
-      "objectid": 49974,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1766350740000,
-      "etr": 1766406600000,
-      "ticket": "22081735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4864811.9760000035,-11737538.368099999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{E896AA61-65F3-4C83-AC85-BD935D49E459}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Nederland",
-      "xcelarea": "Nederland"
-    },
-    "resolvedAt": 1766418344000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 49980,
     "geometry": {
       "type": "Point",
@@ -1292,41 +1257,6 @@
       "xcelarea": "Evergreen"
     },
     "resolvedAt": 1766421046000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 49997,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.44725399973966,
-        39.990667990030616
-      ]
-    },
-    "properties": {
-      "objectid": 49997,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1766355480000,
-      "etr": 1766406600000,
-      "ticket": "22081735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4864586.269900002,-11738334.6208",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{DAA0679E-EB2A-436E-962B-9234E89CF54A}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Nederland",
-      "xcelarea": "Nederland"
-    },
-    "resolvedAt": 1766418344000,
     "status": "resolved"
   },
   {
@@ -14732,6 +14662,41 @@
       "xcelarea": "Nederland"
     },
     "resolvedAt": 1766587485000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 51225,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.39009411017625,
+        40.116333040157159
+      ]
+    },
+    "properties": {
+      "objectid": 51225,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1766561520000,
+      "etr": 1766571300000,
+      "ticket": "24083735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4882861.9086000025,-11731971.611",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{783D0DF1-15D3-40F6-B424-47C2C4FB3155}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Jamestown",
+      "xcelarea": "Jamestown"
+    },
+    "resolvedAt": 1766593789000,
     "status": "resolved"
   }
 ]
