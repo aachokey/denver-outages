@@ -7838,5 +7838,40 @@
     },
     "resolvedAt": 1766681576000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 51471,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.11626020038403,
+        40.404781789923746
+      ]
+    },
+    "properties": {
+      "objectid": 51471,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 532,
+      "off_": 1766653620000,
+      "etr": 1766657700000,
+      "ticket": "25094535",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4924939.600400001,-11701488.5596",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6C3ACB3E-DB4C-46DC-936E-CBC8A9E81481}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Loveland",
+      "xcelarea": "Loveland"
+    },
+    "resolvedAt": 1766683248000,
+    "status": "resolved"
   }
 ]
