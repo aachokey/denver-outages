@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 50410,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.4295473197508,
-        40.005143789969374
-      ]
-    },
-    "properties": {
-      "objectid": 50410,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 13,
-      "off_": 1766344200000,
-      "etr": 1766493900000,
-      "ticket": "23132135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866689.7892,-11736363.5222",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{45979610-EB49-4E3B-BD27-DF06FAA5D20C}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1766522729000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 50507,
     "geometry": {
       "type": "Point",
@@ -631,41 +596,6 @@
   },
   {
     "type": "Feature",
-    "id": 50884,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97371249030272,
-        39.789148939966026
-      ]
-    },
-    "properties": {
-      "objectid": 50884,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1766483880000,
-      "etr": 1766501100000,
-      "ticket": "23132135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4835349.119499996,-11685620.221099999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{D473D23D-D85D-4D88-8D3A-75E6A477DB56}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1766522729000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 50916,
     "geometry": {
       "type": "Point",
@@ -977,41 +907,6 @@
       "xcelarea": "Dillon"
     },
     "resolvedAt": 1766528558000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 50987,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.05339716040665,
-        39.75248032022229
-      ]
-    },
-    "properties": {
-      "objectid": 50987,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 94,
-      "off_": 1766491440000,
-      "etr": 1766499300000,
-      "ticket": "23132135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4830038.3182,-11694490.678",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{D37D3F57-63FA-4872-82F0-118E8C3A1EF8}",
-      "county": "DENVER, JEFFERSON",
-      "cause": "Outage",
-      "city": "Denver,  Edgewater",
-      "xcelarea": "Denver,  Edgewater"
-    },
-    "resolvedAt": 1766522729000,
     "status": "resolved"
   },
   {
@@ -6297,6 +6192,41 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1766691541000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 51507,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.12045557979758,
+        39.742175610321766
+      ]
+    },
+    "properties": {
+      "objectid": 51507,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766668680000,
+      "etr": 1766680200000,
+      "ticket": "25132135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828546.372100003,-11701955.5871",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3F366140-95F5-4ED5-8D13-A2533AE4C572}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1766695552000,
     "status": "resolved"
   }
 ]
