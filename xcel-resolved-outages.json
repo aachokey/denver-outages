@@ -5321,6 +5321,41 @@
   },
   {
     "type": "Feature",
+    "id": 51388,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98510510978888,
+        39.723999589878865
+      ]
+    },
+    "properties": {
+      "objectid": 51388,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1766583540000,
+      "etr": null,
+      "ticket": "25134135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825915.338299997,-11686888.4417",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B1488062-3E14-4DEF-B2DC-311412D5DA5D}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1766697673000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 51390,
     "geometry": {
       "type": "Point",
