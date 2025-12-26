@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 51225,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.39009411017625,
-        40.116333040157159
-      ]
-    },
-    "properties": {
-      "objectid": 51225,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1766561520000,
-      "etr": 1766571300000,
-      "ticket": "24083735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4882861.9086000025,-11731971.611",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{783D0DF1-15D3-40F6-B424-47C2C4FB3155}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Jamestown",
-      "xcelarea": "Jamestown"
-    },
-    "resolvedAt": 1766593789000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 51243,
     "geometry": {
       "type": "Point",
@@ -4197,6 +4162,76 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1766766498000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 51884,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07687275018323,
+        39.868524850309491
+      ]
+    },
+    "properties": {
+      "objectid": 51884,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 5,
+      "off_": 1766739420000,
+      "etr": 1766746800000,
+      "ticket": "26092135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846855.0222999975,-11697103.9687",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BEF8B024-FE61-41A1-A96B-77FE22B21A12}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Broomfield,  Westminster",
+      "xcelarea": "Broomfield,  Westminster"
+    },
+    "resolvedAt": 1766767782000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 51888,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94313162009084,
+        39.682237119914234
+      ]
+    },
+    "properties": {
+      "objectid": 51888,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 69,
+      "off_": 1766739060000,
+      "etr": 1766746800000,
+      "ticket": "26092135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819872.720799997,-11682215.9742",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{62BCA3FC-2088-481F-95DB-729381F74A9E}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1766767782000,
     "status": "resolved"
   }
 ]
