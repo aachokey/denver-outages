@@ -3673,5 +3673,75 @@
     },
     "resolvedAt": 1766848918000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 52223,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07484346044798,
+        39.877137069962195
+      ]
+    },
+    "properties": {
+      "objectid": 52223,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766822880000,
+      "etr": 1766830500000,
+      "ticket": "27081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4848104.203199998,-11696878.0692",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0FCBFABA-9267-4E40-AD7C-D6E27923274D}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1766850061000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 52224,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03855950000927,
+        39.717513079670503
+      ]
+    },
+    "properties": {
+      "objectid": 52224,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766822880000,
+      "etr": 1766830500000,
+      "ticket": "27081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4824976.564300001,-11692838.9572",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8DFBED6E-877A-46E8-8C91-EB7F459617CE}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1766850061000,
+    "status": "resolved"
   }
 ]
