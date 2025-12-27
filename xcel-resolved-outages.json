@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 51507,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.12045557979758,
-        39.742175610321766
-      ]
-    },
-    "properties": {
-      "objectid": 51507,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1766668680000,
-      "etr": 1766680200000,
-      "ticket": "25132135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828546.372100003,-11701955.5871",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3F366140-95F5-4ED5-8D13-A2533AE4C572}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1766695552000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 51519,
     "geometry": {
       "type": "Point",
@@ -5076,6 +5041,41 @@
   },
   {
     "type": "Feature",
+    "id": 52346,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.74747738968797,
+        40.411523200035738
+      ]
+    },
+    "properties": {
+      "objectid": 52346,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 333,
+      "off_": 1766833920000,
+      "etr": 1766862000000,
+      "ticket": "27133735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4925925.1598000005,-11660435.8449",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6D01AE64-9BFC-4D11-AD44-80ACDD267017}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1766870443000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 52347,
     "geometry": {
       "type": "Point",
@@ -5492,6 +5492,41 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1766868240000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 52384,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.21334389006844,
+        39.746623769841648
+      ]
+    },
+    "properties": {
+      "objectid": 52384,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766842320000,
+      "etr": 1766853900000,
+      "ticket": "27133735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829190.362300001,-11712295.8665",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1841DCD8-FFF6-4C80-A27A-848B9F68CCEF}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1766870443000,
     "status": "resolved"
   }
 ]
