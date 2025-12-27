@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 51503,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.96657029988904,
-        39.868483230281974
-      ]
-    },
-    "properties": {
-      "objectid": 51503,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1766667780000,
-      "etr": 1766674800000,
-      "ticket": "25141735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4846848.985799998,-11684825.156100001",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{A700909A-E4F0-4AB4-9F38-133B72BF847F}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1766698873000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 51519,
     "geometry": {
       "type": "Point",
@@ -106,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 51522,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.26224255966538,
-        40.009294220293881
-      ]
-    },
-    "properties": {
-      "objectid": 51522,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1766671740000,
-      "etr": 1766682000000,
-      "ticket": "25141735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4867292.982199997,-11717739.2415",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{AEB8A957-C6F4-40C8-AAB6-13A6D76C8345}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1766698873000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 51524,
     "geometry": {
       "type": "Point",
@@ -172,41 +102,6 @@
       "xcelarea": "Northglenn"
     },
     "resolvedAt": 1766701355000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 51525,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.25929321002624,
-        40.009253600222209
-      ]
-    },
-    "properties": {
-      "objectid": 51525,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1766672160000,
-      "etr": 1766683800000,
-      "ticket": "25141735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4867287.078599997,-11717410.9214",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5C4DB6A9-574D-41CF-8FD2-42C07AEF2FBF}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1766698873000,
     "status": "resolved"
   },
   {
@@ -5492,6 +5387,41 @@
       "xcelarea": "Golden"
     },
     "resolvedAt": 1766870443000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 52389,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.04823485957411,
+        39.80252941984569
+      ]
+    },
+    "properties": {
+      "objectid": 52389,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1766844480000,
+      "etr": 1766852100000,
+      "ticket": "27143335",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837287.750299998,-11693916.0133",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FA2AFC68-9AC3-472A-B303-3AEFD3D3FB20}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1766874141000,
     "status": "resolved"
   }
 ]
