@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 51836,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -103.19641652990873,
-        40.702274109746867
-      ]
-    },
-    "properties": {
-      "objectid": 51836,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1766729880000,
-      "etr": 1766736900000,
-      "ticket": "26071735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4968525.851300001,-11487772.5398",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{2302C213-F710-4788-8C0D-D71EC01B14BA}",
-      "county": "LOGAN",
-      "cause": "Outage",
-      "city": "Sterling",
-      "xcelarea": "Sterling"
-    },
-    "resolvedAt": 1766760344000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 51841,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.07035231971028,
-        39.862499130001865
-      ]
-    },
-    "properties": {
-      "objectid": 51841,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1766732820000,
-      "etr": 1766743200000,
-      "ticket": "26071735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4845981.0999,-11696378.1177",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{828E7189-EF7D-4F84-AB2F-2C7844F4F8BB}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1766760344000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 51845,
     "geometry": {
       "type": "Point",
@@ -6017,6 +5947,76 @@
       "xcelarea": "Boulder,  Superior,  Louisville"
     },
     "resolvedAt": 1766933015000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 52572,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.17465331962738,
+        39.989074109676501
+      ]
+    },
+    "properties": {
+      "objectid": 52572,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2427,
+      "off_": 1766906940000,
+      "etr": 1766917800000,
+      "ticket": "28073735",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4864354.685900003,-11707988.8519",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{70E37880-34C6-4ECB-B7DF-D8C08B20C5FD}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder,  Louisville,  Superior",
+      "xcelarea": "Boulder,  Louisville,  Superior"
+    },
+    "resolvedAt": 1766935357000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 52573,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87667358972007,
+        39.622410700113441
+      ]
+    },
+    "properties": {
+      "objectid": 52573,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1766907300000,
+      "etr": 1766918700000,
+      "ticket": "28073735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811222.791199997,-11674817.9001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{508E6F6D-2DC2-470E-9B8E-DA81D5B8E198}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Greenwood Village",
+      "xcelarea": "Greenwood Village"
+    },
+    "resolvedAt": 1766935357000,
     "status": "resolved"
   }
 ]
