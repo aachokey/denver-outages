@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 52376,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.20590055023553,
-        40.017232089816162
-      ]
-    },
-    "properties": {
-      "objectid": 52376,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2,
-      "off_": 1766840220000,
-      "etr": 1766847600000,
-      "ticket": "27131735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4868446.715899996,-11711467.2777",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{809E48B8-E552-41C7-BADE-EB7179BD45AD}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1766868240000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 52378,
     "geometry": {
       "type": "Point",
@@ -4267,6 +4232,41 @@
       "xcelarea": "Salida"
     },
     "resolvedAt": 1767025809000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 53661,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91114157976079,
+        39.739917290194811
+      ]
+    },
+    "properties": {
+      "objectid": 53661,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1766998620000,
+      "etr": null,
+      "ticket": "29132135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828219.435699999,-11678654.8592",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A2950ACD-B050-4727-AE47-B8DC439D6582}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767041260000,
     "status": "resolved"
   },
   {
