@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 52445,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98535107031027,
-        39.650318409660905
-      ]
-    },
-    "properties": {
-      "objectid": 52445,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1766861640000,
-      "etr": 1766871900000,
-      "ticket": "27190135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4815256.861699998,-11686915.821899999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2DBFA9A1-3950-4374-88F5-2919F0AA5B56}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Englewood",
-      "xcelarea": "Englewood"
-    },
-    "resolvedAt": 1766894242000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 52454,
     "geometry": {
       "type": "Point",
@@ -5251,6 +5216,41 @@
   },
   {
     "type": "Feature",
+    "id": 53834,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.01302619965891,
+        39.482948200015393
+      ]
+    },
+    "properties": {
+      "objectid": 53834,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 19,
+      "off_": 1767013200000,
+      "etr": 1767046500000,
+      "ticket": "29203735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4791087.759199999,-11801316.094",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{813ED5AE-D86D-4B16-B983-0C44F3BBA2A6}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "resolvedAt": 1767069677000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 53836,
     "geometry": {
       "type": "Point",
@@ -6336,6 +6336,41 @@
   },
   {
     "type": "Feature",
+    "id": 53956,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.40407113979697,
+        39.0805250498371
+      ]
+    },
+    "properties": {
+      "objectid": 53956,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767029460000,
+      "etr": 1767045600000,
+      "ticket": "29203735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4733212.667499997,-12067485.999200001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{A471C1F6-36FA-4B18-AD8B-28C76144612A}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Palisade",
+      "xcelarea": "Palisade"
+    },
+    "resolvedAt": 1767069677000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 53965,
     "geometry": {
       "type": "Point",
@@ -6507,6 +6542,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767066105000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 53980,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.59640451041558,
+        39.709067050074154
+      ]
+    },
+    "properties": {
+      "objectid": 53980,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 12,
+      "off_": 1767035280000,
+      "etr": 1767051000000,
+      "ticket": "29203735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823754.327,-11754937.9797",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B7F21CDF-216A-4DAD-99C7-469A202D32D3}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Idaho Springs",
+      "xcelarea": "Idaho Springs"
+    },
+    "resolvedAt": 1767069677000,
     "status": "resolved"
   }
 ]
