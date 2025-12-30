@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 52555,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.17465331962738,
-        39.989074109676501
-      ]
-    },
-    "properties": {
-      "objectid": 52555,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2427,
-      "off_": 1766903700000,
-      "etr": 1766911500000,
-      "ticket": "28071735",
-      "outageimpact": "Large",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4864354.685900003,-11707988.8519",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D4647F57-270B-40FA-A8BA-98664F754E9B}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder,  Superior,  Louisville",
-      "xcelarea": "Boulder,  Superior,  Louisville"
-    },
-    "resolvedAt": 1766933015000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 52557,
     "geometry": {
       "type": "Point",
@@ -6017,6 +5982,76 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767104662000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 54051,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.58757706004891,
+        39.083756989656344
+      ]
+    },
+    "properties": {
+      "objectid": 54051,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767077280000,
+      "etr": 1767086100000,
+      "ticket": "30071735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4733676.153700002,-12087913.7848",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A2179B53-24C2-4831-96DC-E423AFA195C0}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1767106032000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 54054,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97397769004257,
+        39.762230530310916
+      ]
+    },
+    "properties": {
+      "objectid": 54054,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 2,
+      "off_": 1767079020000,
+      "etr": 1767090600000,
+      "ticket": "30071735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831450.187700003,-11685649.743",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B6241495-9E6A-4971-9E0F-2B68E1CAA911}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767106032000,
     "status": "resolved"
   }
 ]
