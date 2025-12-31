@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 53661,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.91114157976079,
-        39.739917290194811
-      ]
-    },
-    "properties": {
-      "objectid": 53661,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 3,
-      "off_": 1766998620000,
-      "etr": null,
-      "ticket": "29132135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828219.435699999,-11678654.8592",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A2950ACD-B050-4727-AE47-B8DC439D6582}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1767041260000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 53767,
     "geometry": {
       "type": "Point",
@@ -10252,6 +10217,41 @@
       "xcelarea": "Westminster"
     },
     "resolvedAt": 1767202950000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 54705,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.213251050203,
+        39.403812520259542
+      ]
+    },
+    "properties": {
+      "objectid": 54705,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767175440000,
+      "etr": 1767195000000,
+      "ticket": "31134135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4779680.425399996,-11934924.5132",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8E2EA510-72B5-4673-A423-21CB0E8762B0}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Carbondale",
+      "xcelarea": "Carbondale"
+    },
+    "resolvedAt": 1767216091000,
     "status": "resolved"
   },
   {
