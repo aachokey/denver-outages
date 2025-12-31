@@ -246,111 +246,6 @@
   },
   {
     "type": "Feature",
-    "id": 53916,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.7003070104257,
-        40.389417870191927
-      ]
-    },
-    "properties": {
-      "objectid": 53916,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767023340000,
-      "etr": 1767030300000,
-      "ticket": "29161735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4922693.8433,-11655184.862300001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A62E4BA7-3AE9-4007-AAD0-EFAB32625F73}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1767051703000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 53927,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.35838437026595,
-        40.054561820248772
-      ]
-    },
-    "properties": {
-      "objectid": 53927,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 2,
-      "off_": 1767024540000,
-      "etr": 1767035700000,
-      "ticket": "29161735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4873874.225199997,-11728441.6989",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{8661B377-E287-44F6-9C2A-3C972522E531}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1767051703000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 53929,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.08402905043508,
-        40.30293065975097
-      ]
-    },
-    "properties": {
-      "objectid": 53929,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767024780000,
-      "etr": 1767035700000,
-      "ticket": "29161735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4910061.481700003,-11697900.6044",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{16E4E930-14D1-42C9-A872-DF06893BC277}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Berthoud",
-      "xcelarea": "Berthoud"
-    },
-    "resolvedAt": 1767051703000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 53935,
     "geometry": {
       "type": "Point",
@@ -10182,6 +10077,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767221132000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 54975,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08765601995428,
+        40.034636599715206
+      ]
+    },
+    "properties": {
+      "objectid": 54975,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767193620000,
+      "etr": 1767203100000,
+      "ticket": "31161735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4870976.853100002,-11698304.356800001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{62948C63-34C0-42CA-AF58-CB6C851A4E6A}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Erie",
+      "xcelarea": "Erie"
+    },
+    "resolvedAt": 1767224516000,
     "status": "resolved"
   },
   {
