@@ -9833,5 +9833,40 @@
     },
     "resolvedAt": 1767256405000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55064,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98098815958784,
+        39.748464959698403
+      ]
+    },
+    "properties": {
+      "objectid": 55064,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 2,
+      "off_": 1767234300000,
+      "etr": 1767244500000,
+      "ticket": "1024135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829456.935999997,-11686430.1449",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{846CF5EB-B61E-4476-A647-D11A3B6333D1}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767263198000,
+    "status": "resolved"
   }
 ]
