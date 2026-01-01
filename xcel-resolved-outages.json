@@ -9868,5 +9868,40 @@
     },
     "resolvedAt": 1767263198000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55066,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.74276358982898,
+        40.421175400247954
+      ]
+    },
+    "properties": {
+      "objectid": 55066,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767237900000,
+      "etr": 1767245400000,
+      "ticket": "1034135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4927336.433600001,-11659911.107099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0696FA25-D45C-4971-9A5A-2C819501158C}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1767266466000,
+    "status": "resolved"
   }
 ]
