@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 54624,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.13693026978163,
-        39.978816989801857
-      ]
-    },
-    "properties": {
-      "objectid": 54624,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767168780000,
-      "etr": 1767179700000,
-      "ticket": "31081735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4862864.499499999,-11703789.5412",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{33FCE136-F281-477B-B00E-F7CA3AA50A0F}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Louisville",
-      "xcelarea": "Louisville"
-    },
-    "resolvedAt": 1767195814000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 54625,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.01116347997478,
-        39.870657709675115
-      ]
-    },
-    "properties": {
-      "objectid": 54625,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767168840000,
-      "etr": 1767179700000,
-      "ticket": "31081735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4847164.373599999,-11689789.246199999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{00348E3F-EFD9-4046-A273-22E7E0067083}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1767195814000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 54632,
     "geometry": {
       "type": "Point",
@@ -4232,6 +4162,146 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767365196000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55395,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01474791965518,
+        39.776921429714285
+      ]
+    },
+    "properties": {
+      "objectid": 55395,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767340920000,
+      "etr": 1767352500000,
+      "ticket": "2081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4833577.866400003,-11690188.2642",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A66BD5A1-D05F-40D0-AC3E-86B72C5CBE2E}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767368690000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55401,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.93811310000942,
+        39.671094889982591
+      ]
+    },
+    "properties": {
+      "objectid": 55401,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767341340000,
+      "etr": 1767352500000,
+      "ticket": "2081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818261.1677,-11681657.3151",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D69BA948-624C-4B64-BD4F-960CADAE11F2}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767368690000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55404,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07484346044798,
+        39.877137069962195
+      ]
+    },
+    "properties": {
+      "objectid": 55404,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767341340000,
+      "etr": 1767352500000,
+      "ticket": "2081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4848104.203199998,-11696878.0692",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BD2C8006-4F7D-407B-B966-1CBD6C911D3D}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1767368690000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55405,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.77129382022754,
+        39.54743566034459
+      ]
+    },
+    "properties": {
+      "objectid": 55405,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767341400000,
+      "etr": 1767352500000,
+      "ticket": "2081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4800393.167499997,-11997045.5502",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{28DA1A2B-3DF5-444A-9D5F-F52B6ED36112}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "resolvedAt": 1767368690000,
     "status": "resolved"
   }
 ]
