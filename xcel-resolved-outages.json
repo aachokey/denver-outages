@@ -4166,6 +4166,41 @@
   },
   {
     "type": "Feature",
+    "id": 55390,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0578085900359,
+        39.934051449974575
+      ]
+    },
+    "properties": {
+      "objectid": 55390,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1767339840000,
+      "etr": 1767348000000,
+      "ticket": "2084135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4856363.4388,-11694981.756099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{44605F2D-20AC-492B-9C9E-4198BEB31361}",
+      "county": "BROOMFIELD",
+      "cause": "Outage",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1767371385000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 55395,
     "geometry": {
       "type": "Point",
@@ -4197,6 +4232,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767368690000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55398,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94977017004048,
+        39.777550959757249
+      ]
+    },
+    "properties": {
+      "objectid": 55398,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1767336060000,
+      "etr": 1767348000000,
+      "ticket": "2084135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4833669.051200002,-11682954.9742",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{81E2B3F6-8EA0-44AA-8BA0-629CA44D1A32}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767371385000,
     "status": "resolved"
   },
   {
@@ -4302,6 +4372,76 @@
       "xcelarea": "Rifle"
     },
     "resolvedAt": 1767368690000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55408,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.54246703965433,
+        39.041857030170569
+      ]
+    },
+    "properties": {
+      "objectid": 55408,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767342060000,
+      "etr": 1767347100000,
+      "ticket": "2084135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4727669.007700004,-12082892.1603",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5F194BE6-8763-42D4-B6E2-4ECBBB135905}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1767371385000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55411,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95558969989446,
+        39.728295469950311
+      ]
+    },
+    "properties": {
+      "objectid": 55411,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767342960000,
+      "etr": 1767354300000,
+      "ticket": "2084135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826537.117299996,-11683602.8013",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3FE6A9D2-0B2C-42FB-B59A-F81E2078C8EB}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767371385000,
     "status": "resolved"
   }
 ]
