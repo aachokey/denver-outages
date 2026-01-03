@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 55206,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.16392367035606,
-        37.560227270146527
-      ]
-    },
-    "properties": {
-      "objectid": 55206,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767270900000,
-      "etr": 1767281400000,
-      "ticket": "1143735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4517485.602899998,-11818113.9236",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{0F27509C-6044-4A77-83BE-09844442A1B1}",
-      "county": "RIO GRANDE",
-      "cause": "Outage",
-      "city": "Monte Vista",
-      "xcelarea": "Monte Vista"
-    },
-    "resolvedAt": 1767306213000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 55210,
     "geometry": {
       "type": "Point",
@@ -4761,6 +4726,41 @@
   },
   {
     "type": "Feature",
+    "id": 55760,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.21339680994268,
+        39.403809909672553
+      ]
+    },
+    "properties": {
+      "objectid": 55760,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767434700000,
+      "etr": 1767451500000,
+      "ticket": "3151735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4779680.0493,-11934940.7391",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2D664607-273B-4A3E-A966-E6BD5DF4EDA4}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Carbondale",
+      "xcelarea": "Carbondale"
+    },
+    "resolvedAt": 1767480246000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 55761,
     "geometry": {
       "type": "Point",
@@ -5212,6 +5212,41 @@
       "xcelarea": "Westminster"
     },
     "resolvedAt": 1767473111000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55845,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02405764962803,
+        39.751723969935014
+      ]
+    },
+    "properties": {
+      "objectid": 55845,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767452880000,
+      "etr": 1767464100000,
+      "ticket": "3151735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829928.803999998,-11691224.6186",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A39522C4-AB2C-4C47-B2E5-533EEEE87A92}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767480246000,
     "status": "resolved"
   }
 ]
