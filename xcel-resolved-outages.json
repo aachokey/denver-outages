@@ -4548,5 +4548,40 @@
     },
     "resolvedAt": 1767405111000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55650,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13357340031216,
+        39.80628780028659
+      ]
+    },
+    "properties": {
+      "objectid": 55650,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767379740000,
+      "etr": 1767387600000,
+      "ticket": "2201735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837832.351099998,-11703415.8562",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E57E1F3B-3662-4F69-A68A-D72BB55F5518}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1767413224000,
+    "status": "resolved"
   }
 ]
