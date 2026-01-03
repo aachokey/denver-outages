@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 55228,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9988326600059,
-        39.722770849822531
-      ]
-    },
-    "properties": {
-      "objectid": 55228,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767274380000,
-      "etr": 1767285900000,
-      "ticket": "1134135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825737.499499999,-11688416.5856",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{76B75F31-2EC1-4EE2-8D7D-A8B73C5AE050}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1767302545000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 55246,
     "geometry": {
       "type": "Point",
@@ -5072,6 +5037,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767473111000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55812,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.21249979966896,
+        40.622416550125585
+      ]
+    },
+    "properties": {
+      "objectid": 55812,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767444240000,
+      "etr": 1767454200000,
+      "ticket": "3141735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4956806.708899997,-11489562.9212",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E6A14464-31C3-4804-A354-75526AC68E3E}",
+      "county": "LOGAN",
+      "cause": "Outage",
+      "city": "Sterling",
+      "xcelarea": "Sterling"
+    },
+    "resolvedAt": 1767476457000,
     "status": "resolved"
   },
   {
