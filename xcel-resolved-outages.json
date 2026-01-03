@@ -4583,5 +4583,40 @@
     },
     "resolvedAt": 1767453744000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55711,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00457134956915,
+        39.600565789767359
+      ]
+    },
+    "properties": {
+      "objectid": 55711,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 39,
+      "off_": 1767425400000,
+      "etr": 1767432600000,
+      "ticket": "3081735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4808066.235699996,-11689055.4136",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{70D10FF4-9E32-4A8A-9FCD-F548D8B95699}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1767454887000,
+    "status": "resolved"
   }
 ]
