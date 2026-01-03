@@ -4621,6 +4621,76 @@
   },
   {
     "type": "Feature",
+    "id": 55661,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.92587718974525,
+        39.708778559846543
+      ]
+    },
+    "properties": {
+      "objectid": 55661,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 4,
+      "off_": 1767381540000,
+      "etr": 1767416400000,
+      "ticket": "2214535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823712.581799999,-11680295.2198",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2018B1CD-8D8C-497A-854A-9BD05153BB40}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767417879000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55662,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91800587005311,
+        39.706874199821485
+      ]
+    },
+    "properties": {
+      "objectid": 55662,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1044,
+      "off_": 1767382860000,
+      "etr": 1767416400000,
+      "ticket": "2214535",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823437.020900004,-11679418.988499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A1AB73A1-965F-41D9-A7B6-41596A25C24A}",
+      "county": "DENVER, ARAPAHOE",
+      "cause": "Outage",
+      "city": "Denver,  Glendale",
+      "xcelarea": "Denver,  Glendale"
+    },
+    "resolvedAt": 1767417879000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 55666,
     "geometry": {
       "type": "Point",
