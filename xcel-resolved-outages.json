@@ -4831,6 +4831,41 @@
   },
   {
     "type": "Feature",
+    "id": 55907,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.77234537983301,
+        40.289303390185019
+      ]
+    },
+    "properties": {
+      "objectid": 55907,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 443,
+      "off_": 1767484320000,
+      "etr": 1767496500000,
+      "ticket": "4023735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4908072.552199997,-11663204.1369",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A6326420-5F7A-48B2-9760-2D85628B8D3E}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "La Salle,  Gilcrest,  Platteville",
+      "xcelarea": "La Salle,  Gilcrest,  Platteville"
+    },
+    "resolvedAt": 1767522207000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 55910,
     "geometry": {
       "type": "Point",
@@ -5037,6 +5072,41 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1767519702000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 55923,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.73417050973868,
+        39.711058040104589
+      ]
+    },
+    "properties": {
+      "objectid": 55923,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 2,
+      "off_": 1767493680000,
+      "etr": 1767504600000,
+      "ticket": "4023735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4824042.432599999,-11658954.5298",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D5CA4885-E210-453B-9411-26397CE6F492}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1767522207000,
     "status": "resolved"
   }
 ]
