@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 55682,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92399066027494,
-        39.609852080269668
-      ]
-    },
-    "properties": {
-      "objectid": 55682,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767400200000,
-      "etr": 1767420000000,
-      "ticket": "3054135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4809407.968500003,-11680085.212299999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{8F877B11-4041-45E6-91F4-5F522F89AB38}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Greenwood Village",
-      "xcelarea": "Greenwood Village"
-    },
-    "resolvedAt": 1767447058000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 55701,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.87247849956404,
-        39.740428860102924
-      ]
-    },
-    "properties": {
-      "objectid": 55701,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767418500000,
-      "etr": 1767429900000,
-      "ticket": "3054135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828293.494599998,-11674350.9048",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{9EC2F8C7-FCED-432A-83D4-CDCED6EC5254}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1767447058000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 55707,
     "geometry": {
       "type": "Point",
@@ -4162,6 +4092,41 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1767613364000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56168,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01154042025453,
+        39.668043590165553
+      ]
+    },
+    "properties": {
+      "objectid": 56168,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767589620000,
+      "etr": 1767600000000,
+      "ticket": "5054935",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817819.889200002,-11689831.207",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{47F0F48C-8D42-4292-9358-D6FB7067C829}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1767620567000,
     "status": "resolved"
   }
 ]
