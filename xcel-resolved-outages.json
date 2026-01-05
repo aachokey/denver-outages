@@ -4201,6 +4201,41 @@
   },
   {
     "type": "Feature",
+    "id": 56362,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0557251300924,
+        39.880394480294235
+      ]
+    },
+    "properties": {
+      "objectid": 56362,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 118,
+      "off_": 1767608460000,
+      "etr": null,
+      "ticket": "5143735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4848576.7233000025,-11694749.8264",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C93E0B6D-B565-452C-8E18-7E4DFF58DE5A}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1767651872000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 56372,
     "geometry": {
       "type": "Point",
@@ -5562,6 +5597,111 @@
       "xcelarea": "Gilcrest"
     },
     "resolvedAt": 1767648277000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56563,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03061130968165,
+        39.709948079731468
+      ]
+    },
+    "properties": {
+      "objectid": 56563,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767623040000,
+      "etr": 1767633300000,
+      "ticket": "5143735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823881.815099999,-11691954.1687",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5205BF1A-4D33-4F39-9C25-6356E1AB431B}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767651872000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56566,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95124346010705,
+        39.767575130133807
+      ]
+    },
+    "properties": {
+      "objectid": 56566,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767623280000,
+      "etr": 1767634200000,
+      "ticket": "5143735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832224.192000002,-11683118.9801",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{440C30DF-561F-4120-83B7-5F28B26CC138}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767651872000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56567,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98629436963058,
+        39.723029100217147
+      ]
+    },
+    "properties": {
+      "objectid": 56567,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767623340000,
+      "etr": 1767634200000,
+      "ticket": "5143735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825774.876500003,-11687020.8295",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{96722436-127D-4DFB-A578-3CC2D4D243FF}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1767651872000,
     "status": "resolved"
   }
 ]
