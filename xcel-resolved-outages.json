@@ -7596,6 +7596,41 @@
   },
   {
     "type": "Feature",
+    "id": 57075,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19664221018516,
+        39.771799200013398
+      ]
+    },
+    "properties": {
+      "objectid": 57075,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767698520000,
+      "etr": 1767710700000,
+      "ticket": "6132135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832835.963799998,-11710436.644000001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{6C7EF651-5BC4-424F-A14D-6E0EF860967B}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1767732453000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 57077,
     "geometry": {
       "type": "Point",
@@ -7627,6 +7662,41 @@
       "xcelarea": "Commerce City"
     },
     "resolvedAt": 1767727163000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57090,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.70896864993851,
+        39.720116250271261
+      ]
+    },
+    "properties": {
+      "objectid": 57090,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767699540000,
+      "etr": 1767708000000,
+      "ticket": "6132135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825353.303099997,-11656149.071600001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{4EA41A54-E02D-47A2-8C8C-F92EE3F29C85}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1767732453000,
     "status": "resolved"
   },
   {
@@ -7837,6 +7907,76 @@
       "xcelarea": "Monte Vista"
     },
     "resolvedAt": 1767731278000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57161,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.80751299039342,
+        39.700565530073
+      ]
+    },
+    "properties": {
+      "objectid": 57161,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767705300000,
+      "etr": 1767716100000,
+      "ticket": "6132135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822524.210699998,-11667118.977400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FA6ABE90-AB42-4F94-B7E7-86EEF3782102}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1767732453000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57162,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.62596702963928,
+        40.290813830018458
+      ]
+    },
+    "properties": {
+      "objectid": 57162,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767705300000,
+      "etr": 1767716100000,
+      "ticket": "6132135",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4908292.984399997,-11535589.8827",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{15FB53C8-5C96-4850-A24E-2A726146E48A}",
+      "county": "MORGAN",
+      "cause": "Outage",
+      "city": "Brush",
+      "xcelarea": "Brush"
+    },
+    "resolvedAt": 1767732453000,
     "status": "resolved"
   }
 ]
