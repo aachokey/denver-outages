@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 55881,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98901169970318,
-        39.642944890146104
-      ]
-    },
-    "properties": {
-      "objectid": 55881,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767466620000,
-      "etr": 1767477600000,
-      "ticket": "3190135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4814190.8583,-11687323.3213",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{BBC42CFF-87D2-4D3B-B80F-B379072E439B}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Englewood",
-      "xcelarea": "Englewood"
-    },
-    "resolvedAt": 1767499292000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 55888,
     "geometry": {
       "type": "Point",
@@ -6192,6 +6157,111 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1767671037000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56651,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.17516371003246,
+        39.721104899763191
+      ]
+    },
+    "properties": {
+      "objectid": 56651,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767639720000,
+      "etr": 1767647700000,
+      "ticket": "5203735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825496.387199998,-11708045.6683",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{9232C94A-CD02-4967-B0E6-74D437FE88B3}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1767674528000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56663,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90399249028572,
+        39.808873469851662
+      ]
+    },
+    "properties": {
+      "objectid": 56663,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767644400000,
+      "etr": 1767655800000,
+      "ticket": "5203735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4838207.039800003,-11677859.0262",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{659CEB7D-48EE-4419-8ED5-33E17643D750}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1767674528000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 56664,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.87518622041847,
+        37.444271629658743
+      ]
+    },
+    "properties": {
+      "objectid": 56664,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1767644640000,
+      "etr": 1767655800000,
+      "ticket": "5203735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4501214.773900002,-11785971.817699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F7D5A6BA-7B8E-43BF-BE3D-CFE374BD7D31}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Mosca",
+      "xcelarea": "Mosca"
+    },
+    "resolvedAt": 1767674528000,
     "status": "resolved"
   }
 ]
