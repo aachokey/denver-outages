@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 56168,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.01154042025453,
-        39.668043590165553
-      ]
-    },
-    "properties": {
-      "objectid": 56168,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767589620000,
-      "etr": 1767600000000,
-      "ticket": "5054935",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4817819.889200002,-11689831.207",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{47F0F48C-8D42-4292-9358-D6FB7067C829}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Englewood",
-      "xcelarea": "Englewood"
-    },
-    "resolvedAt": 1767620567000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 56171,
     "geometry": {
       "type": "Point",
@@ -9027,6 +8992,41 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1767793297000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57338,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08655832988106,
+        39.839435599936508
+      ]
+    },
+    "properties": {
+      "objectid": 57338,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1767765000000,
+      "etr": null,
+      "ticket": "7063556",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4842636.8583,-11698182.1625",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8EFCF02F-2F14-4355-B520-EAA4E5F2D4FA}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1767796042000,
     "status": "resolved"
   }
 ]
