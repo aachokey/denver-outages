@@ -8923,5 +8923,75 @@
     },
     "resolvedAt": 1767751069000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57255,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97605605025024,
+        39.903405209861624
+      ]
+    },
+    "properties": {
+      "objectid": 57255,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1767720780000,
+      "etr": 1767732300000,
+      "ticket": "6185156",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851915.300399996,-11685881.105",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{99B7A459-ACBD-49CE-91AF-219E05442FE4}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "resolvedAt": 1767757464000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57264,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.51327756980476,
+        39.967154590223991
+      ]
+    },
+    "properties": {
+      "objectid": 57264,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 76,
+      "off_": 1767722820000,
+      "etr": 1767730500000,
+      "ticket": "6185156",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4861170.421400003,-11745684.331",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2619705D-B420-49DB-A394-952781FCDFF6}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder,  Erie,  Nederland",
+      "xcelarea": "Boulder,  Erie,  Nederland"
+    },
+    "resolvedAt": 1767757464000,
+    "status": "resolved"
   }
 ]
