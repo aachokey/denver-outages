@@ -141,111 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 56651,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.17516371003246,
-        39.721104899763191
-      ]
-    },
-    "properties": {
-      "objectid": 56651,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767639720000,
-      "etr": 1767647700000,
-      "ticket": "5203735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825496.387199998,-11708045.6683",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{9232C94A-CD02-4967-B0E6-74D437FE88B3}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1767674528000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 56663,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.90399249028572,
-        39.808873469851662
-      ]
-    },
-    "properties": {
-      "objectid": 56663,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767644400000,
-      "etr": 1767655800000,
-      "ticket": "5203735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4838207.039800003,-11677859.0262",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{659CEB7D-48EE-4419-8ED5-33E17643D750}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Commerce City",
-      "xcelarea": "Commerce City"
-    },
-    "resolvedAt": 1767674528000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 56664,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.87518622041847,
-        37.444271629658743
-      ]
-    },
-    "properties": {
-      "objectid": 56664,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767644640000,
-      "etr": 1767655800000,
-      "ticket": "5203735",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4501214.773900002,-11785971.817699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F7D5A6BA-7B8E-43BF-BE3D-CFE374BD7D31}",
-      "county": "ALAMOSA",
-      "cause": "Outage",
-      "city": "Mosca",
-      "xcelarea": "Mosca"
-    },
-    "resolvedAt": 1767674528000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 56668,
     "geometry": {
       "type": "Point",
@@ -8922,6 +8817,41 @@
       "xcelarea": "Grand Junction"
     },
     "resolvedAt": 1767825993000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57815,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05038406002674,
+        40.004337669938515
+      ]
+    },
+    "properties": {
+      "objectid": 57815,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 46,
+      "off_": 1767797880000,
+      "etr": 1767827700000,
+      "ticket": "7203956",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866572.637900002,-11694155.2612",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3AAB819C-B59D-448A-A784-A1905F557593}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Erie",
+      "xcelarea": "Erie"
+    },
+    "resolvedAt": 1767847328000,
     "status": "resolved"
   },
   {
