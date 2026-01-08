@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 56686,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70622139967872,
-        40.429141160103576
-      ]
-    },
-    "properties": {
-      "objectid": 56686,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767658080000,
-      "etr": 1767669300000,
-      "ticket": "6002135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4928501.281000003,-11655843.2491",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{74184B6E-1A7B-4C07-85E5-BC48C983C71E}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1767685668000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 56689,
     "geometry": {
       "type": "Point",
@@ -9517,6 +9482,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1767854342000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 57917,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.04405178977491,
+        39.899336999716375
+      ]
+    },
+    "properties": {
+      "objectid": 57917,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1767831900000,
+      "etr": 1767838500000,
+      "ticket": "8003956",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851324.971000001,-11693450.3561",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FF747532-3B8E-4D60-9D4E-A0A68DFEDDE3}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1767861327000,
     "status": "resolved"
   }
 ]
