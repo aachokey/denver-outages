@@ -71,111 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 57951,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.8981779299119,
-        39.725995830193668
-      ]
-    },
-    "properties": {
-      "objectid": 57951,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 109,
-      "off_": 1767847320000,
-      "etr": 1767859200000,
-      "ticket": "8063556",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826204.266199999,-11677211.7523",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{FC8F736D-2EE3-4A55-96E1-9792C4146675}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1767882538000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 57954,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.00376653992295,
-        39.921196749768939
-      ]
-    },
-    "properties": {
-      "objectid": 57954,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767848940000,
-      "etr": 1767859200000,
-      "ticket": "8063556",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4854497.405199997,-11688965.8226",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2C336ABC-0AAD-4CBD-A322-B9DFF2370AAB}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1767882538000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 57956,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.57040741000489,
-        39.106466279701358
-      ]
-    },
-    "properties": {
-      "objectid": 57956,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 31,
-      "off_": 1767844500000,
-      "etr": 1767866400000,
-      "ticket": "8063556",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4736933.447800003,-12086002.4681",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1278D818-1314-4461-9F9E-9D013690E791}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1767882538000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 57964,
     "geometry": {
       "type": "Point",
@@ -8012,6 +7907,41 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1768054927000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 58994,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.27103120029811,
+        40.004580749730515
+      ]
+    },
+    "properties": {
+      "objectid": 58994,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768028640000,
+      "etr": 1768040100000,
+      "ticket": "10071557",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866607.9639,-11718717.5885",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4622D6E3-0A5E-4A64-8BCD-B5288BD575A3}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1768056207000,
     "status": "resolved"
   }
 ]
