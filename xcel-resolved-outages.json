@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 57925,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.09378709992183,
-        39.870350190315271
-      ]
-    },
-    "properties": {
-      "objectid": 57925,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1767836820000,
-      "etr": 1767844800000,
-      "ticket": "8022357",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4847119.770199999,-11698986.8655",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B6F155D2-887C-4DC4-AAA5-398139A6AEA2}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1767868114000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 57934,
     "geometry": {
       "type": "Point",
@@ -8502,6 +8467,41 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1768040668000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 58968,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.31377837032277,
+        37.184214959972344
+      ]
+    },
+    "properties": {
+      "objectid": 58968,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768014360000,
+      "etr": 1768023000000,
+      "ticket": "10031956",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4464815.177000001,-11723476.181699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A7117D7F-1F4C-4F57-953C-0D0E08823FBD}",
+      "county": "COSTILLA",
+      "cause": "Outage",
+      "city": "Chama",
+      "xcelarea": "Chama"
+    },
+    "resolvedAt": 1768041904000,
     "status": "resolved"
   }
 ]
