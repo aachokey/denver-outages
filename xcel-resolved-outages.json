@@ -211,41 +211,6 @@
   },
   {
     "type": "Feature",
-    "id": 58401,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.31538747038894,
-        39.684025750018741
-      ]
-    },
-    "properties": {
-      "objectid": 58401,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1767904320000,
-      "etr": 1767911400000,
-      "ticket": "8224756",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4820131.443000004,-11723655.3059",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3876A1F4-DDC7-438A-BEE6-A2CBFB8D1A96}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1767940731000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 58403,
     "geometry": {
       "type": "Point",
@@ -6717,6 +6682,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1768107660000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 59328,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.06061502040831,
+        39.667042059909939
+      ]
+    },
+    "properties": {
+      "objectid": 59328,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1768078740000,
+      "etr": 1768091400000,
+      "ticket": "10233156",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817675.052299999,-11695294.1665",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{F6CBB441-28BC-43B3-8758-0D00B39498E7}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1768116216000,
     "status": "resolved"
   },
   {
