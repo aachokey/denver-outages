@@ -6683,5 +6683,40 @@
     },
     "resolvedAt": 1768107660000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 59333,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9594986999887,
+        40.62832905985529
+      ]
+    },
+    "properties": {
+      "objectid": 59333,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 2,
+      "off_": 1768081740000,
+      "etr": 1768093200000,
+      "ticket": "10215556",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4957673.8923999965,-11684037.9492",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F329B425-5B6A-40A1-8F40-E0B425146F4B}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Fort Collins",
+      "xcelarea": "Fort Collins"
+    },
+    "resolvedAt": 1768110511000,
+    "status": "resolved"
   }
 ]
