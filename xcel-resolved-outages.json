@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 58994,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.27103120029811,
-        40.004580749730515
-      ]
-    },
-    "properties": {
-      "objectid": 58994,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768028640000,
-      "etr": 1768040100000,
-      "ticket": "10071557",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866607.9639,-11718717.5885",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4622D6E3-0A5E-4A64-8BCD-B5288BD575A3}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1768056207000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 59004,
     "geometry": {
       "type": "Point",
@@ -4271,6 +4236,41 @@
   },
   {
     "type": "Feature",
+    "id": 59575,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.98330412963846,
+        37.497543080310244
+      ]
+    },
+    "properties": {
+      "objectid": 59575,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1768186320000,
+      "etr": 1768208400000,
+      "ticket": "12072133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4508686.655699998,-11798007.4483",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{2A0C182E-F3DE-466C-984A-7B7B31F73B3C}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Alamosa",
+      "xcelarea": "Alamosa"
+    },
+    "resolvedAt": 1768229776000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 59577,
     "geometry": {
       "type": "Point",
@@ -4337,6 +4337,76 @@
       "xcelarea": "Commerce City"
     },
     "resolvedAt": 1768228155000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 59589,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.22772225982736,
+        40.018777770099263
+      ]
+    },
+    "properties": {
+      "objectid": 59589,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1768200900000,
+      "etr": 1768209300000,
+      "ticket": "12072133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4868671.389200002,-11713896.4593",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{D38020F7-4BD3-4314-97FD-D3D63A5B2179}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1768229776000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 59596,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.68468109004459,
+        39.637045489861521
+      ]
+    },
+    "properties": {
+      "objectid": 59596,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768201980000,
+      "etr": 1768212900000,
+      "ticket": "12072133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813338.052900001,-11653445.3928",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8C6D3921-BD0F-45B7-8505-61F6EEF55E85}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1768229776000,
     "status": "resolved"
   }
 ]
