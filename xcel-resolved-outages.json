@@ -4306,6 +4306,41 @@
   },
   {
     "type": "Feature",
+    "id": 59585,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.14729576994495,
+        39.624317069718003
+      ]
+    },
+    "properties": {
+      "objectid": 59585,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 31,
+      "off_": 1768198680000,
+      "etr": 1768207500000,
+      "ticket": "12074933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811498.3059,-11704943.4234",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{61602F8E-EC68-4E19-9B2A-8898A667CA61}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Morrison",
+      "xcelarea": "Morrison"
+    },
+    "resolvedAt": 1768231972000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 59586,
     "geometry": {
       "type": "Point",
