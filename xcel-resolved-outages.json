@@ -1,111 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 58964,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.25634909037869,
-        40.034975779993708
-      ]
-    },
-    "properties": {
-      "objectid": 58964,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768010940000,
-      "etr": 1768020300000,
-      "ticket": "10023956",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4871026.167000003,-11717083.1835",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3A6D67FC-EB9C-4D2C-AA9D-C0FF21EBB14E}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1768040668000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 58965,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.82449504974825,
-        39.673913469884084
-      ]
-    },
-    "properties": {
-      "objectid": 58965,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768011780000,
-      "etr": 1768021200000,
-      "ticket": "10023956",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818668.807599999,-11669009.411600001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5FED7230-CE72-4025-8ECD-49AF217EFE2A}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1768040668000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 58966,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.07777415028204,
-        39.676834580100106
-      ]
-    },
-    "properties": {
-      "objectid": 58966,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 39,
-      "off_": 1768012500000,
-      "etr": 1768023900000,
-      "ticket": "10023956",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4819091.2936,-11697204.3121",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B3698B46-5639-4E13-AE5D-55A8F9CB0069}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1768040668000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 58968,
     "geometry": {
       "type": "Point",
@@ -4407,6 +4302,41 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1768200087000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 59574,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.19255813011785,
+        40.625623279930522
+      ]
+    },
+    "properties": {
+      "objectid": 59574,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768183680000,
+      "etr": 1768191300000,
+      "ticket": "12023333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4957277.028099999,-11487343.0247",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{119743BA-EA3D-4E49-8C21-5B61996DEB3B}",
+      "county": "LOGAN",
+      "cause": "Outage",
+      "city": "Sterling",
+      "xcelarea": "Sterling"
+    },
+    "resolvedAt": 1768213766000,
     "status": "resolved"
   }
 ]
