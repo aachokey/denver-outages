@@ -4863,5 +4863,75 @@
     },
     "resolvedAt": 1768300105000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 60070,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.15525664987427,
+        39.94998591999591
+      ]
+    },
+    "properties": {
+      "objectid": 60070,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768288140000,
+      "etr": 1768299300000,
+      "ticket": "13072133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4858677.029200003,-11705829.624499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0A099179-23FC-4B06-B9AD-E4BF09EFE20B}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Superior",
+      "xcelarea": "Superior"
+    },
+    "resolvedAt": 1768316114000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 60071,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.5084726198114,
+        39.563899379937865
+      ]
+    },
+    "properties": {
+      "objectid": 60071,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768288440000,
+      "etr": 1768299300000,
+      "ticket": "13072133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802770.233800001,-11967788.428",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{CE841E46-0DA2-4975-B2BC-0E80DA744358}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "New Castle",
+      "xcelarea": "New Castle"
+    },
+    "resolvedAt": 1768316114000,
+    "status": "resolved"
   }
 ]
