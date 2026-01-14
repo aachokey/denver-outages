@@ -8121,6 +8121,41 @@
   },
   {
     "type": "Feature",
+    "id": 60595,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.00583410962781,
+        39.599200639679864
+      ]
+    },
+    "properties": {
+      "objectid": 60595,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 482,
+      "off_": 1768346700000,
+      "etr": 1768359600000,
+      "ticket": "14012932",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807869.006700002,-11800515.4742",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{744C3825-649B-4DE6-B1CC-B9D9617EC477}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Keystone,  Silverthorne,  Dillon",
+      "xcelarea": "Keystone,  Silverthorne,  Dillon"
+    },
+    "resolvedAt": 1768383126000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 60597,
     "geometry": {
       "type": "Point",
