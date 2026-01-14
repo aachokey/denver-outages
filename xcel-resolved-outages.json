@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 59565,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97799765992215,
-        39.882284539705907
-      ]
-    },
-    "properties": {
-      "objectid": 59565,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768167960000,
-      "etr": 1768179600000,
-      "ticket": "11215733",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4848850.905699998,-11686097.243999999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F04C137D-8744-4A87-8D96-7FD0CB6B410D}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1768197159000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 59567,
     "geometry": {
       "type": "Point",
@@ -7907,6 +7872,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1768356167000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 60541,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83515317970863,
+        39.587173889863088
+      ]
+    },
+    "properties": {
+      "objectid": 60541,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1768319460000,
+      "etr": 1768348800000,
+      "ticket": "13224533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4806131.6193,-11670195.869199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FDC7F842-AB30-45A5-9425-83FECCF39DFD}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1768372724000,
     "status": "resolved"
   },
   {
