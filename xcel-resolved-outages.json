@@ -9763,5 +9763,75 @@
     },
     "resolvedAt": 1768481586000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 61264,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.84713943018905,
+        39.594944460039883
+      ]
+    },
+    "properties": {
+      "objectid": 61264,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 36,
+      "off_": 1768454160000,
+      "etr": null,
+      "ticket": "15063733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807254.123400003,-11671530.1725",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{921CF98B-4C96-4F57-A89F-57EAFEDEFE97}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1768487304000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 61269,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03365526988649,
+        39.921488010119269
+      ]
+    },
+    "properties": {
+      "objectid": 61269,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 53,
+      "off_": 1768454520000,
+      "etr": 1768464900000,
+      "ticket": "15063733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4854539.681699999,-11692293.0208",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F5D38B7D-8A94-4943-A9B6-3F1A5AF88177}",
+      "county": "BROOMFIELD",
+      "cause": "Outage",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1768487304000,
+    "status": "resolved"
   }
 ]
