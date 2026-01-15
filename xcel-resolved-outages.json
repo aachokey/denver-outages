@@ -9588,5 +9588,75 @@
     },
     "resolvedAt": 1768466137000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 61243,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.04283083018346,
+        39.742408000003572
+      ]
+    },
+    "properties": {
+      "objectid": 61243,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 73,
+      "off_": 1768437720000,
+      "etr": 1768448700000,
+      "ticket": "15012933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828580.015699998,-11693314.4395",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{DE2E0F80-824F-4BAB-953A-6B78B23A0525}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1768469488000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 61245,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.04273134985057,
+        39.742405630079837
+      ]
+    },
+    "properties": {
+      "objectid": 61245,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1768437720000,
+      "etr": 1768446000000,
+      "ticket": "15012933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828579.672600001,-11693303.3654",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A613C7A5-E137-41CF-81AE-93A2405123A6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1768469488000,
+    "status": "resolved"
   }
 ]
