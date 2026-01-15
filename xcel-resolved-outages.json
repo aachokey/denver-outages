@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 59887,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.11269004032341,
-        39.830319789875752
-      ]
-    },
-    "properties": {
-      "objectid": 59887,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1768221540000,
-      "etr": 1768234500000,
-      "ticket": "12213333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4841315.363799997,-11701091.1312",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B1E47A80-ECE0-432A-8391-743B6996ECE3}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Arvada",
-      "xcelarea": "Arvada"
-    },
-    "resolvedAt": 1768282114000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 60026,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.05120574991544,
-        39.804914950336055
-      ]
-    },
-    "properties": {
-      "objectid": 60026,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 12,
-      "off_": 1768246200000,
-      "etr": 1768256100000,
-      "ticket": "12213333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4837633.417499997,-11694246.7313",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6928E2D9-AF37-4C21-8112-D2D0865B36D1}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Arvada",
-      "xcelarea": "Arvada"
-    },
-    "resolvedAt": 1768282114000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 60040,
     "geometry": {
       "type": "Point",
@@ -9447,6 +9377,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1768448810000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 61202,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98998176971726,
+        39.754003369720287
+      ]
+    },
+    "properties": {
+      "objectid": 61202,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1768419660000,
+      "etr": 1768429800000,
+      "ticket": "14213333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4830258.848700002,-11687431.309",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{75116D2B-0476-4ADD-94D1-C388BC4CA080}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1768454932000,
     "status": "resolved"
   },
   {
