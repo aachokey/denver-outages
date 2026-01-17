@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 61240,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.10353115994464,
-        39.675860969701858
-      ]
-    },
-    "properties": {
-      "objectid": 61240,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 6,
-      "off_": 1768436340000,
-      "etr": 1768446900000,
-      "ticket": "15034533",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818950.476400003,-11700071.5693",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{107EB8BE-DC10-49E0-940C-4003FA6907E4}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1768476201000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 61247,
     "geometry": {
       "type": "Point",
@@ -67,41 +32,6 @@
       "xcelarea": "Lone Tree"
     },
     "resolvedAt": 1768484538000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 61251,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.71088764027328,
-        39.168015000073687
-      ]
-    },
-    "properties": {
-      "objectid": 61251,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768448340000,
-      "etr": 1768459500000,
-      "ticket": "15034533",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4745766.934299998,-12101640.6558",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2C57F361-FE2C-4E05-AC47-865B7FBDDE92}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Fruita",
-      "xcelarea": "Fruita"
-    },
-    "resolvedAt": 1768476201000,
     "status": "resolved"
   },
   {
@@ -13861,6 +13791,41 @@
   },
   {
     "type": "Feature",
+    "id": 62660,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.09214803026116,
+        40.095835089657918
+      ]
+    },
+    "properties": {
+      "objectid": 62660,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1768574820000,
+      "etr": 1768665600000,
+      "ticket": "17041333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4879878.562200002,-11698804.4051",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A5BA3D3D-247C-44EF-B44C-7308B3ECFDD9}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Longmont",
+      "xcelarea": "Longmont"
+    },
+    "resolvedAt": 1768649971000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 62662,
     "geometry": {
       "type": "Point",
@@ -14172,6 +14137,41 @@
       "xcelarea": "Eaton"
     },
     "resolvedAt": 1768606962000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 62678,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.69609563022033,
+        40.49517271011662
+      ]
+    },
+    "properties": {
+      "objectid": 62678,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 103,
+      "off_": 1768564980000,
+      "etr": 1768665600000,
+      "ticket": "17041333",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4938162.511,-11654716.0536",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5FB876AB-7CFA-4D28-90C5-D759A0C8A71F}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley,  Lucerne,  Eaton",
+      "xcelarea": "Greeley,  Lucerne,  Eaton"
+    },
+    "resolvedAt": 1768649971000,
     "status": "resolved"
   },
   {
@@ -18761,6 +18761,41 @@
   },
   {
     "type": "Feature",
+    "id": 63037,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97863602971252,
+        39.736628629971129
+      ]
+    },
+    "properties": {
+      "objectid": 63037,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1768618800000,
+      "etr": 1768627800000,
+      "ticket": "17041333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827743.356399998,-11686168.307",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{F2A0FD0C-C328-4C9A-BBE6-24401F3AD370}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1768649971000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 63041,
     "geometry": {
       "type": "Point",
@@ -18827,6 +18862,41 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1768648765000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 63046,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.76078862017813,
+        40.524195190258261
+      ]
+    },
+    "properties": {
+      "objectid": 63046,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768622760000,
+      "etr": 1768630500000,
+      "ticket": "17041333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4942411.865199998,-11661917.644299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F044A90C-850A-4A3A-82A4-460CE8DCDD73}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton",
+      "xcelarea": "Eaton"
+    },
+    "resolvedAt": 1768649971000,
     "status": "resolved"
   }
 ]
