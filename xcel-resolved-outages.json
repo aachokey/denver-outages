@@ -36,111 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 61297,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.05834278040615,
-        40.00236903028383
-      ]
-    },
-    "properties": {
-      "objectid": 61297,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768462260000,
-      "etr": 1768473000000,
-      "ticket": "15074933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866286.546499997,-11695041.221900001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{10DD9453-B16D-4688-87F3-8BBEDB1BB3AB}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Lafayette",
-      "xcelarea": "Lafayette"
-    },
-    "resolvedAt": 1768490968000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 61302,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.30424219033816,
-        39.626632089842701
-      ]
-    },
-    "properties": {
-      "objectid": 61302,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768462440000,
-      "etr": 1768468500000,
-      "ticket": "15074933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4811832.890299998,-11722414.618999999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{85543552-F62D-4320-BB93-37150EF15101}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Evergreen",
-      "xcelarea": "Evergreen"
-    },
-    "resolvedAt": 1768490968000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 61303,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.27103120029811,
-        40.004580749730515
-      ]
-    },
-    "properties": {
-      "objectid": 61303,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768462560000,
-      "etr": 1768473900000,
-      "ticket": "15074933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866607.9639,-11718717.5885",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{74677B80-72D8-415B-81D5-FEBA91F0903F}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1768490968000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 61306,
     "geometry": {
       "type": "Point",
@@ -19597,6 +19492,111 @@
       "xcelarea": "Denver,  Watkins,  Aurora"
     },
     "resolvedAt": 1768663383000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 63107,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.69328555005336,
+        39.715556039965996
+      ]
+    },
+    "properties": {
+      "objectid": 63107,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768636860000,
+      "etr": 1768644900000,
+      "ticket": "17081733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4824693.344899997,-11765722.727699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0CFBDD10-E45C-49FF-BC55-50099FFAACBA}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Georgetown",
+      "xcelarea": "Georgetown"
+    },
+    "resolvedAt": 1768664514000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 63109,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.7158920898007,
+        40.419426570196549
+      ]
+    },
+    "properties": {
+      "objectid": 63109,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768637280000,
+      "etr": 1768644900000,
+      "ticket": "17081733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4927080.717500001,-11656919.7854",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{490756A9-77E6-43F8-A19F-1FDADAFFB955}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1768664514000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 63114,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.73447894000329,
+        40.539315740270659
+      ]
+    },
+    "properties": {
+      "objectid": 63114,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 533,
+      "off_": 1768635720000,
+      "etr": 1768646700000,
+      "ticket": "17081733",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4944626.483999997,-11658988.8641",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BBA6CD36-E618-4CB4-8E08-D024293F0AA0}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton",
+      "xcelarea": "Eaton"
+    },
+    "resolvedAt": 1768664514000,
     "status": "resolved"
   }
 ]
