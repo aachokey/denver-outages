@@ -18411,6 +18411,41 @@
   },
   {
     "type": "Feature",
+    "id": 63433,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86425504028054,
+        39.682244229667226
+      ]
+    },
+    "properties": {
+      "objectid": 63433,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 43,
+      "off_": 1768701060000,
+      "etr": 1768711500000,
+      "ticket": "18023733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819873.749200001,-11673435.4735",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5C2157C8-82CB-4E03-A41E-EE9F68D5A68E}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1768731906000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 63434,
     "geometry": {
       "type": "Point",
