@@ -876,41 +876,6 @@
   },
   {
     "type": "Feature",
-    "id": 63205,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9989094902172,
-        40.653363829876284
-      ]
-    },
-    "properties": {
-      "objectid": 63205,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1768646940000,
-      "etr": 1768653000000,
-      "ticket": "17121333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4961346.575000003,-11688425.1383",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F1813C3E-80A3-4913-ACBF-E18A38A0F33C}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Fort Collins",
-      "xcelarea": "Fort Collins"
-    },
-    "resolvedAt": 1768678727000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 63210,
     "geometry": {
       "type": "Point",
@@ -1082,111 +1047,6 @@
       "xcelarea": "La Salle"
     },
     "resolvedAt": 1768681543000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 63234,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.6876558799726,
-        40.318978540064052
-      ]
-    },
-    "properties": {
-      "objectid": 63234,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768651620000,
-      "etr": 1768659300000,
-      "ticket": "17121333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4912404.2190999985,-11653776.5449",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{66F02ADD-57FA-4490-A75F-CDEC79196C94}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1768678727000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 63236,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92374543008387,
-        40.686483299845769
-      ]
-    },
-    "properties": {
-      "objectid": 63236,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768651740000,
-      "etr": 1768658400000,
-      "ticket": "17121333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4966207.427599996,-11680057.9134",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{709D3693-6AA4-4332-9126-267C09D1169B}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Wellington",
-      "xcelarea": "Wellington"
-    },
-    "resolvedAt": 1768678727000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 63237,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.03009472000278,
-        39.720277890247793
-      ]
-    },
-    "properties": {
-      "objectid": 63237,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1768651560000,
-      "etr": 1768662900000,
-      "ticket": "17121333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825376.696599998,-11691896.6622",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{20599892-EF1A-4153-B8B2-7A103E52E564}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1768678727000,
     "status": "resolved"
   },
   {
@@ -6332,6 +6192,41 @@
       "xcelarea": "Broomfield"
     },
     "resolvedAt": 1768850506000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 63951,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98353936960484,
+        39.61538535001354
+      ]
+    },
+    "properties": {
+      "objectid": 63951,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 22,
+      "off_": 1768823820000,
+      "etr": 1768831200000,
+      "ticket": "19121733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4810207.5304000005,-11686714.144299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{995F76CE-A34E-4837-945C-EEDC095F1C84}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1768851687000,
     "status": "resolved"
   }
 ]
