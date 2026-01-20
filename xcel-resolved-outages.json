@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 63405,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.34792536991502,
-        37.677741450269785
-      ]
-    },
-    "properties": {
-      "objectid": 63405,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1768685700000,
-      "etr": 1768693500000,
-      "ticket": "17232933",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4534000.981299996,-11838596.8991",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CC28F388-28E7-44F8-B53C-62DEAA943180}",
-      "county": "RIO GRANDE",
-      "cause": "Outage",
-      "city": "Del Norte",
-      "xcelarea": "Del Norte"
-    },
-    "resolvedAt": 1768720965000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 63417,
     "geometry": {
       "type": "Point",
@@ -5212,6 +5177,41 @@
       "xcelarea": "Centennial"
     },
     "resolvedAt": 1768884572000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 64216,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98056953029239,
+        39.774568749705104
+      ]
+    },
+    "properties": {
+      "objectid": 64216,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768865220000,
+      "etr": 1768876200000,
+      "ticket": "19233333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4833237.097900003,-11686383.5433",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2332826C-3B5F-4BDE-A142-8BFEB3515651}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1768894267000,
     "status": "resolved"
   }
 ]
