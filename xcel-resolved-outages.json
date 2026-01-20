@@ -5073,5 +5073,40 @@
     },
     "resolvedAt": 1768909589000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 64234,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.06532649009782,
+        39.287658000308177
+      ]
+    },
+    "properties": {
+      "objectid": 64234,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 14,
+      "off_": 1768882740000,
+      "etr": 1768895100000,
+      "ticket": "20044133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4762960.274899997,-11807138.1357",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C69097BD-A080-43E3-A48C-0E5FDDC551D4}",
+      "county": "PARK",
+      "cause": "Outage",
+      "city": "Alma",
+      "xcelarea": "Alma"
+    },
+    "resolvedAt": 1768913860000,
+    "status": "resolved"
   }
 ]
