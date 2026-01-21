@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 63729,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.28882240013753,
-        39.254070990154048
-      ]
-    },
-    "properties": {
-      "objectid": 63729,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1768771380000,
-      "etr": 1768779900000,
-      "ticket": "18224932",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4758130.681000002,-11832017.5866",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{A6B4873E-64B8-42AB-90D0-4F2FA905B188}",
-      "county": "LAKE",
-      "cause": "Outage",
-      "city": "Leadville",
-      "xcelarea": "Leadville"
-    },
-    "resolvedAt": 1768805022000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 63742,
     "geometry": {
       "type": "Point",
@@ -9136,6 +9101,41 @@
   },
   {
     "type": "Feature",
+    "id": 64778,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.05584996992617,
+        39.387374689786519
+      ]
+    },
+    "properties": {
+      "objectid": 64778,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 28,
+      "off_": 1768927800000,
+      "etr": 1768961700000,
+      "ticket": "20233732",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4777312.551899999,-11806083.2143",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{7FA9743E-8E84-4F7F-A483-D4D1132B1C47}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Blue River,  Breckenridge",
+      "xcelarea": "Blue River,  Breckenridge"
+    },
+    "resolvedAt": 1768980718000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 64793,
     "geometry": {
       "type": "Point",
@@ -9377,6 +9377,111 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1768977692000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 64949,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.06497399022159,
+        39.899951059671018
+      ]
+    },
+    "properties": {
+      "objectid": 64949,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 43,
+      "off_": 1768946580000,
+      "etr": 1768956300000,
+      "ticket": "20233732",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851414.073700003,-11695779.4048",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{232C85C4-D235-42EA-B630-E8595EF1CA8E}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1768980718000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 64951,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.06639849009012,
+        39.900035380005598
+      ]
+    },
+    "properties": {
+      "objectid": 64951,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1768946580000,
+      "etr": 1768956300000,
+      "ticket": "20233732",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851426.309,-11695937.9794",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6D8DB7DC-A14F-4BA3-A455-E06FE14FEB4C}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1768980718000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 64957,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.04529247008179,
+        39.909775139655949
+      ]
+    },
+    "properties": {
+      "objectid": 64957,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1768951740000,
+      "etr": 1768959900000,
+      "ticket": "20233732",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4852839.697899997,-11693588.468",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{96DF219D-AD21-477A-A54B-9C87DB077524}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1768980718000,
     "status": "resolved"
   }
 ]
