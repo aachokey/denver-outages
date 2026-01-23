@@ -7418,5 +7418,40 @@
     },
     "resolvedAt": 1769183566000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66194,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.25904257018051,
+        40.042388839756583
+      ]
+    },
+    "properties": {
+      "objectid": 66194,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769157000000,
+      "etr": 1769167800000,
+      "ticket": "23084533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4872104.023500003,-11717383.0203",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C358BCDB-D352-4E74-88B1-30EBC12F2E5E}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1769186110000,
+    "status": "resolved"
   }
 ]
