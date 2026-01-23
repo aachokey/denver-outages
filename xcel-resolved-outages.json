@@ -6753,5 +6753,110 @@
     },
     "resolvedAt": 1769200206000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66362,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.21812475982229,
+        40.611141810037992
+      ]
+    },
+    "properties": {
+      "objectid": 66362,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1769173860000,
+      "etr": 1769178600000,
+      "ticket": "23134533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4955153.263700001,-11490189.0889",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3C81C64C-0C94-4B9F-A243-9AF120647578}",
+      "county": "LOGAN",
+      "cause": "Outage",
+      "city": "Sterling",
+      "xcelarea": "Sterling"
+    },
+    "resolvedAt": 1769203511000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66372,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.16711912957653,
+        39.734015649950628
+      ]
+    },
+    "properties": {
+      "objectid": 66372,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769175360000,
+      "etr": 1769186700000,
+      "ticket": "23134533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827365.1074,-11707150.1497",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{66691E34-78D9-4159-8B90-1B3945099697}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1769203511000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66377,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08911264986557,
+        39.815375549901255
+      ]
+    },
+    "properties": {
+      "objectid": 66377,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769175660000,
+      "etr": 1769186700000,
+      "ticket": "23134533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839149.316799998,-11698466.5081",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8C0964C9-65FF-4456-810B-01E17682F368}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1769203511000,
+    "status": "resolved"
   }
 ]
