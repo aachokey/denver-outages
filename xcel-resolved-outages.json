@@ -7316,6 +7316,41 @@
   },
   {
     "type": "Feature",
+    "id": 66020,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.09352133969364,
+        37.661433169937638
+      ]
+    },
+    "properties": {
+      "objectid": 66020,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 76,
+      "off_": 1769117640000,
+      "etr": null,
+      "ticket": "23004133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4531707.463500001,-11810276.772",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2558E98B-0591-4694-AE98-75A9A11EAE10}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1769157292000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 66029,
     "geometry": {
       "type": "Point",
