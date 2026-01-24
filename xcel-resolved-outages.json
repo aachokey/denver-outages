@@ -6333,5 +6333,110 @@
     },
     "resolvedAt": 1769250292000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66811,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.14240338955952,
+        37.586868329827531
+      ]
+    },
+    "properties": {
+      "objectid": 66811,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1769228400000,
+      "etr": 1769239800000,
+      "ticket": "24043333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4521227.435900003,-11815718.2969",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F7FAC629-99DA-42C8-908C-D6B42408D08E}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1769258892000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66812,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82980443982709,
+        39.597458080069934
+      ]
+    },
+    "properties": {
+      "objectid": 66812,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769228760000,
+      "etr": 1769239800000,
+      "ticket": "24043333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807617.257399999,-11669600.450199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2C442006-43CD-4664-BDCE-392E7F417AAB}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1769258892000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 66813,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.27103120029811,
+        40.004580749730515
+      ]
+    },
+    "properties": {
+      "objectid": 66813,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769228940000,
+      "etr": 1769239800000,
+      "ticket": "24043333",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866607.9639,-11718717.5885",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1DA1B9D0-2F30-4594-AE8F-5DB8AB2FBB82}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1769258892000,
+    "status": "resolved"
   }
 ]
