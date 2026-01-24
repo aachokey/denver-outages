@@ -6196,6 +6196,41 @@
   },
   {
     "type": "Feature",
+    "id": 66729,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82864070022428,
+        39.59524348976128
+      ]
+    },
+    "properties": {
+      "objectid": 66729,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 61,
+      "off_": 1769220000000,
+      "etr": 1769228100000,
+      "ticket": "24034133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807297.322499998,-11669470.9033",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{21C54E36-B1E6-480D-9F12-91A5BD12F6BE}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1769253619000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 66730,
     "geometry": {
       "type": "Point",
