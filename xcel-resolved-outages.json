@@ -176,41 +176,6 @@
   },
   {
     "type": "Feature",
-    "id": 66259,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.00721331997256,
-        39.855120500057687
-      ]
-    },
-    "properties": {
-      "objectid": 66259,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 2,
-      "off_": 1769163000000,
-      "etr": 1769169600000,
-      "ticket": "23102133",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4844911.066799998,-11689349.5164",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{403FC5FD-E889-4CA4-A203-8B19DCF4FF35}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Federal Heights",
-      "xcelarea": "Federal Heights"
-    },
-    "resolvedAt": 1769190532000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 66271,
     "geometry": {
       "type": "Point",
@@ -242,41 +207,6 @@
       "xcelarea": "Alma"
     },
     "resolvedAt": 1769200206000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 66272,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.13511380980179,
-        39.79109693982069
-      ]
-    },
-    "properties": {
-      "objectid": 66272,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769163420000,
-      "etr": 1769174100000,
-      "ticket": "23102133",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4835631.332000002,-11703587.3338",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2EC2B32F-4D89-4BCE-910C-22743EECB819}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Wheat Ridge",
-      "xcelarea": "Wheat Ridge"
-    },
-    "resolvedAt": 1769190532000,
     "status": "resolved"
   },
   {
@@ -5706,6 +5636,76 @@
   },
   {
     "type": "Feature",
+    "id": 67490,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01860771003814,
+        39.817276200339748
+      ]
+    },
+    "properties": {
+      "objectid": 67490,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1769334300000,
+      "etr": 1769340600000,
+      "ticket": "25103733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839424.774599999,-11690617.9341",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{54CD466A-4F0F-4C14-A257-72CF90383B1F}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1769366066000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 67492,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83873061971632,
+        39.702985250167131
+      ]
+    },
+    "properties": {
+      "objectid": 67492,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 14,
+      "off_": 1769334840000,
+      "etr": 1769342400000,
+      "ticket": "25103733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822874.313500002,-11670594.108",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{933E96B6-73E0-4B86-8160-F0ECBD85E74D}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1769366066000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 67497,
     "geometry": {
       "type": "Point",
@@ -5737,6 +5737,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1769362992000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 67505,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.29940537967578,
+        39.656694910249676
+      ]
+    },
+    "properties": {
+      "objectid": 67505,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769337000000,
+      "etr": 1769347800000,
+      "ticket": "25103733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816178.815899998,-11721876.1877",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2082697D-71A3-4F61-9FDB-4425E165A1C0}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Kittredge",
+      "xcelarea": "Kittredge"
+    },
+    "resolvedAt": 1769366066000,
     "status": "resolved"
   }
 ]
