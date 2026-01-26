@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 67011,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.8761823199558,
-        39.724727069885255
-      ]
-    },
-    "properties": {
-      "objectid": 67011,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769256720000,
-      "etr": 1769267700000,
-      "ticket": "24121333",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826020.629900001,-11674763.2122",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{24A2D62B-60CD-44DF-9F76-424F16F4953C}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1769283539000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 67041,
     "geometry": {
       "type": "Point",
@@ -6476,6 +6441,41 @@
   },
   {
     "type": "Feature",
+    "id": 68156,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.26752226042409,
+        39.976400529772775
+      ]
+    },
+    "properties": {
+      "objectid": 68156,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3345,
+      "off_": 1769422800000,
+      "etr": 1769427000000,
+      "ticket": "26122133",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4862513.461199999,-11718326.9751",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B62CA78E-FFAE-4426-A019-6D8445E97661}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1769456740000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 68158,
     "geometry": {
       "type": "Point",
@@ -7067,6 +7067,111 @@
       "xcelarea": "Arvada"
     },
     "resolvedAt": 1769455582000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68254,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98016190985075,
+        39.729545889773433
+      ]
+    },
+    "properties": {
+      "objectid": 68254,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769428320000,
+      "etr": 1769438700000,
+      "ticket": "26122133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826718.108400002,-11686338.1672",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{177C81C9-BA58-434E-ADA9-C57F6DE08C10}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1769456740000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68258,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.72702333008193,
+        40.517924749810916
+      ]
+    },
+    "properties": {
+      "objectid": 68258,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769428740000,
+      "etr": 1769433300000,
+      "ticket": "26122133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4941493.616899997,-11658158.909400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A64C98F8-CBF1-4662-B297-BECDECDFD378}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton",
+      "xcelarea": "Eaton"
+    },
+    "resolvedAt": 1769456740000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68259,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.71070552996393,
+        39.687766110299947
+      ]
+    },
+    "properties": {
+      "objectid": 68259,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769428740000,
+      "etr": 1769439600000,
+      "ticket": "26122133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4820672.501199998,-11656342.4202",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A777ABF2-89DF-46A2-AABF-D361122A5DCC}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1769456740000,
     "status": "resolved"
   }
 ]
