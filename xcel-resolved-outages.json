@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 67421,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98414008022186,
-        39.725547320095679
-      ]
-    },
-    "properties": {
-      "objectid": 67421,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769308320000,
-      "etr": 1769317200000,
-      "ticket": "25024133",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826139.3499,-11686781.0151",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{355F1890-B5A6-4831-8AE0-5AF9A5083052}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1769336753000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 67425,
     "geometry": {
       "type": "Point",
@@ -6857,6 +6822,41 @@
       "xcelarea": "Lone Tree"
     },
     "resolvedAt": 1769506590000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68578,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.84451684003956,
+        39.798055639686496
+      ]
+    },
+    "properties": {
+      "objectid": 68578,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4246,
+      "off_": 1769479260000,
+      "etr": 1769490000000,
+      "ticket": "27022933",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836639.524700001,-11671238.2271",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3319CA0A-7FF2-4650-B4AA-851DD9B55116}",
+      "county": "DENVER, ADAMS, ARAPAHOE",
+      "cause": "Outage",
+      "city": "Denver,  Englewood",
+      "xcelarea": "Denver,  Englewood"
+    },
+    "resolvedAt": 1769509923000,
     "status": "resolved"
   }
 ]
