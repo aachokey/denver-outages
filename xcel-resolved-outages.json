@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 67394,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92775056967643,
-        39.706435170258032
-      ]
-    },
-    "properties": {
-      "objectid": 67394,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1769295480000,
-      "etr": 1769303700000,
-      "ticket": "25001732",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4823373.494400002,-11680503.763500001",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{767C836D-6601-4E2D-96B3-AABFCC15A7D0}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Glendale",
-      "xcelarea": "Glendale"
-    },
-    "resolvedAt": 1769326939000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 67421,
     "geometry": {
       "type": "Point",
@@ -3952,6 +3917,41 @@
       "xcelarea": "Grand Junction"
     },
     "resolvedAt": 1769455582000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68192,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19003919040162,
+        39.863087020025091
+      ]
+    },
+    "properties": {
+      "objectid": 68192,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1769424900000,
+      "etr": 1769435100000,
+      "ticket": "27002533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846066.359399997,-11709701.5992",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D49369BA-201E-4A08-A402-AED5BF790C58}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1769503030000,
     "status": "resolved"
   },
   {
