@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 67393,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.12198243999781,
-        39.740138110335195
-      ]
-    },
-    "properties": {
-      "objectid": 67393,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1769295360000,
-      "etr": 1769308200000,
-      "ticket": "25012533",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828251.403300002,-11702125.556400001",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{5AB1E07D-2857-46B6-AC86-302072B23C14}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1769333129000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 67421,
     "geometry": {
       "type": "Point",
@@ -6857,6 +6822,41 @@
       "xcelarea": "Golden"
     },
     "resolvedAt": 1769499062000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68566,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87583260042581,
+        39.54198572024621
+      ]
+    },
+    "properties": {
+      "objectid": 68566,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1769472180000,
+      "etr": 1769482800000,
+      "ticket": "27012932",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4799606.417999998,-11674724.2816",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{64DA688E-6F83-417F-BE14-F518B0B4DDD8}",
+      "county": "DOUGLAS",
+      "cause": "Outage",
+      "city": "Lone Tree",
+      "xcelarea": "Lone Tree"
+    },
+    "resolvedAt": 1769506590000,
     "status": "resolved"
   }
 ]
