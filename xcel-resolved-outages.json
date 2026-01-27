@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 67468,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92775056967643,
-        39.706435170258032
-      ]
-    },
-    "properties": {
-      "objectid": 67468,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1769328660000,
-      "etr": 1769333400000,
-      "ticket": "25083733",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4823373.494400002,-11680503.763500001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{27089AF3-FAAA-4200-8B91-5F57F3A71D2A}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Glendale",
-      "xcelarea": "Glendale"
-    },
-    "resolvedAt": 1769358590000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 67481,
     "geometry": {
       "type": "Point",
@@ -7036,6 +7001,41 @@
   },
   {
     "type": "Feature",
+    "id": 68626,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87710047004138,
+        39.553349799752773
+      ]
+    },
+    "properties": {
+      "objectid": 68626,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1769497560000,
+      "etr": 1769506200000,
+      "ticket": "27082933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4801246.998400003,-11674865.4202",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{808BA8B3-1296-4012-AE94-791E00B60356}",
+      "county": "DOUGLAS",
+      "cause": "Outage",
+      "city": "Lone Tree",
+      "xcelarea": "Lone Tree"
+    },
+    "resolvedAt": 1769531666000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 68627,
     "geometry": {
       "type": "Point",
@@ -7102,6 +7102,111 @@
       "xcelarea": "Northglenn"
     },
     "resolvedAt": 1769528053000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68637,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.50941518957883,
+        39.960206139735355
+      ]
+    },
+    "properties": {
+      "objectid": 68637,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1769499060000,
+      "etr": 1769507100000,
+      "ticket": "27082933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4860161.228100002,-11745254.3728",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0BC3B72D-0C9F-4CD2-9C28-7F04133CE08B}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Nederland",
+      "xcelarea": "Nederland"
+    },
+    "resolvedAt": 1769531666000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68650,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.77666073015106,
+        40.410508439978926
+      ]
+    },
+    "properties": {
+      "objectid": 68650,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769501580000,
+      "etr": 1769506200000,
+      "ticket": "27082933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4925776.800800003,-11663684.5195",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AA74997B-9731-4E1D-8A80-040D5BB24BA5}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1769531666000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68656,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.44407503999686,
+        39.093763160158872
+      ]
+    },
+    "properties": {
+      "objectid": 68656,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769502060000,
+      "etr": 1769513400000,
+      "ticket": "27082933",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4735111.253799997,-12071939.213",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E51E6029-EDAB-4407-A45E-D77AC62531E9}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Clifton",
+      "xcelarea": "Clifton"
+    },
+    "resolvedAt": 1769531666000,
     "status": "resolved"
   }
 ]
