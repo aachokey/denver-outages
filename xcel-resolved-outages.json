@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 67272,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92986235978907,
-        39.902342820241543
-      ]
-    },
-    "properties": {
-      "objectid": 67272,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1769277060000,
-      "etr": 1769297400000,
-      "ticket": "24205732",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4851761.135899998,-11680738.846900001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{229E93CA-3E0A-4948-8E15-FB7BC1646652}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1769317471000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 67366,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.06552649005394,
-        40.042347590175567
-      ]
-    },
-    "properties": {
-      "objectid": 67366,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769286960000,
-      "etr": 1769297400000,
-      "ticket": "24205732",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4872098.0254999995,-11695840.9088",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2FE6370C-AAB4-41CD-829D-DAEC04F8458C}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Erie",
-      "xcelarea": "Erie"
-    },
-    "resolvedAt": 1769317471000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 67384,
     "geometry": {
       "type": "Point",
@@ -6717,6 +6647,41 @@
       "xcelarea": "Commerce City"
     },
     "resolvedAt": 1769486250000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 68533,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.20653595019556,
+        39.722548919672811
+      ]
+    },
+    "properties": {
+      "objectid": 68533,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 9,
+      "off_": 1769460600000,
+      "etr": 1769467500000,
+      "ticket": "26214533",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825705.379299998,-11711538.0101",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{41BC6355-FD29-4424-868B-1128630D4EF1}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1769491816000,
     "status": "resolved"
   }
 ]
