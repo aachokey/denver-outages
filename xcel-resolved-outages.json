@@ -7841,6 +7841,41 @@
   },
   {
     "type": "Feature",
+    "id": 69665,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98704021026828,
+        39.746591430055837
+      ]
+    },
+    "properties": {
+      "objectid": 69665,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1769657700000,
+      "etr": null,
+      "ticket": "29055733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829185.680100001,-11687103.8561",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BAEA1FB7-336B-465F-88C1-F1E23E046BFE}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1769695838000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 69672,
     "geometry": {
       "type": "Point",
@@ -7872,6 +7907,41 @@
       "xcelarea": "Aurora,  Watkins"
     },
     "resolvedAt": 1769687623000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 69683,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97295120043877,
+        39.731899430289772
+      ]
+    },
+    "properties": {
+      "objectid": 69683,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769666100000,
+      "etr": 1769677200000,
+      "ticket": "29055733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827058.778800003,-11685535.4747",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{469ECBE5-E6F5-4251-9714-C35C49CD430D}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1769695838000,
     "status": "resolved"
   }
 ]
