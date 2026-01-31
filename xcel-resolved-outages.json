@@ -6893,5 +6893,40 @@
     },
     "resolvedAt": 1769874516000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 70596,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95994361039608,
+        39.65638095014171
+      ]
+    },
+    "properties": {
+      "objectid": 70596,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769848260000,
+      "etr": 1769859900000,
+      "ticket": "31084133",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816133.4196000025,-11684087.4764",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{06A45B13-5FC0-4A1C-A53E-E74472EC0104}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1769877220000,
+    "status": "resolved"
   }
 ]
