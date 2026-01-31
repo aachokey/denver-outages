@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 69632,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.93970490031985,
-        39.879730420274242
-      ]
-    },
-    "properties": {
-      "objectid": 69632,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1769637540000,
-      "etr": 1769647500000,
-      "ticket": "28230132",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4848480.3928999975,-11681834.513500001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{318AEF3D-1595-481D-8394-62E31976BD14}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1769671489000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 69647,
     "geometry": {
       "type": "Point",
@@ -6227,6 +6192,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1769832925000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 70519,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83763024996861,
+        39.678010110156592
+      ]
+    },
+    "properties": {
+      "objectid": 70519,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 46,
+      "off_": 1769796000000,
+      "etr": 1769821200000,
+      "ticket": "30235733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819261.317900002,-11670471.6154",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E9A98EB7-6392-44B5-B8DB-17A60B3F9864}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1769845733000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 70522,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83782037031365,
+        39.67728346982117
+      ]
+    },
+    "properties": {
+      "objectid": 70522,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1769807700000,
+      "etr": 1769818500000,
+      "ticket": "30235733",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819156.218999997,-11670492.7795",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{84329E08-6DE2-49F5-B01A-3F93A7F689CE}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1769845733000,
     "status": "resolved"
   },
   {
