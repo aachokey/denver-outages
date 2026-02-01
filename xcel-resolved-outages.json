@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 70172,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.96263102028151,
-        39.593760350138638
-      ]
-    },
-    "properties": {
-      "objectid": 70172,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 4,
-      "off_": 1769753280000,
-      "etr": null,
-      "ticket": "30070133",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4807083.063699998,-11684386.6375",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6176E53C-8651-47C6-BBA3-09C602B20285}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Centennial",
-      "xcelarea": "Centennial"
-    },
-    "resolvedAt": 1769785390000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 70184,
     "geometry": {
       "type": "Point",
@@ -5667,6 +5632,41 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1769953700000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 70866,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0876861602287,
+        39.925284849685717
+      ]
+    },
+    "properties": {
+      "objectid": 70866,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 51,
+      "off_": 1769931720000,
+      "etr": 1769939100000,
+      "ticket": "1074915",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4855090.810199998,-11698307.712000001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{91F3AACC-63BB-45BA-ADBC-B7AD40D1A8D0}",
+      "county": "BROOMFIELD",
+      "cause": "Outage",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1769959723000,
     "status": "resolved"
   }
 ]
