@@ -5493,5 +5493,40 @@
     },
     "resolvedAt": 1769968369000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 70897,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01987300957373,
+        39.868795349880941
+      ]
+    },
+    "properties": {
+      "objectid": 70897,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1769942580000,
+      "etr": 1769953500000,
+      "ticket": "1104515",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846894.255199999,-11690758.786600001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{24FD12AA-27F1-4CFE-95DE-B95FDA33ABDA}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Federal Heights",
+      "xcelarea": "Federal Heights"
+    },
+    "resolvedAt": 1769971177000,
+    "status": "resolved"
   }
 ]
