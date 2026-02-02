@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 70541,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.6748036903892,
-        40.348422490174912
-      ]
-    },
-    "properties": {
-      "objectid": 70541,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769828580000,
-      "etr": 1769836500000,
-      "ticket": "31034532",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4916704.020000003,-11652345.8457",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{51B362F6-2BB8-4DF3-9858-35A2F9020953}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1769858631000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 70542,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.31377837032277,
-        37.184214959972344
-      ]
-    },
-    "properties": {
-      "objectid": 70542,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769830680000,
-      "etr": 1769841900000,
-      "ticket": "31034532",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4464815.177000001,-11723476.181699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{081DD24D-5E59-492C-9C69-ADEE1DE53402}",
-      "county": "COSTILLA",
-      "cause": "Outage",
-      "city": "Chama",
-      "xcelarea": "Chama"
-    },
-    "resolvedAt": 1769858631000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 70545,
     "geometry": {
       "type": "Point",
@@ -4757,6 +4687,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1770029459000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 77450,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98378350025803,
+        39.750628660280803
+      ]
+    },
+    "properties": {
+      "objectid": 77450,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 23,
+      "off_": 1770001020000,
+      "etr": 1770011100000,
+      "ticket": "2034535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829770.2129999995,-11686741.320799999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6CE07125-57A4-4B4D-91B8-BABE14199BB7}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1770032247000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 77451,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95357733980906,
+        39.721325879667646
+      ]
+    },
+    "properties": {
+      "objectid": 77451,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770001740000,
+      "etr": 1770010200000,
+      "ticket": "2034535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825528.369199999,-11683378.7864",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D2E80C95-2EAC-4FCA-958B-DF96C60AC2D6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1770032247000,
     "status": "resolved"
   }
 ]
