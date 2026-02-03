@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 70835,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.07881592022881,
-        39.864674039706117
-      ]
-    },
-    "properties": {
-      "objectid": 70835,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769913720000,
-      "etr": 1769922900000,
-      "ticket": "1034916",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4846296.522600003,-11697320.281399999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4CA88905-795E-45C8-AB02-8995D2B36210}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1769945148000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 70837,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9988326600059,
-        39.722770849822531
-      ]
-    },
-    "properties": {
-      "objectid": 70837,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769915580000,
-      "etr": 1769924700000,
-      "ticket": "1034916",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825737.499499999,-11688416.5856",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7BE3944E-4159-40F7-B6E2-363E214BD0AD}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1769945148000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 70838,
     "geometry": {
       "type": "Point",
@@ -137,76 +67,6 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1769999553000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 70839,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.57877639007623,
-        39.09493806997579
-      ]
-    },
-    "properties": {
-      "objectid": 70839,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769917080000,
-      "etr": 1769926500000,
-      "ticket": "1034916",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4735279.7744999975,-12086934.0987",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CBD2CD1C-AA77-4217-BE53-460246FAB6ED}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1769945148000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 70840,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.4876690698062,
-        39.073006240287221
-      ]
-    },
-    "properties": {
-      "objectid": 70840,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1769917380000,
-      "etr": 1769926500000,
-      "ticket": "1034916",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4732134.491800003,-12076792.078200001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{497BB3BE-D813-4548-B287-6F8715BD7C03}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1769945148000,
     "status": "resolved"
   },
   {
@@ -4726,6 +4586,41 @@
   },
   {
     "type": "Feature",
+    "id": 77992,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94746556014539,
+        40.518889129897673
+      ]
+    },
+    "properties": {
+      "objectid": 77992,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1770054900000,
+      "etr": 1770078600000,
+      "ticket": "3033736",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4941634.835900001,-11682698.426199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7512CF17-D64B-41D4-BA32-B18A69433B6C}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Timnath",
+      "xcelarea": "Timnath"
+    },
+    "resolvedAt": 1770118610000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 77995,
     "geometry": {
       "type": "Point",
@@ -5002,6 +4897,41 @@
       "xcelarea": "Northglenn"
     },
     "resolvedAt": 1770115454000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 78020,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.71554361982729,
+        40.524417650274657
+      ]
+    },
+    "properties": {
+      "objectid": 78020,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770088380000,
+      "etr": 1770095700000,
+      "ticket": "3033736",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4942444.443999998,-11656880.993900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{214044DE-C37D-49E3-B0AA-A26E67F23B6A}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton",
+      "xcelarea": "Eaton"
+    },
+    "resolvedAt": 1770118610000,
     "status": "resolved"
   }
 ]
