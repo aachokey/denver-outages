@@ -4933,5 +4933,40 @@
     },
     "resolvedAt": 1770108113000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 78008,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97970174964311,
+        39.911488570161872
+      ]
+    },
+    "properties": {
+      "objectid": 78008,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770082080000,
+      "etr": 1770093000000,
+      "ticket": "3013736",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4853088.363799997,-11686286.942400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{495EDEE2-F56F-43BE-AE44-B5F671C17DA5}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "resolvedAt": 1770112043000,
+    "status": "resolved"
   }
 ]
