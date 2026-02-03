@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 70844,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.75962121005909,
-        40.406760769673895
-      ]
-    },
-    "properties": {
-      "objectid": 70844,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 126,
-      "off_": 1769920500000,
-      "etr": 1769931000000,
-      "ticket": "1064115",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4925228.906800002,-11661787.6888",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{B84764AF-CB57-47E5-AB19-E748A0FFB1FA}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1769956176000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 70862,
     "geometry": {
       "type": "Point",
@@ -4761,6 +4726,41 @@
   },
   {
     "type": "Feature",
+    "id": 78013,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.66523169002222,
+        40.609662969950527
+      ]
+    },
+    "properties": {
+      "objectid": 78013,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 109,
+      "off_": 1770086160000,
+      "etr": 1770112800000,
+      "ticket": "3071735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4954936.411899999,-11539960.8047",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0EC78CD5-80E3-4E19-A18F-97651E359250}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Stoneham,  New Raymer,  Fort Morgan",
+      "xcelarea": "Stoneham,  New Raymer,  Fort Morgan"
+    },
+    "resolvedAt": 1770131480000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 78014,
     "geometry": {
       "type": "Point",
@@ -4897,6 +4897,41 @@
       "xcelarea": "Henderson,  Commerce City"
     },
     "resolvedAt": 1770128739000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 78055,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.78724209008728,
+        40.452122989844206
+      ]
+    },
+    "properties": {
+      "objectid": 78055,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 308,
+      "off_": 1770102840000,
+      "etr": 1770113700000,
+      "ticket": "3071735",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4931862.728799999,-11664862.4311",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4D0DCF98-75A2-4C8F-9960-EC38750ADA43}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton,  Greeley",
+      "xcelarea": "Eaton,  Greeley"
+    },
+    "resolvedAt": 1770131480000,
     "status": "resolved"
   }
 ]
