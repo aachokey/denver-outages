@@ -4341,6 +4341,76 @@
   },
   {
     "type": "Feature",
+    "id": 77925,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95014395004706,
+        40.516612029752423
+      ]
+    },
+    "properties": {
+      "objectid": 77925,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 31,
+      "off_": 1770054900000,
+      "etr": 1770076800000,
+      "ticket": "2222936",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4941301.391999997,-11682996.5832",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{91EE18FA-74A8-41F3-BF11-1825E817DDAA}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Timnath",
+      "xcelarea": "Timnath"
+    },
+    "resolvedAt": 1770101805000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 77944,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88371315030749,
+        39.863682780034431
+      ]
+    },
+    "properties": {
+      "objectid": 77944,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1770054420000,
+      "etr": 1770074100000,
+      "ticket": "2222936",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846152.761,-11675601.5404",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D7FC0E86-C405-4653-AE95-9F65D6B20ECE}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Henderson,  Commerce City",
+      "xcelarea": "Henderson,  Commerce City"
+    },
+    "resolvedAt": 1770101805000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 77953,
     "geometry": {
       "type": "Point",
@@ -4446,6 +4516,41 @@
   },
   {
     "type": "Feature",
+    "id": 77963,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.8954696997731,
+        39.858170029672323
+      ]
+    },
+    "properties": {
+      "objectid": 77963,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1770062760000,
+      "etr": 1770073200000,
+      "ticket": "2222936",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4845353.289099999,-11676910.2735",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4F188436-7F77-4B01-A9CD-2595B82C7D5A}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Henderson",
+      "xcelarea": "Henderson"
+    },
+    "resolvedAt": 1770101805000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 77977,
     "geometry": {
       "type": "Point",
@@ -4547,6 +4652,41 @@
       "xcelarea": "Wellington"
     },
     "resolvedAt": 1770096957000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 77982,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10798173995062,
+        39.785706290291863
+      ]
+    },
+    "properties": {
+      "objectid": 77982,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1770067860000,
+      "etr": null,
+      "ticket": "2222936",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4834850.392200001,-11700567.0056",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8AB7466D-20B2-4B9F-B87A-9B17D111B597}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Wheat Ridge",
+      "xcelarea": "Wheat Ridge"
+    },
+    "resolvedAt": 1770101805000,
     "status": "resolved"
   }
 ]
