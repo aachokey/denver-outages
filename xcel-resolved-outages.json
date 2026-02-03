@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 70849,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.12384159959799,
-        39.56644074997692
-      ]
-    },
-    "properties": {
-      "objectid": 70849,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 6,
-      "off_": 1769924280000,
-      "etr": 1769935500000,
-      "ticket": "1055315",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4803137.212399997,-11702332.517099999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{9C8393E9-44D8-43EC-85EB-87A13BC911CB}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1769953700000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 70862,
     "geometry": {
       "type": "Point",
@@ -4897,6 +4862,41 @@
       "xcelarea": "Eaton"
     },
     "resolvedAt": 1770118610000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 78031,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88368143977796,
+        39.860134839967536
+      ]
+    },
+    "properties": {
+      "objectid": 78031,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 13,
+      "off_": 1770093840000,
+      "etr": 1770102900000,
+      "ticket": "3060535",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4845638.223099999,-11675598.010400001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{29C1E73E-94AE-470E-A565-394880825593}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Henderson,  Commerce City",
+      "xcelarea": "Henderson,  Commerce City"
+    },
+    "resolvedAt": 1770128739000,
     "status": "resolved"
   }
 ]
