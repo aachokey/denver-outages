@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 78005,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.6748036903892,
-        40.348422490174912
-      ]
-    },
-    "properties": {
-      "objectid": 78005,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1770078960000,
-      "etr": 1770090300000,
-      "ticket": "3004135",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4916704.020000003,-11652345.8457",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{57C45C17-8647-4F90-8D8B-874637B3CBB7}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1770108113000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 78008,
     "geometry": {
       "type": "Point",
@@ -9657,6 +9622,76 @@
       "xcelarea": "Arvada"
     },
     "resolvedAt": 1770278586000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 79148,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.73241811041842,
+        39.594406500112129
+      ]
+    },
+    "properties": {
+      "objectid": 79148,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1770250980000,
+      "etr": 1770258600000,
+      "ticket": "5005736",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807176.407899998,-11658759.4536",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BB3042A3-E22B-4A4A-8BB7-E3AA07A0B489}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1770282622000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 79149,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91852606017964,
+        39.806061529982664
+      ]
+    },
+    "properties": {
+      "objectid": 79149,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770252420000,
+      "etr": 1770260400000,
+      "ticket": "5005736",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837799.563000001,-11679476.8958",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F082F427-7F8C-49F0-8127-654AAA3897D3}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1770282622000,
     "status": "resolved"
   }
 ]
