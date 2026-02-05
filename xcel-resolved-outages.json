@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 78031,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.88368143977796,
-        39.860134839967536
-      ]
-    },
-    "properties": {
-      "objectid": 78031,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 13,
-      "off_": 1770093840000,
-      "etr": 1770102900000,
-      "ticket": "3060535",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4845638.223099999,-11675598.010400001",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{29C1E73E-94AE-470E-A565-394880825593}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Henderson,  Commerce City",
-      "xcelarea": "Henderson,  Commerce City"
-    },
-    "resolvedAt": 1770128739000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 78040,
     "geometry": {
       "type": "Point",
@@ -9552,6 +9517,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1770297725000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 79178,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07457347987418,
+        39.744250270214543
+      ]
+    },
+    "properties": {
+      "objectid": 79178,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770271980000,
+      "etr": 1770282900000,
+      "ticket": "5061735",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828846.729500003,-11696848.0151",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{51B6669F-5E57-4755-A854-5D072A65E7AC}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1770301594000,
     "status": "resolved"
   }
 ]
