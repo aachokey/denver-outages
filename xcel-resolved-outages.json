@@ -5881,6 +5881,41 @@
   },
   {
     "type": "Feature",
+    "id": 80004,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08816517966741,
+        39.867702740290888
+      ]
+    },
+    "properties": {
+      "objectid": 80004,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1770399720000,
+      "etr": 1770411600000,
+      "ticket": "7000316",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846735.785499997,-11698361.0362",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C40BD7B4-F778-41FC-B1E9-96A4CB236143}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1770450756000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 80009,
     "geometry": {
       "type": "Point",
