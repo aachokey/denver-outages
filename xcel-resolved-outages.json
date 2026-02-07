@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 79154,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.03985195040725,
-        39.463347509703674
-      ]
-    },
-    "properties": {
-      "objectid": 79154,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 4,
-      "off_": 1770255120000,
-      "etr": 1770284700000,
-      "ticket": "5040536",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4788261.130099997,-12026941.304499999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2D70F33F-A852-4618-9737-A21429CFC47D}",
-      "county": "GARFIELD",
-      "cause": "Outage",
-      "city": "Parachute",
-      "xcelarea": "Parachute"
-    },
-    "resolvedAt": 1770292629000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 79171,
     "geometry": {
       "type": "Point",
@@ -6157,6 +6122,41 @@
       "xcelarea": "New Castle"
     },
     "resolvedAt": 1770460192000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 80066,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86041390970266,
+        39.791988960213388
+      ]
+    },
+    "properties": {
+      "objectid": 80066,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1770430080000,
+      "etr": null,
+      "ticket": "7043916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835760.564300001,-11673007.880800001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A6BDA18C-A6BA-4BD6-B759-07BCCA0870DA}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1770468972000,
     "status": "resolved"
   },
   {
