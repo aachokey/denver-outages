@@ -5146,6 +5146,41 @@
   },
   {
     "type": "Feature",
+    "id": 80195,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13209627982924,
+        40.606923659981931
+      ]
+    },
+    "properties": {
+      "objectid": 80195,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1770464460000,
+      "etr": 1770480000000,
+      "ticket": "7145116",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4954534.741999999,-11703251.4239",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FF0D6A99-54F4-4A47-9DA8-303BC5747E9A}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Fort Collins",
+      "xcelarea": "Fort Collins"
+    },
+    "resolvedAt": 1770503385000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 80198,
     "geometry": {
       "type": "Point",
@@ -5317,6 +5352,41 @@
       "xcelarea": "Monte Vista"
     },
     "resolvedAt": 1770499790000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 80211,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97596231015201,
+        39.559390899782066
+      ]
+    },
+    "properties": {
+      "objectid": 80211,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 85,
+      "off_": 1770466440000,
+      "etr": 1770479100000,
+      "ticket": "7145116",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802119.233900003,-11685870.6699",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{2C042908-DCEF-4BA0-9131-66E025B259CF}",
+      "county": "DOUGLAS",
+      "cause": "Outage",
+      "city": "Littleton,  Highlands Ranch",
+      "xcelarea": "Littleton,  Highlands Ranch"
+    },
+    "resolvedAt": 1770503385000,
     "status": "resolved"
   },
   {
