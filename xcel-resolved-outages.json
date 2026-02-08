@@ -1,111 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 79140,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.28564738016387,
-        40.040988009825774
-      ]
-    },
-    "properties": {
-      "objectid": 79140,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 156,
-      "off_": 1770244920000,
-      "etr": 1770326100000,
-      "ticket": "5212136",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4871900.3342999965,-11720344.654199999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{939C3A13-3D69-405F-9ED9-DBDF6E359B3D}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1770356258000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 79238,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.23247187012679,
-        39.991880210027595
-      ]
-    },
-    "properties": {
-      "objectid": 79238,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 9,
-      "off_": 1770279360000,
-      "etr": 1770312600000,
-      "ticket": "5212136",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4864762.4038999975,-11714425.1835",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4D9FCB79-7998-4573-BC25-D86BD889836C}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1770356258000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 79526,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.05017552960827,
-        39.631591900328608
-      ]
-    },
-    "properties": {
-      "objectid": 79526,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1770300060000,
-      "etr": 1770316200000,
-      "ticket": "5212136",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4812549.757700004,-11694132.047699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{DFAF9075-3F08-4360-B003-E4ECA0D03E20}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Bow Mar",
-      "xcelarea": "Bow Mar"
-    },
-    "resolvedAt": 1770356258000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 79601,
     "geometry": {
       "type": "Point",
@@ -5142,6 +5037,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1770507578000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 80292,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.74276358982898,
+        40.421175400247954
+      ]
+    },
+    "properties": {
+      "objectid": 80292,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770501360000,
+      "etr": 1770512400000,
+      "ticket": "7220316",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4927336.433600001,-11659911.107099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{13A43AD2-1E30-4F3E-B43E-E7509FC93B03}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1770531114000,
     "status": "resolved"
   }
 ]
