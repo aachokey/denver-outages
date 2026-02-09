@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 80004,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.08816517966741,
-        39.867702740290888
-      ]
-    },
-    "properties": {
-      "objectid": 80004,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1770399720000,
-      "etr": 1770411600000,
-      "ticket": "7000316",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4846735.785499997,-11698361.0362",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C40BD7B4-F778-41FC-B1E9-96A4CB236143}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1770450756000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 80044,
     "geometry": {
       "type": "Point",
@@ -102,76 +67,6 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1770460192000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 80053,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.07027820959767,
-        40.450717580035018
-      ]
-    },
-    "properties": {
-      "objectid": 80053,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1770418140000,
-      "etr": 1770425100000,
-      "ticket": "6225916",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4931657.1329,-11696369.867800001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{DAABEC97-EC8C-480A-8453-9C2A611104F6}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Loveland",
-      "xcelarea": "Loveland"
-    },
-    "resolvedAt": 1770448106000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 80054,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9270709896724,
-        39.913472330052954
-      ]
-    },
-    "properties": {
-      "objectid": 80054,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1770418200000,
-      "etr": 1770426900000,
-      "ticket": "6225916",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4853376.269699998,-11680428.113",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{69ED42C8-C1B7-4DDE-BBBE-E00B13F70127}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1770448106000,
     "status": "resolved"
   },
   {
