@@ -3043,5 +3043,40 @@
     },
     "resolvedAt": 1770613403000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 80539,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03698222994858,
+        39.739190480265215
+      ]
+    },
+    "properties": {
+      "objectid": 80539,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1770587700000,
+      "etr": 1770596100000,
+      "ticket": "8230716",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828114.2179000005,-11692663.3763",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{538FC0DB-0D5B-4FD7-AAE4-F795D16BD223}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1770627855000,
+    "status": "resolved"
   }
 ]
