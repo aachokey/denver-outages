@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 80072,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.57877639007623,
-        39.09493806997579
-      ]
-    },
-    "properties": {
-      "objectid": 80072,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1770437700000,
-      "etr": 1770448500000,
-      "ticket": "7042315",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4735279.7744999975,-12086934.0987",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{94E5CD21-AF36-4D94-8851-11A7C1892B7F}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1770464829000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 80087,
     "geometry": {
       "type": "Point",
@@ -2902,6 +2867,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1770633223000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 80549,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0190324999798,
+        39.53805609007896
+      ]
+    },
+    "properties": {
+      "objectid": 80549,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770607320000,
+      "etr": 1770618600000,
+      "ticket": "9032716",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4799039.177699998,-11690665.2215",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F48BB274-ACC1-484E-8923-F3E7570A6B71}",
+      "county": "DOUGLAS",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1770637762000,
     "status": "resolved"
   }
 ]
