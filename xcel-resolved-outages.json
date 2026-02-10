@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 80326,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.87344515957329,
-        39.547279169980456
-      ]
-    },
-    "properties": {
-      "objectid": 80326,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1770533040000,
-      "etr": 1770543900000,
-      "ticket": "8064716",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4800370.575800002,-11674458.5129",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5607617B-A18A-4C9C-9D5D-BE84166590AD}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Lone Tree",
-      "xcelarea": "Lone Tree"
-    },
-    "resolvedAt": 1770561059000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 80331,
     "geometry": {
       "type": "Point",
@@ -4092,6 +4057,76 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1770724354000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81086,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.73447894000329,
+        40.539315740270659
+      ]
+    },
+    "properties": {
+      "objectid": 81086,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 408,
+      "off_": 1770690720000,
+      "etr": 1770699600000,
+      "ticket": "10061516",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4944626.483999997,-11658988.8641",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{C5C8688D-C1C3-4B1C-8AC1-FEC22F2699AC}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton",
+      "xcelarea": "Eaton"
+    },
+    "resolvedAt": 1770734552000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81110,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.5545900100673,
+        39.599805939899433
+      ]
+    },
+    "properties": {
+      "objectid": 81110,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770703320000,
+      "etr": 1770714900000,
+      "ticket": "10061516",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807956.456500001,-11972922.192400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C58D1F4B-7DE0-477A-B3B7-18E1586DDD98}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "New Castle",
+      "xcelarea": "New Castle"
+    },
+    "resolvedAt": 1770734552000,
     "status": "resolved"
   }
 ]
