@@ -4341,6 +4341,41 @@
   },
   {
     "type": "Feature",
+    "id": 81837,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08075974963783,
+        39.695338389698961
+      ]
+    },
+    "properties": {
+      "objectid": 81837,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 16,
+      "off_": 1770808320000,
+      "etr": 1770830100000,
+      "ticket": "11153515",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4821767.951700002,-11697536.6675",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{5CD75E7C-E3AA-4A94-BE11-E549AD13A7C7}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1770852941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 81839,
     "geometry": {
       "type": "Point",
@@ -4932,6 +4967,111 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1770849651000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81964,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83379219971386,
+        39.661385329889455
+      ]
+    },
+    "properties": {
+      "objectid": 81964,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 49,
+      "off_": 1770821040000,
+      "etr": 1770828300000,
+      "ticket": "11153515",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816857.040299997,-11670044.365600001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{14D5F6CC-C8FF-46AD-8F07-FACD844CADB3}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1770852941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81975,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08205944027574,
+        39.768096479717663
+      ]
+    },
+    "properties": {
+      "objectid": 81975,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770823620000,
+      "etr": 1770834600000,
+      "ticket": "11153515",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832299.696999997,-11697681.3484",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C82B06B0-9CDC-4CA7-A2F2-3AAE816F0777}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Wheat Ridge",
+      "xcelarea": "Wheat Ridge"
+    },
+    "resolvedAt": 1770852941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81976,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.14984880983017,
+        39.815406939669685
+      ]
+    },
+    "properties": {
+      "objectid": 81976,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770823980000,
+      "etr": 1770835500000,
+      "ticket": "11153515",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839153.865999997,-11705227.6265",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6A11FB07-F6A9-47E1-81D1-21B2BC5FF78F}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1770852941000,
     "status": "resolved"
   }
 ]
