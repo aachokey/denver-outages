@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 80468,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.78514439004989,
-        39.635942799670445
-      ]
-    },
-    "properties": {
-      "objectid": 80468,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1770563880000,
-      "etr": 1770575400000,
-      "ticket": "8152716",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4813178.658299997,-11664628.9162",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5FD92664-3BB4-4159-A098-B828FF57511E}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1770593675000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 80474,
     "geometry": {
       "type": "Point",
@@ -3606,6 +3571,41 @@
   },
   {
     "type": "Feature",
+    "id": 81183,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.28232554966334,
+        39.183905719753156
+      ]
+    },
+    "properties": {
+      "objectid": 81183,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1770712080000,
+      "etr": 1770732900000,
+      "ticket": "10160316",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4748048.8292,-12053933.3421",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C4B3CD73-C104-474F-87B2-79E799336591}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Palisade",
+      "xcelarea": "Palisade"
+    },
+    "resolvedAt": 1770768149000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 81188,
     "geometry": {
       "type": "Point",
@@ -4691,6 +4691,41 @@
   },
   {
     "type": "Feature",
+    "id": 81443,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.25914287965841,
+        40.043369060140002
+      ]
+    },
+    "properties": {
+      "objectid": 81443,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1770735600000,
+      "etr": 1770744600000,
+      "ticket": "10160316",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4872246.556000002,-11717394.186700001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{2430B7D5-D460-4F9A-AF78-D4DE39EFA558}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1770768149000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 81444,
     "geometry": {
       "type": "Point",
@@ -4792,6 +4827,76 @@
       "xcelarea": "New Castle"
     },
     "resolvedAt": 1770764931000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81451,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.64006918014559,
+        39.821432509860024
+      ]
+    },
+    "properties": {
+      "objectid": 81451,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 42,
+      "off_": 1770736620000,
+      "etr": 1770745500000,
+      "ticket": "10160316",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840027.167499997,-11759798.7085",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B11E39F6-46E4-46E2-A9E8-B3AA3A144675}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Idaho Springs",
+      "xcelarea": "Idaho Springs"
+    },
+    "resolvedAt": 1770768149000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81453,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.6455100000387,
+        39.819157759917672
+      ]
+    },
+    "properties": {
+      "objectid": 81453,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1770737640000,
+      "etr": 1770744600000,
+      "ticket": "10160316",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839697.473099999,-11760404.377799999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A87EA8FB-7FE1-4FFF-B1B1-3B94CF1C167C}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Idaho Springs",
+      "xcelarea": "Idaho Springs"
+    },
+    "resolvedAt": 1770768149000,
     "status": "resolved"
   }
 ]
