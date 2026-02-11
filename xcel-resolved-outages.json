@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 79607,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.29060679020127,
-        40.040931239931524
-      ]
-    },
-    "properties": {
-      "objectid": 79607,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 3,
-      "off_": 1770244920000,
-      "etr": null,
-      "ticket": "9072715",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4871892.079700001,-11720896.733199999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1BC0BD8B-CA2E-47B5-9307-4E48C5193094}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1770652779000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 80550,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.07392306996407,
-        39.770360670241303
-      ]
-    },
-    "properties": {
-      "objectid": 80550,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 29,
-      "off_": 1770607920000,
-      "etr": 1770631200000,
-      "ticket": "9072715",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4832627.617399998,-11696775.6118",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3EB6166D-DFBA-44C5-B3A1-322C26E5038E}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Wheat Ridge",
-      "xcelarea": "Wheat Ridge"
-    },
-    "resolvedAt": 1770652779000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 80594,
     "geometry": {
       "type": "Point",
@@ -5006,6 +4936,41 @@
   },
   {
     "type": "Feature",
+    "id": 81553,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00593221008802,
+        39.632509510222015
+      ]
+    },
+    "properties": {
+      "objectid": 81553,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 68,
+      "off_": 1770766560000,
+      "etr": 1770798600000,
+      "ticket": "11075115",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812682.390299998,-11689206.903900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9895B8BC-0F97-4A37-8C58-50982101C2F6}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Sheridan,  Englewood,  Cherry Hills Village",
+      "xcelarea": "Sheridan,  Englewood,  Cherry Hills Village"
+    },
+    "resolvedAt": 1770826104000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 81554,
     "geometry": {
       "type": "Point",
@@ -5142,6 +5107,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1770821802000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 81581,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.26777933041063,
+        40.045543050047321
+      ]
+    },
+    "properties": {
+      "objectid": 81581,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1770792600000,
+      "etr": 1770802200000,
+      "ticket": "11075115",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4872562.680200003,-11718355.592",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{89A2A970-A71A-4202-BCA5-78E18FA54C37}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1770826104000,
     "status": "resolved"
   }
 ]
