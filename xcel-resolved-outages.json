@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 81532,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.00672299972756,
-        39.626908909903726
-      ]
-    },
-    "properties": {
-      "objectid": 81532,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 3311,
-      "off_": 1770766560000,
-      "etr": 1770777900000,
-      "ticket": "11015115",
-      "outageimpact": "Large",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4811872.8992,-11689294.9342",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{6725E6D0-565F-41DA-8CA4-3D900566D672}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Cherry Hills Village,  Sheridan,  Englewood",
-      "xcelarea": "Cherry Hills Village,  Sheridan,  Englewood"
-    },
-    "resolvedAt": 1770804115000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 81546,
     "geometry": {
       "type": "Point",
@@ -4232,6 +4197,41 @@
       "xcelarea": "Eaton"
     },
     "resolvedAt": 1770976225000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 82765,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.70357496015677,
+        40.53155040978389
+      ]
+    },
+    "properties": {
+      "objectid": 82765,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 11,
+      "off_": 1770946140000,
+      "etr": 1770956100000,
+      "ticket": "13024716",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4943489.078900002,-11655548.6488",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{469F2D0C-90A2-46BD-903E-2D7944044C41}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Eaton",
+      "xcelarea": "Eaton"
+    },
+    "resolvedAt": 1770979372000,
     "status": "resolved"
   }
 ]
