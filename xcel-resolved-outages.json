@@ -5283,5 +5283,110 @@
     },
     "resolvedAt": 1771098397000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83542,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86939188016298,
+        39.74970785004912
+      ]
+    },
+    "properties": {
+      "objectid": 83542,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771072380000,
+      "etr": 1771083900000,
+      "ticket": "14123916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829636.889899999,-11674007.3039",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F25B9D45-22BB-49B8-86DF-C381E3FC0396}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1771101042000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83543,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.1439397700447,
+        39.807360659932272
+      ]
+    },
+    "properties": {
+      "objectid": 83543,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771072440000,
+      "etr": 1771083900000,
+      "ticket": "14123916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837987.817199998,-11704569.8352",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{08B94D0E-0523-4D2B-AAF9-86F0052DC0CD}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1771101042000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83544,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08022467981694,
+        39.935270639883285
+      ]
+    },
+    "properties": {
+      "objectid": 83544,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771072260000,
+      "etr": 1771083900000,
+      "ticket": "14123916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4856540.438900001,-11697477.103799999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{CCEBD16E-0B1C-419A-BDE3-0CCC70719706}",
+      "county": "BROOMFIELD",
+      "cause": "Outage",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1771101042000,
+    "status": "resolved"
   }
 ]
