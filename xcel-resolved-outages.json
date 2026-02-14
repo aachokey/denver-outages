@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 82370,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.01744324998648,
-        39.763906320037485
-      ]
-    },
-    "properties": {
-      "objectid": 82370,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 35,
-      "off_": 1770899760000,
-      "etr": 1770906600000,
-      "ticket": "12153116",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4831692.868900001,-11690488.307",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C74F13D3-BB36-495B-86BE-CDDC2B55C0BA}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1770939194000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 82408,
     "geometry": {
       "type": "Point",
@@ -5072,6 +5037,76 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1771109585000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83610,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02516954026926,
+        39.827157019835624
+      ]
+    },
+    "properties": {
+      "objectid": 83610,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 41,
+      "off_": 1771084320000,
+      "etr": 1771094700000,
+      "ticket": "14162315",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840856.906499997,-11691348.3937",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{87096ADF-FF1E-4682-884B-200F4D1C3A55}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1771113033000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83614,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98317927004173,
+        39.83381345968386
+      ]
+    },
+    "properties": {
+      "objectid": 83614,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771086000000,
+      "etr": 1771097400000,
+      "ticket": "14162315",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841821.810999997,-11686674.0582",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D7E3D281-7541-499F-8B6F-82626DF6FC16}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1771113033000,
     "status": "resolved"
   }
 ]
