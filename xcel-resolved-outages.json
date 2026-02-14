@@ -4446,6 +4446,41 @@
   },
   {
     "type": "Feature",
+    "id": 83510,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02667665999111,
+        39.827000010068986
+      ]
+    },
+    "properties": {
+      "objectid": 83510,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 41,
+      "off_": 1771062900000,
+      "etr": 1771083000000,
+      "ticket": "14154716",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840834.1477999985,-11691516.1655",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1F383097-2A21-4448-AD67-536C5B920846}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1771111691000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 83511,
     "geometry": {
       "type": "Point",
