@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 82061,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.02383816964455,
-        39.865028449679656
-      ]
-    },
-    "properties": {
-      "objectid": 82061,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2,
-      "off_": 1770854220000,
-      "etr": 1770863400000,
-      "ticket": "12014715",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4846347.922899999,-11691200.1862",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{76919715-62CD-4E8D-8D54-EE4B9ADD3F42}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Federal Heights",
-      "xcelarea": "Federal Heights"
-    },
-    "resolvedAt": 1770890090000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 82076,
     "geometry": {
       "type": "Point",
@@ -4376,6 +4341,41 @@
   },
   {
     "type": "Feature",
+    "id": 83325,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02541432040439,
+        39.665153489730031
+      ]
+    },
+    "properties": {
+      "objectid": 83325,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 107,
+      "off_": 1771024200000,
+      "etr": 1771043400000,
+      "ticket": "14022716",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817401.941299997,-11691375.6425",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F608855C-B386-453F-A233-CAD783C9753A}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1771065029000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 83330,
     "geometry": {
       "type": "Point",
@@ -4477,6 +4477,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1771058209000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83338,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.67254156990873,
+        39.591692440323527
+      ]
+    },
+    "properties": {
+      "objectid": 83338,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 20,
+      "off_": 1771029720000,
+      "etr": 1771040700000,
+      "ticket": "14022716",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4806784.334899999,-11652094.0276",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{853507E2-5153-4904-93E1-14DBFA1D790B}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora,  Centennial",
+      "xcelarea": "Aurora,  Centennial"
+    },
+    "resolvedAt": 1771065029000,
     "status": "resolved"
   },
   {
