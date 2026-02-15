@@ -5458,5 +5458,75 @@
     },
     "resolvedAt": 1771142190000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97097772033719,
+        39.763987760263802
+      ]
+    },
+    "properties": {
+      "objectid": 83731,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771118220000,
+      "etr": 1771127100000,
+      "ticket": "15013516",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831704.662900001,-11685315.7879",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BA3C298B-C313-4A8D-86FA-BE837B18ADC6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1771148129000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83733,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.27055673980945,
+        39.693140220295533
+      ]
+    },
+    "properties": {
+      "objectid": 83733,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771118580000,
+      "etr": 1771129800000,
+      "ticket": "15013516",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4821449.939199999,-11718664.7718",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6373C4E8-D647-4265-A195-FCA00E024D44}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1771148129000,
+    "status": "resolved"
   }
 ]
