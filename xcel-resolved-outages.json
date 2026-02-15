@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 82765,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70357496015677,
-        40.53155040978389
-      ]
-    },
-    "properties": {
-      "objectid": 82765,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 11,
-      "off_": 1770946140000,
-      "etr": 1770956100000,
-      "ticket": "13024716",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4943489.078900002,-11655548.6488",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{469F2D0C-90A2-46BD-903E-2D7944044C41}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Eaton",
-      "xcelarea": "Eaton"
-    },
-    "resolvedAt": 1770979372000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 82773,
     "geometry": {
       "type": "Point",
@@ -5566,6 +5531,41 @@
   },
   {
     "type": "Feature",
+    "id": 83734,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19145985985379,
+        39.986701229726357
+      ]
+    },
+    "properties": {
+      "objectid": 83734,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 211,
+      "off_": 1771120740000,
+      "etr": 1771131600000,
+      "ticket": "15032716",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4864009.926600002,-11709859.7474",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EE8A2CEE-7890-4C2E-813B-BC262775EBF8}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder,  Louisville",
+      "xcelarea": "Boulder,  Louisville"
+    },
+    "resolvedAt": 1771154754000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 83735,
     "geometry": {
       "type": "Point",
@@ -5632,6 +5632,41 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1771151452000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 83740,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94629352999083,
+        39.597787370314371
+      ]
+    },
+    "properties": {
+      "objectid": 83740,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1771122900000,
+      "etr": 1771130700000,
+      "ticket": "15032716",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807664.829800002,-11682567.9564",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{2722CF16-B5A8-4A67-BAC8-AA7F6318586C}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1771154754000,
     "status": "resolved"
   }
 ]
