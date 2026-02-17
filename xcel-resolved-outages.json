@@ -36,111 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 83617,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98114527043944,
-        39.889283900173417
-      ]
-    },
-    "properties": {
-      "objectid": 83617,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1771087200000,
-      "etr": 1771102800000,
-      "ticket": "14193115",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4849866.337200001,-11686447.634399999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{64496B84-9741-4531-8080-AF57E97BD7AC}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Northglenn",
-      "xcelarea": "Northglenn"
-    },
-    "resolvedAt": 1771131396000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 83619,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98317927004173,
-        39.83381345968386
-      ]
-    },
-    "properties": {
-      "objectid": 83619,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1771087560000,
-      "etr": 1771099200000,
-      "ticket": "14193115",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4841821.810999997,-11686674.0582",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{5ADA0753-AC56-4C21-AA5A-6205FDEFFE3D}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1771131396000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 83636,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.15614433988522,
-        39.777493480259615
-      ]
-    },
-    "properties": {
-      "objectid": 83636,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1771094880000,
-      "etr": 1771104600000,
-      "ticket": "14193115",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4833660.7255000025,-11705928.4417",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{910B9188-F719-4C16-B2F7-06CD631F3AA3}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1771131396000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 83647,
     "geometry": {
       "type": "Point",
@@ -4901,6 +4796,41 @@
   },
   {
     "type": "Feature",
+    "id": 84419,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88423171987324,
+        39.646094349668374
+      ]
+    },
+    "properties": {
+      "objectid": 84419,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 760,
+      "off_": 1771250580000,
+      "etr": 1771293600000,
+      "ticket": "16212715",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4814646.167599998,-11675659.2673",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{02A885AB-0EC9-425E-B722-3DBF4822FF37}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1771307939000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 84426,
     "geometry": {
       "type": "Point",
@@ -5667,6 +5597,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1771302688000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 84561,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.89795976955357,
+        39.639350640045897
+      ]
+    },
+    "properties": {
+      "objectid": 84561,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771277160000,
+      "etr": 1771285500000,
+      "ticket": "16212715",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813671.272100002,-11677187.4668",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{958DFA12-DE2D-435E-9A23-AF56CC475B8C}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1771307939000,
     "status": "resolved"
   }
 ]
