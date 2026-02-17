@@ -5321,6 +5321,41 @@
   },
   {
     "type": "Feature",
+    "id": 84585,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.50502319967359,
+        39.077530889925839
+      ]
+    },
+    "properties": {
+      "objectid": 84585,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 487,
+      "off_": 1771295280000,
+      "etr": 1771315200000,
+      "ticket": "17063916",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4732783.299800001,-12078723.9311",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{870282CE-304C-43E5-AE2C-970B5313933A}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1771339806000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 84597,
     "geometry": {
       "type": "Point",
@@ -5457,6 +5492,111 @@
       "xcelarea": "Antonito"
     },
     "resolvedAt": 1771329631000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 84603,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.4878070501355,
+        39.088176169841809
+      ]
+    },
+    "properties": {
+      "objectid": 84603,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 25,
+      "off_": 1771291560000,
+      "etr": 1771315200000,
+      "ticket": "17063916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4734309.934100002,-12076807.438099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{48F79175-3D9C-4359-A748-8BC5655B6305}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1771339806000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 84633,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.45587883994814,
+        39.091713120298145
+      ]
+    },
+    "properties": {
+      "objectid": 84633,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2040,
+      "off_": 1771306920000,
+      "etr": 1771317000000,
+      "ticket": "17063916",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4734817.2173999995,-12073253.206",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5D2EE961-A5FD-4145-BABF-960820260D4A}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction,  Clifton",
+      "xcelarea": "Grand Junction,  Clifton"
+    },
+    "resolvedAt": 1771339806000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 84634,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.9390519302716,
+        37.172500209862363
+      ]
+    },
+    "properties": {
+      "objectid": 84634,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771309560000,
+      "etr": 1771320600000,
+      "ticket": "17063916",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4463178.444600001,-11793081.316",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{78EAA542-B50B-4B9C-B070-EC890296DFA8}",
+      "county": "CONEJOS",
+      "cause": "Outage",
+      "city": "Manassa",
+      "xcelarea": "Manassa"
+    },
+    "resolvedAt": 1771339806000,
     "status": "resolved"
   }
 ]
