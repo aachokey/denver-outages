@@ -176,41 +176,6 @@
   },
   {
     "type": "Feature",
-    "id": 84597,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.02439734036618,
-        39.645696130299058
-      ]
-    },
-    "properties": {
-      "objectid": 84597,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1096,
-      "off_": 1771300500000,
-      "etr": 1771308000000,
-      "ticket": "17045516",
-      "outageimpact": "Large",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4814588.596900001,-11691262.432799999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{245F93E0-3426-4D88-9206-198E4A2D25AD}",
-      "county": "DENVER, ARAPAHOE",
-      "cause": "Outage",
-      "city": "Englewood,  Denver,  Sheridan",
-      "xcelarea": "Englewood,  Denver,  Sheridan"
-    },
-    "resolvedAt": 1771335930000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 84603,
     "geometry": {
       "type": "Point",
@@ -7736,6 +7701,41 @@
   },
   {
     "type": "Feature",
+    "id": 86453,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99073882043137,
+        39.88411006981417
+      ]
+    },
+    "properties": {
+      "objectid": 86453,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1771437720000,
+      "etr": null,
+      "ticket": "19060715",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4849115.734300002,-11687515.5835",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9FDC51F6-8E5B-427B-8C8B-B6C7794F99F3}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "resolvedAt": 1771511424000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 86464,
     "geometry": {
       "type": "Point",
@@ -8187,6 +8187,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1771494746000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 86543,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.68880732972399,
+        39.812661119760591
+      ]
+    },
+    "properties": {
+      "objectid": 86543,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 35,
+      "off_": 1771476120000,
+      "etr": 1771487100000,
+      "ticket": "19060715",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4838755.932599999,-11653904.7237",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{044447B4-58E0-4925-9767-4A6B8AFC02AE}",
+      "county": "ADAMS, DENVER, ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1771511424000,
     "status": "resolved"
   }
 ]
