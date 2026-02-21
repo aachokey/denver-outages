@@ -8261,6 +8261,41 @@
   },
   {
     "type": "Feature",
+    "id": 87650,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.2841696802676,
+        39.695227149717738
+      ]
+    },
+    "properties": {
+      "objectid": 87650,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1771615620000,
+      "etr": 1771630200000,
+      "ticket": "20230028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4821751.858199999,-11720180.1574",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{80599243-DB93-42BA-AC63-7136D82C9F20}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1771657645000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 87662,
     "geometry": {
       "type": "Point",
@@ -8292,6 +8327,41 @@
       "xcelarea": "Brush"
     },
     "resolvedAt": 1771651671000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 87664,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91163068997508,
+        39.6109572998147
+      ]
+    },
+    "properties": {
+      "objectid": 87664,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1771621620000,
+      "etr": 1771630200000,
+      "ticket": "20230028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4809567.668499999,-11678709.306699999",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{47CD5AE1-5CFE-432C-8223-EABAB71463B1}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Greenwood Village",
+      "xcelarea": "Greenwood Village"
+    },
+    "resolvedAt": 1771657645000,
     "status": "resolved"
   }
 ]
