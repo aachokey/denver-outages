@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 87279,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.94082075971799,
-        40.279054929756029
-      ]
-    },
-    "properties": {
-      "objectid": 87279,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2,
-      "off_": 1771573680000,
-      "etr": 1771579800000,
-      "ticket": "20152428",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4906577.031400003,-11681958.7304",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B5C90E09-8F51-483F-8411-12F7FC7D532E}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Johnstown",
-      "xcelarea": "Johnstown"
-    },
-    "resolvedAt": 1771628297000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 87284,
     "geometry": {
       "type": "Point",
@@ -67,41 +32,6 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1771630624000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 87286,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97466131965189,
-        39.661513350188677
-      ]
-    },
-    "properties": {
-      "objectid": 87286,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 12,
-      "off_": 1771574220000,
-      "etr": 1771610400000,
-      "ticket": "20152428",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4816875.5524,-11685725.8443",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D50F56E7-BCA5-431F-90FA-B4DC786C5DEF}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Englewood",
-      "xcelarea": "Englewood"
-    },
-    "resolvedAt": 1771628297000,
     "status": "resolved"
   },
   {
@@ -207,41 +137,6 @@
       "xcelarea": "Westminster"
     },
     "resolvedAt": 1771681489000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 87481,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.01744324998648,
-        39.763906320037485
-      ]
-    },
-    "properties": {
-      "objectid": 87481,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 35,
-      "off_": 1771589760000,
-      "etr": 1771596900000,
-      "ticket": "20152428",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4831692.868900001,-11690488.307",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{27AC76F4-215D-40C3-AB42-22F135DEA612}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1771628297000,
     "status": "resolved"
   },
   {
@@ -3602,6 +3497,41 @@
       "xcelarea": "Evergreen"
     },
     "resolvedAt": 1771797049000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 88144,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10602166989959,
+        39.741513190158962
+      ]
+    },
+    "properties": {
+      "objectid": 88144,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1771773000000,
+      "etr": 1771778700000,
+      "ticket": "22154828",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828450.472599998,-11700348.8116",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9857F6FD-FBB8-40DB-A1AC-35F93E535F16}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1771803005000,
     "status": "resolved"
   },
   {
