@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 87222,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -107.7531448996243,
-        39.539163239789815
-      ]
-    },
-    "properties": {
-      "objectid": 87222,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 74,
-      "off_": 1771548780000,
-      "etr": 1771581600000,
-      "ticket": "20080028",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4799198.990999997,-11995025.2216",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{B93CFB9B-F9C7-46A4-A0D0-7BCA541EADE1}",
-      "county": "GARFIELD",
-      "cause": "Outage",
-      "city": "Rifle",
-      "xcelarea": "Rifle"
-    },
-    "resolvedAt": 1771603298000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 87278,
     "geometry": {
       "type": "Point",
@@ -3991,6 +3956,41 @@
   },
   {
     "type": "Feature",
+    "id": 88028,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.55885176965086,
+        39.090702889896313
+      ]
+    },
+    "properties": {
+      "objectid": 88028,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1771743960000,
+      "etr": null,
+      "ticket": "22084828",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4734672.323600002,-12084716.1001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{19C48237-4AE5-405F-BEA5-E9678DC02FF1}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1771778102000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 88043,
     "geometry": {
       "type": "Point",
@@ -4162,6 +4162,76 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1771775484000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 88050,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10659485972955,
+        39.740939830093559
+      ]
+    },
+    "properties": {
+      "objectid": 88050,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771749840000,
+      "etr": 1771760700000,
+      "ticket": "22084828",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828367.467200004,-11700412.6188",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3D51F5DA-A9B3-43C0-9E87-E3F326F6986F}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1771778102000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 88051,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10712336017077,
+        39.741515260329024
+      ]
+    },
+    "properties": {
+      "objectid": 88051,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771749840000,
+      "etr": 1771760700000,
+      "ticket": "22084828",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828450.7722999975,-11700471.451200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0A52A02C-9008-4EEE-A094-A1E0857A18DB}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1771778102000,
     "status": "resolved"
   }
 ]
