@@ -4198,5 +4198,40 @@
     },
     "resolvedAt": 1771778102000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 88077,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.89724090987588,
+        37.479489699774774
+      ]
+    },
+    "properties": {
+      "objectid": 88077,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1771755720000,
+      "etr": 1771767000000,
+      "ticket": "22102428",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4506153.882399999,-11788426.934500001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4F21A64D-E60D-4064-AF97-F8C4EDCEB52B}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Alamosa",
+      "xcelarea": "Alamosa"
+    },
+    "resolvedAt": 1771782761000,
+    "status": "resolved"
   }
 ]
