@@ -7803,5 +7803,75 @@
     },
     "resolvedAt": 1772310579000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 91839,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.92302879008281,
+        39.825248379657189
+      ]
+    },
+    "properties": {
+      "objectid": 91839,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1772287260000,
+      "etr": 1772294400000,
+      "ticket": "28142028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840580.251000002,-11679978.137400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{395B0F64-B14E-40A8-A25F-7A0EF8ABFAC7}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1772315052000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 91841,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03740061041067,
+        39.595758900113147
+      ]
+    },
+    "properties": {
+      "objectid": 91841,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1772288040000,
+      "etr": 1772298900000,
+      "ticket": "28142028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807371.781300001,-11692709.950199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2A20D93A-9F20-474D-8255-B613A382C735}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Columbine Valley",
+      "xcelarea": "Columbine Valley"
+    },
+    "resolvedAt": 1772315052000,
+    "status": "resolved"
   }
 ]
