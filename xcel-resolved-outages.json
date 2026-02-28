@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 90441,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9736905902744,
-        39.852298859907272
-      ]
-    },
-    "properties": {
-      "objectid": 90441,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1772089920000,
-      "etr": 1772097300000,
-      "ticket": "26074828",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4844501.909000002,-11685617.7832",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{C6F89DAF-5819-48AA-8F3C-AC09944D0F7D}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1772121376000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 90456,
     "geometry": {
       "type": "Point",
@@ -8786,6 +8751,41 @@
   },
   {
     "type": "Feature",
+    "id": 91677,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.34699697005202,
+        37.679906210337002
+      ]
+    },
+    "properties": {
+      "objectid": 91677,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 18,
+      "off_": 1772262420000,
+      "etr": 1772269200000,
+      "ticket": "28084028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4534305.460600004,-11838493.550099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EC9E0E65-3C56-4613-BF33-2DA5A9ABEE2C}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Del Norte",
+      "xcelarea": "Del Norte"
+    },
+    "resolvedAt": 1772296236000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 91682,
     "geometry": {
       "type": "Point",
@@ -8992,6 +8992,76 @@
       "xcelarea": "Leadville"
     },
     "resolvedAt": 1772293565000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 91712,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00059230962884,
+        39.832440980153649
+      ]
+    },
+    "properties": {
+      "objectid": 91712,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1772267400000,
+      "etr": 1772278200000,
+      "ticket": "28084028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841622.851400003,-11688612.468899999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EA86D909-102E-40C8-87E3-9CDDB60D9A67}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1772296236000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 91718,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.26345497987174,
+        39.997748430129434
+      ]
+    },
+    "properties": {
+      "objectid": 91718,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1772267580000,
+      "etr": 1772279100000,
+      "ticket": "28084028",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4865615.0929000005,-11717874.2075",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E4D0E305-F463-4FDD-B053-C1079CBFE3B8}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1772296236000,
     "status": "resolved"
   }
 ]
