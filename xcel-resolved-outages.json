@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 91627,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.28329057994739,
-        40.028731270196865
-      ]
-    },
-    "properties": {
-      "objectid": 91627,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 16,
-      "off_": 1772222280000,
-      "etr": 1772256600000,
-      "ticket": "28034428",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4870118.308200002,-11720082.2964",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D474DE0F-9AA9-4BC1-979A-82E589A4EF76}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1772277752000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 91666,
     "geometry": {
       "type": "Point",
@@ -5387,6 +5352,41 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1772449744000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 92228,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9666217203542,
+        39.86652622966745
+      ]
+    },
+    "properties": {
+      "objectid": 92228,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1772421600000,
+      "etr": 1772427600000,
+      "ticket": "2040416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846565.149800003,-11684830.880199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1B9BEAD5-BA3B-426D-BE01-020AA2D98C62}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1772452422000,
     "status": "resolved"
   }
 ]
