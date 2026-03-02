@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 91613,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.12399811037501,
-        40.006709869734919
-      ]
-    },
-    "properties": {
-      "objectid": 91613,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1772219340000,
-      "etr": null,
-      "ticket": "28012828",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866917.387400001,-11702349.9398",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{98A5630B-3AF0-4B00-8D6D-A33A8B831BC4}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Lafayette",
-      "xcelarea": "Lafayette"
-    },
-    "resolvedAt": 1772270995000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 91627,
     "geometry": {
       "type": "Point",
@@ -67,41 +32,6 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1772277752000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 91644,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.0440172298497,
-        39.472382749911731
-      ]
-    },
-    "properties": {
-      "objectid": 91644,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 123,
-      "off_": 1772228880000,
-      "etr": 1772239500000,
-      "ticket": "28012828",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4789564.009400003,-11804765.999699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CEBB481F-E935-4BB1-BC3E-56E4EE2B74B6}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Breckenridge",
-      "xcelarea": "Breckenridge"
-    },
-    "resolvedAt": 1772270995000,
     "status": "resolved"
   },
   {
@@ -5387,6 +5317,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1772429828000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 92216,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05384660011971,
+        39.709351029865637
+      ]
+    },
+    "properties": {
+      "objectid": 92216,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1772408580000,
+      "etr": 1772418600000,
+      "ticket": "2020416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823795.419699997,-11694540.7094",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{40360291-B66D-4A1A-A974-442A2D34A2C1}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1772446294000,
     "status": "resolved"
   }
 ]
