@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 91668,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.56411298014439,
-        40.246361990263921
-      ]
-    },
-    "properties": {
-      "objectid": 91668,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772257200000,
-      "etr": 1772268300000,
-      "ticket": "28054828",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4901807.783200003,-11640023.8122",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{76C764DA-3DA8-40B2-85C9-735400BF174C}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1772285911000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 91669,
     "geometry": {
       "type": "Point",
@@ -5177,6 +5142,41 @@
       "xcelarea": "Golden"
     },
     "resolvedAt": 1772425625000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 92210,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99131208032992,
+        39.775928170201027
+      ]
+    },
+    "properties": {
+      "objectid": 92210,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 6,
+      "off_": 1772398800000,
+      "etr": 1772438400000,
+      "ticket": "2060016",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4833433.998599999,-11687579.3985",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{248293A1-265B-461D-B548-E4BDABCAB611}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1772460753000,
     "status": "resolved"
   },
   {
