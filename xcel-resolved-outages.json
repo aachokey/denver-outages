@@ -5846,6 +5846,41 @@
   },
   {
     "type": "Feature",
+    "id": 92715,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03937156983959,
+        39.594388410331852
+      ]
+    },
+    "properties": {
+      "objectid": 92715,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1772467320000,
+      "etr": 1772497800000,
+      "ticket": "2235216",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807173.7946000025,-11692929.3564",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5A3E7347-562F-42D8-8C29-E1BF32B316D4}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Columbine Valley",
+      "xcelarea": "Columbine Valley"
+    },
+    "resolvedAt": 1772524028000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 92716,
     "geometry": {
       "type": "Point",
