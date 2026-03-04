@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 92223,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.02644745035479,
-        39.817561519894049
-      ]
-    },
-    "properties": {
-      "objectid": 92223,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772420460000,
-      "etr": 1772428500000,
-      "ticket": "2030816",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4839466.126100004,-11691490.65",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{51558B58-5853-4DCD-815A-B6210F3E742F}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1772449744000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 92224,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.27103120029811,
-        40.004580749730515
-      ]
-    },
-    "properties": {
-      "objectid": 92224,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772420460000,
-      "etr": 1772428500000,
-      "ticket": "2030816",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4866607.9639,-11718717.5885",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F9976C9B-EB94-434B-8F72-CF9186BB4CC1}",
-      "county": "BOULDER",
-      "cause": "Outage",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1772449744000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 92228,
     "geometry": {
       "type": "Point",
@@ -8292,6 +8222,41 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1772620801000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 93472,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.88981247039858,
+        37.480338430088857
+      ]
+    },
+    "properties": {
+      "objectid": 93472,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 40,
+      "off_": 1772594460000,
+      "etr": 1772601300000,
+      "ticket": "4033616",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4506272.940099999,-11787600.0044",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{CB71986B-B76A-4903-8396-AEF3978DA59B}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Alamosa",
+      "xcelarea": "Alamosa"
+    },
+    "resolvedAt": 1772623988000,
     "status": "resolved"
   }
 ]
