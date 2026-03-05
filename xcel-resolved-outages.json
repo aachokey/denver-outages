@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 92575,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.86351495964045,
-        39.739473370329733
-      ]
-    },
-    "properties": {
-      "objectid": 92575,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 22,
-      "off_": 1772452860000,
-      "etr": 1772460000000,
-      "ticket": "2212416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828155.1708,-11673353.088100001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{8E73A5FD-13E4-4602-A5E3-5B4DEDE28EF0}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1772516057000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 92715,
     "geometry": {
       "type": "Point",
@@ -67,76 +32,6 @@
       "xcelarea": "Columbine Valley"
     },
     "resolvedAt": 1772524028000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 92748,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.46826056995785,
-        37.416646420286959
-      ]
-    },
-    "properties": {
-      "objectid": 92748,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 66,
-      "off_": 1772475000000,
-      "etr": 1772489700000,
-      "ticket": "2212416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4497342.142300002,-11740673.0615",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{536B79C5-15B2-429A-A841-1CECEA05FD90}",
-      "county": "COSTILLA",
-      "cause": "Outage",
-      "city": "Blanca,  Fort Garland",
-      "xcelarea": "Blanca,  Fort Garland"
-    },
-    "resolvedAt": 1772516057000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 92766,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.32976981968456,
-        39.634279999949669
-      ]
-    },
-    "properties": {
-      "objectid": 92766,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 8,
-      "off_": 1772470260000,
-      "etr": 1772497800000,
-      "ticket": "2222816",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4812938.304300003,-11725256.341699999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{14292DAC-0821-4A92-994A-45969B59610F}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Evergreen",
-      "xcelarea": "Evergreen"
-    },
-    "resolvedAt": 1772521006000,
     "status": "resolved"
   },
   {
@@ -8082,6 +7977,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1772688762000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 94026,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0257574804362,
+        39.741707169728144
+      ]
+    },
+    "properties": {
+      "objectid": 94026,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1772661540000,
+      "etr": 1772669700000,
+      "ticket": "4222816",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828478.555200003,-11691413.8429",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{79EDC0E6-8099-41C1-A9E2-F97C9DF603FE}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1772693824000,
     "status": "resolved"
   }
 ]
