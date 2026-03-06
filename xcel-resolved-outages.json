@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 93472,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.88981247039858,
-        37.480338430088857
-      ]
-    },
-    "properties": {
-      "objectid": 93472,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 40,
-      "off_": 1772594460000,
-      "etr": 1772601300000,
-      "ticket": "4033616",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4506272.940099999,-11787600.0044",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{CB71986B-B76A-4903-8396-AEF3978DA59B}",
-      "county": "ALAMOSA",
-      "cause": "Outage",
-      "city": "Alamosa",
-      "xcelarea": "Alamosa"
-    },
-    "resolvedAt": 1772623988000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 93476,
     "geometry": {
       "type": "Point",
@@ -6157,6 +6122,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1772786528000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 94517,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98080188043895,
+        39.761004100102056
+      ]
+    },
+    "properties": {
+      "objectid": 94517,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 411,
+      "off_": 1772752260000,
+      "etr": 1772777700000,
+      "ticket": "6042816",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831272.584700003,-11686409.4084",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D6F0E119-FBB9-4A2D-B293-0C07CF62CDB5}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1772802186000,
     "status": "resolved"
   },
   {
