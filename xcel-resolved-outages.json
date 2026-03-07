@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 94052,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.15042554980216,
-        39.666690110340859
-      ]
-    },
-    "properties": {
-      "objectid": 94052,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 11,
-      "off_": 1772675580000,
-      "etr": 1772685900000,
-      "ticket": "5043216",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4817624.1554000005,-11705291.8289",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F0C05FC2-1738-4D09-A752-B1887957CB1E}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1772716061000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 94071,
     "geometry": {
       "type": "Point",
@@ -5566,6 +5531,41 @@
   },
   {
     "type": "Feature",
+    "id": 95156,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90424884970486,
+        39.870719330036685
+      ]
+    },
+    "properties": {
+      "objectid": 95156,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 116,
+      "off_": 1772829540000,
+      "etr": 1772862300000,
+      "ticket": "7054816",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4847173.3112,-11677887.564",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{82CE0B59-8D94-442F-8D76-CB9EC35733A6}",
+      "county": "ADAMS, DENVER",
+      "cause": "Outage",
+      "city": "Brighton,  Henderson,  Denver,  Commerce City",
+      "xcelarea": "Brighton,  Henderson,  Denver,  Commerce City"
+    },
+    "resolvedAt": 1772890837000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 95160,
     "geometry": {
       "type": "Point",
@@ -5982,6 +5982,41 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1772888065000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 95254,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98679605985214,
+        39.599035699786036
+      ]
+    },
+    "properties": {
+      "objectid": 95254,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1772861460000,
+      "etr": 1772870400000,
+      "ticket": "7054816",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807845.1774,-11687076.6774",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D9E1D329-B037-48F4-A97F-C520D80110A3}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1772890837000,
     "status": "resolved"
   }
 ]
