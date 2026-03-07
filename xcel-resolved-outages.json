@@ -351,41 +351,6 @@
   },
   {
     "type": "Feature",
-    "id": 94121,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.55445716007699,
-        39.049865520294738
-      ]
-    },
-    "properties": {
-      "objectid": 94121,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772698260000,
-      "etr": 1772703900000,
-      "ticket": "5082016",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4728816.899599999,-12084226.8944",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F3C56FD3-1CB5-4530-AD2C-3F57DB9057F4}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1772727084000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 94122,
     "geometry": {
       "type": "Point",
@@ -6122,6 +6087,76 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1772895098000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 95932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91127888006544,
+        39.640844049668694
+      ]
+    },
+    "properties": {
+      "objectid": 95932,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 34,
+      "off_": 1772868960000,
+      "etr": 1772876700000,
+      "ticket": "7084416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813887.1567,-11678670.1434",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{680405A6-AAF5-4EF2-9A10-D8B4B9234B30}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1772901117000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 95933,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91126713998298,
+        39.640670770243986
+      ]
+    },
+    "properties": {
+      "objectid": 95933,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1772868960000,
+      "etr": 1772876700000,
+      "ticket": "7084416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813862.107500002,-11678668.8365",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{03FD71E0-560A-4432-BC94-24DA134984C8}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1772901117000,
     "status": "resolved"
   },
   {
