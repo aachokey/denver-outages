@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 94412,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.02874459974144,
-        39.833701280152923
-      ]
-    },
-    "properties": {
-      "objectid": 94412,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1772718840000,
-      "etr": 1772744400000,
-      "ticket": "5192016",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4841805.548900001,-11691746.3675",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2BF5F0FE-A8C4-4E16-86A8-CBE074FF3ACF}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1772770791000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 94501,
     "geometry": {
       "type": "Point",
@@ -102,41 +67,6 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1772775118000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 94503,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.51103109995442,
-        39.084100580200484
-      ]
-    },
-    "properties": {
-      "objectid": 94503,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772738340000,
-      "etr": 1772749800000,
-      "ticket": "5192016",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4733725.428599998,-12079392.7275",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{91176551-1530-4BA7-9809-2231ECDAF560}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1772770791000,
     "status": "resolved"
   },
   {
@@ -6752,6 +6682,41 @@
       "xcelarea": "Englewood"
     },
     "resolvedAt": 1772936936000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 96137,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.06082693034931,
+        39.333888770239902
+      ]
+    },
+    "properties": {
+      "objectid": 96137,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 9,
+      "off_": 1772901000000,
+      "etr": 1772910000000,
+      "ticket": "7192416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4769611.749300003,-11806637.247000001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E19CA29D-D95C-4CED-B8B5-8BFE3272BB53}",
+      "county": "PARK",
+      "cause": "Outage",
+      "city": "Alma",
+      "xcelarea": "Alma"
+    },
+    "resolvedAt": 1772943867000,
     "status": "resolved"
   }
 ]
