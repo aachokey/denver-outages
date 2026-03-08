@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 94088,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.87051609030001,
-        39.729177930057588
-      ]
-    },
-    "properties": {
-      "objectid": 94088,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1772692080000,
-      "etr": 1772739900000,
-      "ticket": "5211216",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826664.847999997,-11674132.4504",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{86CBD07D-FC3B-41BF-801C-A0C7EC825B75}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1772775118000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 94501,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.80895178964464,
-        39.643845819966266
-      ]
-    },
-    "properties": {
-      "objectid": 94501,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 12,
-      "off_": 1772736960000,
-      "etr": 1772747100000,
-      "ticket": "5211216",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4814321.101300001,-11667279.1438",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{70D9D545-8A73-4A02-9D3C-D3AFAF3685ED}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1772775118000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 94507,
     "geometry": {
       "type": "Point",
@@ -6791,6 +6721,41 @@
   },
   {
     "type": "Feature",
+    "id": 96172,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.64365416959494,
+        39.821018690230133
+      ]
+    },
+    "properties": {
+      "objectid": 96172,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1772913060000,
+      "etr": 1772922600000,
+      "ticket": "7222416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839967.189099997,-11760197.787700001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{2CD6A8B9-0244-4E88-ADAD-F717DF6E7832}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Idaho Springs",
+      "xcelarea": "Idaho Springs"
+    },
+    "resolvedAt": 1772949951000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 96174,
     "geometry": {
       "type": "Point",
@@ -6857,6 +6822,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1772947786000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 96179,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.68198725996025,
+        39.759631550033703
+      ]
+    },
+    "properties": {
+      "objectid": 96179,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1772918760000,
+      "etr": 1772928000000,
+      "ticket": "7222416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831073.825400002,-11764465.0078",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EF21972F-0C40-4864-9FB5-D97979DBACE4}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Empire",
+      "xcelarea": "Empire"
+    },
+    "resolvedAt": 1772949951000,
     "status": "resolved"
   }
 ]
