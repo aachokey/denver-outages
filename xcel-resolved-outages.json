@@ -8296,6 +8296,41 @@
   },
   {
     "type": "Feature",
+    "id": 96384,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19999822984836,
+        39.723892710231766
+      ]
+    },
+    "properties": {
+      "objectid": 96384,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 40,
+      "off_": 1772982300000,
+      "etr": 1772990100000,
+      "ticket": "8154416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825899.869199999,-11710810.2344",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{B652A741-EA7E-4DF1-8324-3450D263945A}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1773008862000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 96394,
     "geometry": {
       "type": "Point",
