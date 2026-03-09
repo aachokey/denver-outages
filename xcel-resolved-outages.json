@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 95387,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.89202820002073,
-        39.878098099796084
-      ]
-    },
-    "properties": {
-      "objectid": 95387,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772865600000,
-      "etr": 1772875800000,
-      "ticket": "7072416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4848243.607900001,-11676527.1675",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{9A611506-198C-4720-89F3-665EBE98EF4E}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Henderson",
-      "xcelarea": "Henderson"
-    },
-    "resolvedAt": 1772895098000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 95388,
     "geometry": {
       "type": "Point",
@@ -141,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 95893,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.08825200010342,
-        39.623401720335707
-      ]
-    },
-    "properties": {
-      "objectid": 95893,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1772866380000,
-      "etr": 1772874900000,
-      "ticket": "7074816",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4811366.015699998,-11809690.1918",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{3E9AE562-85AB-425C-9559-BC5C178C1EF0}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Silverthorne",
-      "xcelarea": "Silverthorne"
-    },
-    "resolvedAt": 1772897235000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 95919,
     "geometry": {
       "type": "Point",
@@ -207,41 +137,6 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1772904271000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 95921,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.10797158988623,
-        39.587204640081772
-      ]
-    },
-    "properties": {
-      "objectid": 95921,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772868060000,
-      "etr": 1772879400000,
-      "ticket": "7072416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4806136.061099999,-11700565.8757",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6AB37950-CB05-4D30-81CE-DA43877DF683}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1772895098000,
     "status": "resolved"
   },
   {
@@ -7172,6 +7067,41 @@
       "xcelarea": "Alamosa"
     },
     "resolvedAt": 1773066607000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 96539,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.04857248963745,
+        39.632734850059016
+      ]
+    },
+    "properties": {
+      "objectid": 96539,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773041940000,
+      "etr": 1773047700000,
+      "ticket": "9082416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812714.9614999965,-11805273.0889",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6873B0E7-6E00-4CA7-A1D5-20C6A403DDFD}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Dillon",
+      "xcelarea": "Dillon"
+    },
+    "resolvedAt": 1773070447000,
     "status": "resolved"
   }
 ]
