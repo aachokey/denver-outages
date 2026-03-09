@@ -106,76 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 95167,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.90725226983928,
-        39.56528209998482
-      ]
-    },
-    "properties": {
-      "objectid": 95167,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1772834280000,
-      "etr": 1772844300000,
-      "ticket": "6225616",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4802969.8994999975,-11678221.9032",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{37FBA271-EFFC-4835-95F7-F2FB29AE704D}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Highlands Ranch",
-      "xcelarea": "Highlands Ranch"
-    },
-    "resolvedAt": 1772866528000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 95171,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97390403986739,
-        39.739615369957406
-      ]
-    },
-    "properties": {
-      "objectid": 95171,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 2,
-      "off_": 1772836140000,
-      "etr": 1772846100000,
-      "ticket": "6225616",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828175.727600001,-11685641.544300001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F9623587-4F52-4002-9F63-59E670D1EE2F}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1772866528000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 95172,
     "geometry": {
       "type": "Point",
@@ -7137,6 +7067,41 @@
       "xcelarea": "Blanca"
     },
     "resolvedAt": 1773032044000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 96461,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.23884840037267,
+        40.031210809725323
+      ]
+    },
+    "properties": {
+      "objectid": 96461,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 16,
+      "off_": 1773009960000,
+      "etr": 1773018900000,
+      "ticket": "8235616",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4870478.786399998,-11715135.0156",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{EBBA9448-3EA7-4406-B45A-FEBFC863F756}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1773040463000,
     "status": "resolved"
   }
 ]
