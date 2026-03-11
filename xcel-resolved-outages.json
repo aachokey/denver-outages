@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 96485,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9676849303919,
-        39.678651619855408
-      ]
-    },
-    "properties": {
-      "objectid": 96485,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 4,
-      "off_": 1773025920000,
-      "etr": 1773054900000,
-      "ticket": "9071616",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4819354.104699999,-11684949.236200001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{49491B9A-2EEF-4F72-BF46-C883DA973534}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1773066607000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 96498,
     "geometry": {
       "type": "Point",
@@ -102,41 +67,6 @@
       "xcelarea": "Commerce City"
     },
     "resolvedAt": 1773075545000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 96515,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.89710865989974,
-        37.416553300163429
-      ]
-    },
-    "properties": {
-      "objectid": 96515,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 4,
-      "off_": 1773039060000,
-      "etr": 1773050400000,
-      "ticket": "9071616",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4497329.0907000005,-11788412.2125",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C698BDF9-1D3E-4270-9045-D3D49CB302A7}",
-      "county": "ALAMOSA",
-      "cause": "Outage",
-      "city": "Alamosa",
-      "xcelarea": "Alamosa"
-    },
-    "resolvedAt": 1773066607000,
     "status": "resolved"
   },
   {
@@ -7942,6 +7872,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1773239234000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 97785,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.68163887975791,
+        40.681380870020725
+      ]
+    },
+    "properties": {
+      "objectid": 97785,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773213660000,
+      "etr": 1773218700000,
+      "ticket": "11082416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4965458.400799997,-11653106.7355",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A1F16AE1-6550-48C1-B0CC-DAAEF9E93B80}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Pierce",
+      "xcelarea": "Pierce"
+    },
+    "resolvedAt": 1773242664000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 97829,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.80710031962325,
+        39.740318389800166
+      ]
+    },
+    "properties": {
+      "objectid": 97829,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 28,
+      "off_": 1773211980000,
+      "etr": 1773223200000,
+      "ticket": "11082416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828277.501999997,-11667073.039099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{635B863D-796A-40F7-B51B-FA7F7FA7AF21}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1773242664000,
     "status": "resolved"
   }
 ]
