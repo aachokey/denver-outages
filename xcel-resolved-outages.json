@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 96420,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.99621270012358,
-        39.603333290145009
-      ]
-    },
-    "properties": {
-      "objectid": 96420,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1772991180000,
-      "etr": 1773006300000,
-      "ticket": "8202416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4808466.0801,-11688124.933",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{FA821AE8-0532-4FF3-B9AD-49A665953542}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1773032044000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 96440,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.52608235978217,
-        37.426405299660431
-      ]
-    },
-    "properties": {
-      "objectid": 96440,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 6,
-      "off_": 1772998560000,
-      "etr": 1773006300000,
-      "ticket": "8202416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4498710.024599999,-11747109.7537",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A70FCB37-2403-4959-9907-67CF759DC95C}",
-      "county": "COSTILLA",
-      "cause": "Outage",
-      "city": "Blanca",
-      "xcelarea": "Blanca"
-    },
-    "resolvedAt": 1773032044000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 96461,
     "geometry": {
       "type": "Point",
@@ -7946,6 +7876,41 @@
   },
   {
     "type": "Feature",
+    "id": 97668,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.98242852017145,
+        38.525801389915451
+      ]
+    },
+    "properties": {
+      "objectid": 97668,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 497,
+      "off_": 1773170880000,
+      "etr": 1773185400000,
+      "ticket": "10221616",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4653972.527099997,-11797909.9759",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EC8F4892-B5BA-4D82-99AB-BC91B76C1860}",
+      "county": "PUEBLO, FREMONT, CHAFFEE",
+      "cause": "Outage",
+      "city": "Pueblo,  Salida",
+      "xcelarea": "Pueblo,  Salida"
+    },
+    "resolvedAt": 1773207204000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 97673,
     "geometry": {
       "type": "Point",
@@ -7977,6 +7942,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1773202850000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 97684,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.09912513997001,
+        39.819273070120907
+      ]
+    },
+    "properties": {
+      "objectid": 97684,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1773174540000,
+      "etr": 1773184500000,
+      "ticket": "10221616",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839714.185500003,-11699581.0934",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7AB5DDFF-CAF6-4D22-ABEB-BEF75ADC35D7}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1773207204000,
     "status": "resolved"
   }
 ]
