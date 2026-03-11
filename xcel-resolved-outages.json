@@ -71,76 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 96482,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.00487819969716,
-        39.530684279717498
-      ]
-    },
-    "properties": {
-      "objectid": 96482,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1773022920000,
-      "etr": 1773030600000,
-      "ticket": "9030416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4797975.146899998,-11689089.572",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{6F39BE67-DC24-4E48-BE91-62EBEEEDABB3}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Highlands Ranch",
-      "xcelarea": "Highlands Ranch"
-    },
-    "resolvedAt": 1773051168000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 96484,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.57877639007623,
-        39.09493806997579
-      ]
-    },
-    "properties": {
-      "objectid": 96484,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1773024780000,
-      "etr": 1773033300000,
-      "ticket": "9030416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4735279.7744999975,-12086934.0987",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6E306200-668D-4D49-BBA4-C88810DA4DC0}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1773051168000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 96485,
     "geometry": {
       "type": "Point",
@@ -7872,6 +7802,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1773212324000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 97719,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.14863176964874,
+        37.661031449949043
+      ]
+    },
+    "properties": {
+      "objectid": 97719,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 7,
+      "off_": 1773199260000,
+      "etr": 1773210600000,
+      "ticket": "11034416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4531650.973899998,-11816411.637",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4EEEB1CB-B83B-4DAC-973B-E2E30F8343AA}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1773225789000,
     "status": "resolved"
   }
 ]
