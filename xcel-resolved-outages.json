@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 97105,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.00737458014247,
-        39.878901270300254
-      ]
-    },
-    "properties": {
-      "objectid": 97105,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1773110160000,
-      "etr": 1773121500000,
-      "ticket": "10024416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4848360.115400001,-11689367.467799999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{00DF947A-667A-46A4-94ED-4B34FFC1B2BF}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1773136204000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 97107,
     "geometry": {
       "type": "Point",
@@ -7907,6 +7872,41 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1773298820000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 98301,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96659631959123,
+        39.860971970086418
+      ]
+    },
+    "properties": {
+      "objectid": 98301,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773253980000,
+      "etr": 1773289800000,
+      "ticket": "12030416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4845759.625,-11684828.0526",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{7B6FE4CF-80A9-4B18-9554-B78B240A041C}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1773310040000,
     "status": "resolved"
   },
   {
