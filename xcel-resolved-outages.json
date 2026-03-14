@@ -26916,6 +26916,41 @@
   },
   {
     "type": "Feature",
+    "id": 102336,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.48282589978864,
+        39.98222381989585
+      ]
+    },
+    "properties": {
+      "objectid": 102336,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1773430320000,
+      "etr": 1773487800000,
+      "ticket": "13232416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4863359.4296,-11742294.4666",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7EA03626-4CFE-4111-B6F8-0A9E9AEB9754}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Nederland",
+      "xcelarea": "Nederland"
+    },
+    "resolvedAt": 1773471184000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 102341,
     "geometry": {
       "type": "Point",
@@ -26947,6 +26982,76 @@
       "xcelarea": "Alamosa"
     },
     "resolvedAt": 1773462105000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 102359,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02596612044913,
+        39.627755999851196
+      ]
+    },
+    "properties": {
+      "objectid": 102359,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 12,
+      "off_": 1773433860000,
+      "etr": 1773451800000,
+      "ticket": "13232416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811995.3303999975,-11691437.068599999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{770C750E-A307-4735-A780-2FBEEC514835}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1773471184000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 102360,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10529830960189,
+        39.885429179708304
+      ]
+    },
+    "properties": {
+      "objectid": 102360,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773434880000,
+      "etr": 1773443700000,
+      "ticket": "13232416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4849307.101199999,-11700268.2875",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A4BA70BA-FD11-4B25-A8F9-AC701835FD79}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1773471184000,
     "status": "resolved"
   },
   {
@@ -27052,6 +27157,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1773466279000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 102375,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.51061576010828,
+        39.96259196004295
+      ]
+    },
+    "properties": {
+      "objectid": 102375,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1773439800000,
+      "etr": 1773489600000,
+      "ticket": "13232416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4860507.733199999,-11745388.0197",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AB286515-A6F1-4E8A-B231-A05B36810563}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Nederland",
+      "xcelarea": "Nederland"
+    },
+    "resolvedAt": 1773471184000,
     "status": "resolved"
   }
 ]
