@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 98301,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.96659631959123,
-        39.860971970086418
-      ]
-    },
-    "properties": {
-      "objectid": 98301,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1773253980000,
-      "etr": 1773289800000,
-      "ticket": "12030416",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4845759.625,-11684828.0526",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{7B6FE4CF-80A9-4B18-9554-B78B240A041C}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1773310040000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 98375,
     "geometry": {
       "type": "Point",
@@ -26321,6 +26286,41 @@
   },
   {
     "type": "Feature",
+    "id": 102200,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13690463006677,
+        39.975695000146352
+      ]
+    },
+    "properties": {
+      "objectid": 102200,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773418920000,
+      "etr": 1773484200000,
+      "ticket": "14033216",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4862410.971500002,-11703786.686999999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1D3B9CCB-A9E7-4BDD-BE8C-FAD86DF7D32D}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Louisville",
+      "xcelarea": "Louisville"
+    },
+    "resolvedAt": 1773484339000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 102201,
     "geometry": {
       "type": "Point",
@@ -26842,6 +26842,41 @@
       "xcelarea": "Ward"
     },
     "resolvedAt": 1773477601000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 102274,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98283497992932,
+        39.898995739896229
+      ]
+    },
+    "properties": {
+      "objectid": 102274,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773423660000,
+      "etr": 1773464400000,
+      "ticket": "14033216",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851275.453100003,-11686635.732",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{37568D25-6DDA-4138-BD78-E2B13FFC12DF}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "resolvedAt": 1773484339000,
     "status": "resolved"
   },
   {
