@@ -26076,6 +26076,41 @@
   },
   {
     "type": "Feature",
+    "id": 102178,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.34338140997482,
+        39.600731899914784
+      ]
+    },
+    "properties": {
+      "objectid": 102178,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773417480000,
+      "etr": 1773487800000,
+      "ticket": "14042416",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4808090.2346,-11726771.577",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D1606629-EE3A-406E-9EF3-705BB1229A96}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1773487610000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 102180,
     "geometry": {
       "type": "Point",
