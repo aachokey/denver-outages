@@ -141,76 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 103055,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.27837149983509,
-        39.252135589687043
-      ]
-    },
-    "properties": {
-      "objectid": 103055,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1773553800000,
-      "etr": 1773621900000,
-      "ticket": "15231220",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4757852.453500003,-11830854.197700001",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{A47F0638-1EF1-4494-A1C2-DEF7CCC64BC6}",
-      "county": "LAKE",
-      "cause": "Outage",
-      "city": "Leadville",
-      "xcelarea": "Leadville"
-    },
-    "resolvedAt": 1773643953000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 103097,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.31142041044171,
-        39.25963005023231
-      ]
-    },
-    "properties": {
-      "objectid": 103097,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1773559320000,
-      "etr": 1773618300000,
-      "ticket": "15231220",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4758929.877899997,-11834533.185600001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{13D358E6-B1CF-4580-A47D-734C5D3A73BC}",
-      "county": "LAKE",
-      "cause": "Outage",
-      "city": "Leadville",
-      "xcelarea": "Leadville"
-    },
-    "resolvedAt": 1773643953000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 103205,
     "geometry": {
       "type": "Point",
@@ -7067,6 +6997,41 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1773776015000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 104921,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.84656554955463,
+        39.747961009663818
+      ]
+    },
+    "properties": {
+      "objectid": 104921,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1773748260000,
+      "etr": 1773792000000,
+      "ticket": "18000420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829383.971699998,-11671466.2884",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D05C6216-C231-4FFA-A3E3-A0928D7106B6}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1773819348000,
     "status": "resolved"
   },
   {
