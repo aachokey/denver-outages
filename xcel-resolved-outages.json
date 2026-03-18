@@ -211,41 +211,6 @@
   },
   {
     "type": "Feature",
-    "id": 103425,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.32259419044316,
-        39.279712840020622
-      ]
-    },
-    "properties": {
-      "objectid": 103425,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 88,
-      "off_": 1773547920000,
-      "etr": 1773657900000,
-      "ticket": "16004820",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4761817.603399999,-11835777.0451",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D60589E8-79B5-4E4B-AF1C-32C7C5C6E9F8}",
-      "county": "EAGLE, LAKE",
-      "cause": "Outage",
-      "city": "Leadville",
-      "xcelarea": "Leadville"
-    },
-    "resolvedAt": 1773648539000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 103691,
     "geometry": {
       "type": "Point",
@@ -347,41 +312,6 @@
       "xcelarea": "Leadville"
     },
     "resolvedAt": 1773654029000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 103806,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.10157269967459,
-        39.873977169970253
-      ]
-    },
-    "properties": {
-      "objectid": 103806,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 70,
-      "off_": 1773608160000,
-      "etr": 1773623700000,
-      "ticket": "16004820",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4847645.849399999,-11699853.554499999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{034369CE-43AB-42A4-B141-B30E7AEE292C}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1773648539000,
     "status": "resolved"
   },
   {
@@ -7907,6 +7837,76 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1773809945000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 105169,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87240865016081,
+        39.668649949914744
+      ]
+    },
+    "properties": {
+      "objectid": 105169,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 43,
+      "off_": 1773794700000,
+      "etr": 1773802800000,
+      "ticket": "18013220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817907.579300001,-11674343.1292",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{487B4524-2067-4F29-94F4-6A5FFA5ADC23}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1773824129000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 105170,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.20057128043945,
+        39.734959700225545
+      ]
+    },
+    "properties": {
+      "objectid": 105170,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1773797040000,
+      "etr": 1773805500000,
+      "ticket": "18013220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827501.764300004,-11710874.0261",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8319007A-D952-4E8E-9115-C01D77E8EB69}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1773824129000,
     "status": "resolved"
   }
 ]
