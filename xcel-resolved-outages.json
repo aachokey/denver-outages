@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 104327,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.09305197983916,
-        39.254188719683732
-      ]
-    },
-    "properties": {
-      "objectid": 104327,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2,
-      "off_": 1773676800000,
-      "etr": 1773703800000,
-      "ticket": "16222420",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4758147.605700001,-11810224.5231",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{F10355CC-4F99-4276-BF81-4281EC9ADC48}",
-      "county": "PARK",
-      "cause": "Outage",
-      "city": "Fairplay",
-      "xcelarea": "Fairplay"
-    },
-    "resolvedAt": 1773726288000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 104427,
     "geometry": {
       "type": "Point",
@@ -8432,6 +8397,41 @@
       "xcelarea": "Idaho Springs"
     },
     "resolvedAt": 1773896183000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 105724,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87790242035004,
+        39.649671660326263
+      ]
+    },
+    "properties": {
+      "objectid": 105724,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 130,
+      "off_": 1773866520000,
+      "etr": 1773876600000,
+      "ticket": "18225220",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815163.3554000035,-11674954.6929",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B8774584-91CF-449C-A4C2-966D56E1FC0C}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1773900102000,
     "status": "resolved"
   }
 ]
