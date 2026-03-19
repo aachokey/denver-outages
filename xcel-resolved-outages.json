@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 104069,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.52080594973361,
-        39.117136399971095
-      ]
-    },
-    "properties": {
-      "objectid": 104069,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 15,
-      "off_": 1773655260000,
-      "etr": null,
-      "ticket": "17060020",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4738464.2727999985,-12080480.8588",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1990100C-3684-47A3-BC85-2C9F4A5FADBE}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1773755821000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 104207,
     "geometry": {
       "type": "Point",
@@ -141,76 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 104486,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92638624974541,
-        40.320104519906465
-      ]
-    },
-    "properties": {
-      "objectid": 104486,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1773725940000,
-      "etr": 1773733500000,
-      "ticket": "17060020",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4912568.6153,-11680351.8881",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1D36D2E6-C3FA-42D6-8261-F7A4B70460C3}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Johnstown",
-      "xcelarea": "Johnstown"
-    },
-    "resolvedAt": 1773755821000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 104490,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.01170699036609,
-        39.760114760016037
-      ]
-    },
-    "properties": {
-      "objectid": 104490,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1773726600000,
-      "etr": 1773738000000,
-      "ticket": "17060020",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4831143.798699997,-11689849.749499999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CBE6D24D-4C53-49D5-BB03-F7B3273A8BEE}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1773755821000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 104491,
     "geometry": {
       "type": "Point",
@@ -242,41 +137,6 @@
       "xcelarea": "Lone Tree"
     },
     "resolvedAt": 1773759977000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 104492,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.88187223998226,
-        39.548354120202333
-      ]
-    },
-    "properties": {
-      "objectid": 104492,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1773726840000,
-      "etr": 1773738000000,
-      "ticket": "17060020",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4800525.761799999,-11675396.611200001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B3AC40EC-9458-45A6-BCA9-D9A6BA4B626D}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Lone Tree",
-      "xcelarea": "Lone Tree"
-    },
-    "resolvedAt": 1773755821000,
     "status": "resolved"
   },
   {
@@ -8327,6 +8187,41 @@
       "xcelarea": "Commerce City"
     },
     "resolvedAt": 1773910159000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 105745,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19053781018154,
+        40.051136149777484
+      ]
+    },
+    "properties": {
+      "objectid": 105745,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2433,
+      "off_": 1773874320000,
+      "etr": 1773903600000,
+      "ticket": "19070820",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4873376.030299999,-11709757.1053",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7C89E465-1387-4446-B7C0-019B13D01C8C}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1773930500000,
     "status": "resolved"
   },
   {
