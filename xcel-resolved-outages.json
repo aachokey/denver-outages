@@ -10396,6 +10396,41 @@
   },
   {
     "type": "Feature",
+    "id": 107361,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.35124584036622,
+        40.483655660330115
+      ]
+    },
+    "properties": {
+      "objectid": 107361,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1774080360000,
+      "etr": 1774095300000,
+      "ticket": "21092420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4936476.740599997,-11505008.0598",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{A9324587-AADF-4A07-B039-4992DE1DA864}",
+      "county": "LOGAN",
+      "cause": "Outage",
+      "city": "Merino",
+      "xcelarea": "Merino"
+    },
+    "resolvedAt": 1774108278000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 107362,
     "geometry": {
       "type": "Point",
