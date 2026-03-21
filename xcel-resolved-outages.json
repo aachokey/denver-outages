@@ -10046,6 +10046,41 @@
   },
   {
     "type": "Feature",
+    "id": 107369,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.75059773022943,
+        39.545999970262301
+      ]
+    },
+    "properties": {
+      "objectid": 107369,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1774080960000,
+      "etr": null,
+      "ticket": "21112420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4800185.906300001,-11994741.672",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FAE41D1B-4066-41A3-878F-56FA4070EFED}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "resolvedAt": 1774115542000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 107370,
     "geometry": {
       "type": "Point",
@@ -10462,6 +10497,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1774114111000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 107452,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.5315463103351,
+        40.276221340061774
+      ]
+    },
+    "properties": {
+      "objectid": 107452,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1774089960000,
+      "etr": 1774097100000,
+      "ticket": "21112420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4906163.575900003,-11636398.5071",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{25B9C362-CE98-439F-8E3B-95AC0DCDBC49}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Kersey",
+      "xcelarea": "Kersey"
+    },
+    "resolvedAt": 1774115542000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 107466,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91234329025234,
+        40.477733590157179
+      ]
+    },
+    "properties": {
+      "objectid": 107466,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1774091940000,
+      "etr": 1774103400000,
+      "ticket": "21112420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4935610.029600002,-11678788.633000001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{DB2B9C66-4DDB-4FC8-9497-F36643099765}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Windsor",
+      "xcelarea": "Windsor"
+    },
+    "resolvedAt": 1774115542000,
     "status": "resolved"
   }
 ]
