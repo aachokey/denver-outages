@@ -9241,6 +9241,41 @@
   },
   {
     "type": "Feature",
+    "id": 107411,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.24861768958026,
+        39.989017269739549
+      ]
+    },
+    "properties": {
+      "objectid": 107411,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 6,
+      "off_": 1774085400000,
+      "etr": 1774092600000,
+      "ticket": "21132420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4864346.4274,-11716222.5279",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2A8A4EAB-E0A0-4516-8A63-5E3AD61BCA02}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1774122442000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 107415,
     "geometry": {
       "type": "Point",
@@ -9902,6 +9937,41 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1774121255000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 107504,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.04486610006397,
+        39.484416899877651
+      ]
+    },
+    "properties": {
+      "objectid": 107504,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1774098420000,
+      "etr": 1774107900000,
+      "ticket": "21132420",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4791299.593500003,-11804860.4955",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0304915F-71B7-4013-ADE5-E4500C40DC6D}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "resolvedAt": 1774122442000,
     "status": "resolved"
   }
 ]
