@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 107947,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9205775203361,
-        39.73780287023633
-      ]
-    },
-    "properties": {
-      "objectid": 107947,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1774207860000,
-      "etr": 1774215900000,
-      "ticket": "22202820",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4827913.3413999975,-11679705.2633",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{E83F6751-4E80-458C-B6D1-32415D7F2CD4}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1774242351000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 107952,
     "geometry": {
       "type": "Point",
@@ -137,41 +102,6 @@
       "xcelarea": "Aurora,  Watkins"
     },
     "resolvedAt": 1774258620000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 107961,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.87780604010321,
-        39.654715950063029
-      ]
-    },
-    "properties": {
-      "objectid": 107961,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1774211160000,
-      "etr": 1774222200000,
-      "ticket": "22202820",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4815892.676399998,-11674943.9639",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A5E98D27-33F8-436B-BF20-EECB8EC82856}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1774242351000,
     "status": "resolved"
   },
   {
@@ -7767,6 +7697,41 @@
       "xcelarea": "Englewood"
     },
     "resolvedAt": 1774414614000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 109181,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.979032309822,
+        39.664609559967282
+      ]
+    },
+    "properties": {
+      "objectid": 109181,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1774382280000,
+      "etr": 1774395000000,
+      "ticket": "24225220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817323.2836000025,-11686212.420699999",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{276315A7-9D68-451F-ABBE-964908706ADB}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1774418725000,
     "status": "resolved"
   }
 ]
