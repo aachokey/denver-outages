@@ -9066,6 +9066,41 @@
   },
   {
     "type": "Feature",
+    "id": 109925,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.85578926044914,
+        40.468476930297271
+      ]
+    },
+    "properties": {
+      "objectid": 109925,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1774485720000,
+      "etr": 1774506600000,
+      "ticket": "26044820",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4934255.445500001,-11672493.067200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E112BC97-881F-4F87-A969-1FC6BD60521E}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley,  Eaton,  Severance,  Windsor",
+      "xcelarea": "Greeley,  Eaton,  Severance,  Windsor"
+    },
+    "resolvedAt": 1774525953000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 109929,
     "geometry": {
       "type": "Point",
@@ -9132,6 +9167,41 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1774522491000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 109937,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03402183013311,
+        39.657620899709372
+      ]
+    },
+    "properties": {
+      "objectid": 109937,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 65,
+      "off_": 1774498200000,
+      "etr": 1774505700000,
+      "ticket": "26044820",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816312.708300002,-11692333.8261",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{71391527-40CD-4CEE-B1C5-F9305C9D37BE}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1774525953000,
     "status": "resolved"
   }
 ]
