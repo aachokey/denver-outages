@@ -6826,6 +6826,41 @@
   },
   {
     "type": "Feature",
+    "id": 111029,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.74856253029667,
+        40.582570409962472
+      ]
+    },
+    "properties": {
+      "objectid": 111029,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1774644780000,
+      "etr": 1774678500000,
+      "ticket": "28045220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4950964.505099997,-11660556.6422",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{19EEE5AE-B0A5-4E6A-9DF2-213BCE50B8BE}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Ault",
+      "xcelarea": "Ault"
+    },
+    "resolvedAt": 1774697774000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 111034,
     "geometry": {
       "type": "Point",
