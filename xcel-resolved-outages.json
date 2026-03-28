@@ -6931,6 +6931,41 @@
   },
   {
     "type": "Feature",
+    "id": 111094,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95371998958123,
+        39.76458595973493
+      ]
+    },
+    "properties": {
+      "objectid": 111094,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 13,
+      "off_": 1774686000000,
+      "etr": 1774693800000,
+      "ticket": "28103220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831791.293300003,-11683394.6661",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E96B2977-4D1C-4E7E-9968-E0D2ED159C48}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1774719170000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 111097,
     "geometry": {
       "type": "Point",
@@ -7036,6 +7071,41 @@
   },
   {
     "type": "Feature",
+    "id": 111119,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96483273983894,
+        39.767531289774006
+      ]
+    },
+    "properties": {
+      "objectid": 111119,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 32,
+      "off_": 1774689240000,
+      "etr": 1774697400000,
+      "ticket": "28103220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832217.842799999,-11684631.731800001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{61D3C470-A80C-44F1-AECF-A03B3D9132E1}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1774719170000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 111124,
     "geometry": {
       "type": "Point",
@@ -7067,6 +7137,41 @@
       "xcelarea": "Wheat Ridge"
     },
     "resolvedAt": 1774715894000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 111147,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.22901425998811,
+        39.774974989966232
+      ]
+    },
+    "properties": {
+      "objectid": 111147,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1774692840000,
+      "etr": null,
+      "ticket": "28103220",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4833295.938000001,-11714040.2841",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{72582A49-0F53-4638-B234-512C8FC43123}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1774719170000,
     "status": "resolved"
   }
 ]
