@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 111562,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.33251629020666,
-        39.657845470291946
-      ]
-    },
-    "properties": {
-      "objectid": 111562,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1774760640000,
-      "etr": 1774772100000,
-      "ticket": "29052910",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4816345.180100001,-11725562.077399999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B74A1DCD-0B66-4B21-8625-7DE20E56D781}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Evergreen",
-      "xcelarea": "Evergreen"
-    },
-    "resolvedAt": 1774789375000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 111571,
     "geometry": {
       "type": "Point",
@@ -4792,6 +4757,76 @@
       "xcelarea": "Superior"
     },
     "resolvedAt": 1774939788000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 112701,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05864530963764,
+        39.858211769736201
+      ]
+    },
+    "properties": {
+      "objectid": 112701,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 124,
+      "off_": 1774935180000,
+      "etr": 1774945800000,
+      "ticket": "31054911",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4845359.342100002,-11695074.8993",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{163B581E-4D13-47A0-AA12-E32F445A7075}",
+      "county": "ADAMS, JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1774963623000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 112709,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05898328010203,
+        39.582291559847967
+      ]
+    },
+    "properties": {
+      "objectid": 112709,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1774936020000,
+      "etr": 1774947600000,
+      "ticket": "31054911",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4805426.4026999995,-11695112.522",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FEBFBFF7-EF98-4E8A-850C-ACFCC3D073D4}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1774963623000,
     "status": "resolved"
   }
 ]
