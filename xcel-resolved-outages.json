@@ -6963,5 +6963,75 @@
     },
     "resolvedAt": 1775107181000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 113828,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13691995981711,
+        40.63827186001182
+      ]
+    },
+    "properties": {
+      "objectid": 113828,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1775073120000,
+      "etr": 1775086200000,
+      "ticket": "1231310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4959132.368799999,-11703788.3935",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{FB3D6D39-6CAC-4A22-995D-F55A109D2772}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Laporte",
+      "xcelarea": "Laporte"
+    },
+    "resolvedAt": 1775112529000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 113855,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.85750345981025,
+        39.609980130235023
+      ]
+    },
+    "properties": {
+      "objectid": 113855,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1775080320000,
+      "etr": 1775088900000,
+      "ticket": "1231310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4809426.4711000025,-11672683.890999999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A22C44F7-CF23-40FB-B09F-46A01B6D4E54}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1775112529000,
+    "status": "resolved"
   }
 ]
