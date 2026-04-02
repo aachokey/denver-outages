@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 112701,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.05864530963764,
-        39.858211769736201
-      ]
-    },
-    "properties": {
-      "objectid": 112701,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 124,
-      "off_": 1774935180000,
-      "etr": 1774945800000,
-      "ticket": "31054911",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4845359.342100002,-11695074.8993",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{163B581E-4D13-47A0-AA12-E32F445A7075}",
-      "county": "ADAMS, JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1774963623000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 112709,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.05898328010203,
-        39.582291559847967
-      ]
-    },
-    "properties": {
-      "objectid": 112709,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1774936020000,
-      "etr": 1774947600000,
-      "ticket": "31054911",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4805426.4026999995,-11695112.522",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{FEBFBFF7-EF98-4E8A-850C-ACFCC3D073D4}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1774963623000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 112738,
     "geometry": {
       "type": "Point",
@@ -7277,6 +7207,76 @@
       "xcelarea": "Brush"
     },
     "resolvedAt": 1775136070000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 113969,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88357981965807,
+        39.733540249763365
+      ]
+    },
+    "properties": {
+      "objectid": 113969,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 45,
+      "off_": 1775113920000,
+      "etr": 1775124900000,
+      "ticket": "2071710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827296.291100003,-11675586.6981",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C6C3A5E7-2C74-482C-92BC-A14D930E78DF}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora,  Denver",
+      "xcelarea": "Aurora,  Denver"
+    },
+    "resolvedAt": 1775140741000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 113970,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88358267989393,
+        39.733875979988134
+      ]
+    },
+    "properties": {
+      "objectid": 113970,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1775113920000,
+      "etr": 1775124900000,
+      "ticket": "2071710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827344.8895,-11675587.0165",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4B3B24F7-12A2-47F3-92EB-90DFBB3F83DE}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1775140741000,
     "status": "resolved"
   }
 ]
