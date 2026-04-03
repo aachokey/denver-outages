@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 113277,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.69139023973243,
-        39.097245320072865
-      ]
-    },
-    "properties": {
-      "objectid": 113277,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 12,
-      "off_": 1775019600000,
-      "etr": 1775029500000,
-      "ticket": "1054910",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4735610.718199998,-12099470.2151",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{03745354-1287-4FF9-ACC6-4F5A57731F4E}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1775050894000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 113298,
     "geometry": {
       "type": "Point",
@@ -7876,6 +7841,41 @@
   },
   {
     "type": "Feature",
+    "id": 114593,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.89703955963104,
+        39.871114120016031
+      ]
+    },
+    "properties": {
+      "objectid": 114593,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1775158020000,
+      "etr": null,
+      "ticket": "3055710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4847230.572899997,-11677085.0295",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A744A002-E794-4CF9-9EE4-A6CEA5EE458E}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Henderson",
+      "xcelarea": "Henderson"
+    },
+    "resolvedAt": 1775223770000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 114600,
     "geometry": {
       "type": "Point",
@@ -8572,6 +8572,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1775217676000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 114735,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07140429002713,
+        39.561630370185831
+      ]
+    },
+    "properties": {
+      "objectid": 114735,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 2,
+      "off_": 1775194860000,
+      "etr": 1775203200000,
+      "ticket": "3055710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802442.595899999,-11696495.2225",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{10E1C266-0E3B-4D17-975A-69F4CFFD9FAB}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1775223770000,
     "status": "resolved"
   }
 ]
