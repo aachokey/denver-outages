@@ -71,41 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 114604,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.02367166960158,
-        39.686187310039024
-      ]
-    },
-    "properties": {
-      "objectid": 114604,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 28,
-      "off_": 1775159760000,
-      "etr": 1775172600000,
-      "ticket": "2230110",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4820444.117799997,-11691181.6515",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A0B929F0-43E6-493F-AF8D-31B2C47E8D09}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1775198780000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 114610,
     "geometry": {
       "type": "Point",
@@ -172,41 +137,6 @@
       "xcelarea": "Ft Morgan,  Fort Morgan,  Log Lane Village"
     },
     "resolvedAt": 1775237826000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 114660,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.02882898029273,
-        40.60365324031838
-      ]
-    },
-    "properties": {
-      "objectid": 114660,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 566,
-      "off_": 1775167440000,
-      "etr": 1775176200000,
-      "ticket": "2230110",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4954055.2161,-11691755.7607",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{14FFBE1C-43C0-4587-90BB-997E17A1CDCD}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Fort Collins",
-      "xcelarea": "Fort Collins"
-    },
-    "resolvedAt": 1775198780000,
     "status": "resolved"
   },
   {
@@ -8292,6 +8222,111 @@
       "xcelarea": "Centennial"
     },
     "resolvedAt": 1775366117000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 115618,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98414008022186,
+        39.725547320095679
+      ]
+    },
+    "properties": {
+      "objectid": 115618,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1775346120000,
+      "etr": 1775355300000,
+      "ticket": "5003710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826139.3499,-11686781.0151",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3D669440-F863-47F0-BEBC-9B78342EFCC6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1775375742000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 115619,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0044394400545,
+        40.550576500106857
+      ]
+    },
+    "properties": {
+      "objectid": 115619,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1775348640000,
+      "etr": 1775356200000,
+      "ticket": "5003710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4946276.106600001,-11689040.7295",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C7FBFFD7-CBF2-46B4-A6C7-B1011AE61024}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Fort Collins",
+      "xcelarea": "Fort Collins"
+    },
+    "resolvedAt": 1775375742000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 115620,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82428305003613,
+        39.750950849891545
+      ]
+    },
+    "properties": {
+      "objectid": 115620,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1775348940000,
+      "etr": 1775358000000,
+      "ticket": "5003710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829816.862899996,-11668985.811900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5D4A4736-5A68-4350-8614-1E0FD688C3BA}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1775375742000,
     "status": "resolved"
   }
 ]
