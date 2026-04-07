@@ -71,111 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 115618,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98414008022186,
-        39.725547320095679
-      ]
-    },
-    "properties": {
-      "objectid": 115618,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1775346120000,
-      "etr": 1775355300000,
-      "ticket": "5003710",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826139.3499,-11686781.0151",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3D669440-F863-47F0-BEBC-9B78342EFCC6}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1775375742000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 115619,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.0044394400545,
-        40.550576500106857
-      ]
-    },
-    "properties": {
-      "objectid": 115619,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1775348640000,
-      "etr": 1775356200000,
-      "ticket": "5003710",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4946276.106600001,-11689040.7295",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C7FBFFD7-CBF2-46B4-A6C7-B1011AE61024}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Fort Collins",
-      "xcelarea": "Fort Collins"
-    },
-    "resolvedAt": 1775375742000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 115620,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.82428305003613,
-        39.750950849891545
-      ]
-    },
-    "properties": {
-      "objectid": 115620,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1775348940000,
-      "etr": 1775358000000,
-      "ticket": "5003710",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4829816.862899996,-11668985.811900001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5D4A4736-5A68-4350-8614-1E0FD688C3BA}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1775375742000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 115679,
     "geometry": {
       "type": "Point",
@@ -4442,6 +4337,41 @@
       "xcelarea": "Brush,  Snyder"
     },
     "resolvedAt": 1775544760000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 116405,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.55348064009875,
+        39.586828550220964
+      ]
+    },
+    "properties": {
+      "objectid": 116405,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1775516160000,
+      "etr": 1775526300000,
+      "ticket": "7004510",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4806081.7359,-11972798.697900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9A502636-6B7F-4727-999B-01B329AEAF1B}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "New Castle",
+      "xcelarea": "New Castle"
+    },
+    "resolvedAt": 1775549656000,
     "status": "resolved"
   }
 ]
