@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 115876,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97685873987236,
-        39.925250999797328
-      ]
-    },
-    "properties": {
-      "objectid": 115876,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1775450400000,
-      "etr": 1775460600000,
-      "ticket": "6052110",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4855085.896600001,-11685970.46",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6E7E79C7-8CC1-4863-8637-43023CD01A9E}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1775477216000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 115880,
     "geometry": {
       "type": "Point",
@@ -7627,6 +7592,76 @@
       "xcelarea": "Golden"
     },
     "resolvedAt": 1775647865000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 117053,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99049453975954,
+        39.577553779980505
+      ]
+    },
+    "properties": {
+      "objectid": 117053,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1775620800000,
+      "etr": 1775630700000,
+      "ticket": "8052511",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4804742.112800002,-11687488.3903",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1DE5B62B-0F77-4F88-8786-CBB4196C3121}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1775654747000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 117062,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98810461955684,
+        39.57726354967054
+      ]
+    },
+    "properties": {
+      "objectid": 117062,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 46,
+      "off_": 1775621040000,
+      "etr": 1775628900000,
+      "ticket": "8052511",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4804700.195600003,-11687222.3456",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{468D585D-F195-4AC9-9D59-4B1ED84CD195}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1775654747000,
     "status": "resolved"
   }
 ]
