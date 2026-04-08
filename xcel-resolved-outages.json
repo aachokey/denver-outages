@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 115836,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.52127371040564,
-        37.403038829941664
-      ]
-    },
-    "properties": {
-      "objectid": 115836,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1775418840000,
-      "etr": 1775426400000,
-      "ticket": "5204510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4495435.091499999,-11746574.4573",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{DA170383-B1E4-4458-96EE-882EDA7A3F97}",
-      "county": "COSTILLA",
-      "cause": "Outage",
-      "city": "Blanca",
-      "xcelarea": "Blanca"
-    },
-    "resolvedAt": 1775453278000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 115837,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.52129362964874,
-        37.404377770205677
-      ]
-    },
-    "properties": {
-      "objectid": 115837,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 12,
-      "off_": 1775418660000,
-      "etr": 1775426400000,
-      "ticket": "5204510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4495622.723399997,-11746576.6747",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{540FF564-848C-44FD-9CAC-90BFDAD78CAF}",
-      "county": "COSTILLA",
-      "cause": "Outage",
-      "city": "Blanca",
-      "xcelarea": "Blanca"
-    },
-    "resolvedAt": 1775453278000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 115852,
     "geometry": {
       "type": "Point",
@@ -7382,6 +7312,76 @@
       "xcelarea": "Northglenn"
     },
     "resolvedAt": 1775606587000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 117011,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.20914128999665,
+        40.059162209998085
+      ]
+    },
+    "properties": {
+      "objectid": 117011,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1775594700000,
+      "etr": 1775601900000,
+      "ticket": "7213310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4874543.298799999,-11711828.0352",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{42A0AFF4-A7CF-4944-AFB9-05F474D4B701}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1775627311000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 117017,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19429472998974,
+        39.743622929889796
+      ]
+    },
+    "properties": {
+      "objectid": 117017,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 29,
+      "off_": 1775596500000,
+      "etr": 1775607300000,
+      "ticket": "7213310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828755.9058,-11710175.3237",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5A3A09CF-4C3E-40EF-9F81-54E679664CC1}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1775627311000,
     "status": "resolved"
   }
 ]
