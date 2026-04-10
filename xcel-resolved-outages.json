@@ -71,76 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 117033,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.81349107020007,
-        39.675004070130363
-      ]
-    },
-    "properties": {
-      "objectid": 117033,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 83,
-      "off_": 1775605320000,
-      "etr": 1775616300000,
-      "ticket": "8023710",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818826.541199997,-11667784.4542",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{DC7D5345-AD53-48A8-B90C-A3D0DEF4C7E0}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1775643029000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 117034,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.94622031010863,
-        39.542724889989849
-      ]
-    },
-    "properties": {
-      "objectid": 117034,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 7,
-      "off_": 1775603640000,
-      "etr": 1775615400000,
-      "ticket": "8023710",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4799713.120399997,-11682559.805599999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{83EA27FF-D743-4375-996B-56BC1113BEBF}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Highlands Ranch",
-      "xcelarea": "Highlands Ranch"
-    },
-    "resolvedAt": 1775643029000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 117039,
     "geometry": {
       "type": "Point",
@@ -172,41 +102,6 @@
       "xcelarea": "Golden"
     },
     "resolvedAt": 1775647865000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 117040,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.81395897029223,
-        39.675176249890747
-      ]
-    },
-    "properties": {
-      "objectid": 117040,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 7,
-      "off_": 1775605320000,
-      "etr": 1775616300000,
-      "ticket": "8023710",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818851.443800002,-11667836.5406",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{605FF186-0D4D-4FC0-A7F3-F92E19283A08}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1775643029000,
     "status": "resolved"
   },
   {
@@ -8187,6 +8082,41 @@
       "xcelarea": "Northglenn"
     },
     "resolvedAt": 1775815781000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 118287,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95815995958537,
+        39.714311220072133
+      ]
+    },
+    "properties": {
+      "objectid": 118287,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1775792880000,
+      "etr": 1775804400000,
+      "ticket": "10040510",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4824513.200900003,-11683888.9213",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E4F1DB9B-BB7D-4B74-94EF-CDBA29E184BF}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1775820365000,
     "status": "resolved"
   }
 ]
