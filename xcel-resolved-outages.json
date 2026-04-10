@@ -71,76 +71,6 @@
   },
   {
     "type": "Feature",
-    "id": 117039,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.19486502005797,
-        39.745201869981521
-      ]
-    },
-    "properties": {
-      "objectid": 117039,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 7,
-      "off_": 1775607300000,
-      "etr": 1775618100000,
-      "ticket": "8040510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828984.499700002,-11710238.8081",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{250321D4-EC96-4099-8FB6-2D1DD32C4CA0}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1775647865000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 117051,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.19326502980711,
-        39.744898329689775
-      ]
-    },
-    "properties": {
-      "objectid": 117051,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 4,
-      "off_": 1775614980000,
-      "etr": 1775625300000,
-      "ticket": "8040510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828940.5537,-11710060.697999999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2D48F45D-1088-49B6-B624-72055B1CF675}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1775647865000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 117053,
     "geometry": {
       "type": "Point",
@@ -7942,6 +7872,41 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1775804833000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 118259,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.19020752031282,
+        39.654225089979057
+      ]
+    },
+    "properties": {
+      "objectid": 118259,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1775775960000,
+      "etr": 1775793600000,
+      "ticket": "10052110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815821.7038,-11709720.3376",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B9136D44-62CB-44B0-A091-D0802BF1729E}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Morrison",
+      "xcelarea": "Morrison"
+    },
+    "resolvedAt": 1775822791000,
     "status": "resolved"
   },
   {
