@@ -7981,6 +7981,41 @@
   },
   {
     "type": "Feature",
+    "id": 118810,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.85769640984844,
+        39.739257000072584
+      ]
+    },
+    "properties": {
+      "objectid": 118810,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1775889180000,
+      "etr": 1775900700000,
+      "ticket": "11080110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828123.8477,-11672705.370099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{50C871E9-5336-4CE3-AE98-5F7AAE28EAC5}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1775919777000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 118821,
     "geometry": {
       "type": "Point",
