@@ -5461,6 +5461,41 @@
   },
   {
     "type": "Feature",
+    "id": 119202,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.65847057040237,
+        40.399470590201929
+      ]
+    },
+    "properties": {
+      "objectid": 119202,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 15,
+      "off_": 1775928000000,
+      "etr": 1775971800000,
+      "ticket": "12032111",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4924163.199900001,-11650527.6511",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6F700B32-7D88-490C-8250-D7FE30C95D62}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1775988447000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 119337,
     "geometry": {
       "type": "Point",
