@@ -1,111 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 118451,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97814273963719,
-        39.707015829824712
-      ]
-    },
-    "properties": {
-      "objectid": 118451,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 21,
-      "off_": 1775814180000,
-      "etr": 1775843100000,
-      "ticket": "10202911",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4823457.5145,-11686113.3942",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{79AB398E-3C97-4A16-9E0A-F82BC169E992}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1775883468000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 118696,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.07116873026047,
-        39.637632620079813
-      ]
-    },
-    "properties": {
-      "objectid": 118696,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1775848560000,
-      "etr": 1775853900000,
-      "ticket": "10202911",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4813422.924000002,-11807788.490899999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4AF18B0D-1DB2-4BFA-9858-B8BCC233ADD4}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Silverthorne",
-      "xcelarea": "Silverthorne"
-    },
-    "resolvedAt": 1775883468000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 118733,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.8237773703964,
-        39.514755109896669
-      ]
-    },
-    "properties": {
-      "objectid": 118733,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1775852400000,
-      "etr": 1775861100000,
-      "ticket": "10202911",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4795676.351499997,-11668929.5199",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{BFEB4C98-C14C-47B7-A717-F9785E94E5B9}",
-      "county": "DOUGLAS",
-      "cause": "Outage",
-      "city": "Parker",
-      "xcelarea": "Parker"
-    },
-    "resolvedAt": 1775883468000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 118745,
     "geometry": {
       "type": "Point",
@@ -4477,6 +4372,146 @@
       "xcelarea": "Del Norte"
     },
     "resolvedAt": 1776049057000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 120062,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.7078869599401,
+        39.563949759689734
+      ]
+    },
+    "properties": {
+      "objectid": 120062,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1776020520000,
+      "etr": 1776033000000,
+      "ticket": "12205310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802777.508599997,-11989987.130800001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{510898E2-D8B0-463D-9B83-8A48785BF840}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "resolvedAt": 1776059259000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 120065,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.7078869599401,
+        39.563949759689734
+      ]
+    },
+    "properties": {
+      "objectid": 120065,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1776020520000,
+      "etr": 1776033000000,
+      "ticket": "12205310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802777.508599997,-11989987.130800001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{F31BDDD8-49FA-4AF7-AED6-1A44D241A9E2}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "resolvedAt": 1776059259000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 120076,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.70090153991652,
+        39.56396732001776
+      ]
+    },
+    "properties": {
+      "objectid": 120076,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1776022140000,
+      "etr": 1776031200000,
+      "ticket": "12205310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802780.044299997,-11989209.5174",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{70097DE5-95CB-421E-8212-B5EF764A7964}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "resolvedAt": 1776059259000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 120088,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.84769341044498,
+        39.608353289949797
+      ]
+    },
+    "properties": {
+      "objectid": 120088,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1776026340000,
+      "etr": 1776036600000,
+      "ticket": "12205310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4809191.403099999,-11671591.8413",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FC85B3B5-2AAC-4355-BD03-87028253D1C9}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Greenwood Village",
+      "xcelarea": "Greenwood Village"
+    },
+    "resolvedAt": 1776059259000,
     "status": "resolved"
   }
 ]
