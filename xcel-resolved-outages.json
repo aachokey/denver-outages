@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 118761,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.00526589011589,
-        40.70446775000989
-      ]
-    },
-    "properties": {
-      "objectid": 118761,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 19,
-      "off_": 1775863920000,
-      "etr": 1775896200000,
-      "ticket": "11052910",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4968847.9673999995,-11689132.7295",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{BCC1309A-823C-4ECD-824F-118BF9BA5888}",
-      "county": "LARIMER",
-      "cause": "Outage",
-      "city": "Wellington",
-      "xcelarea": "Wellington"
-    },
-    "resolvedAt": 1775912706000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 118789,
     "geometry": {
       "type": "Point",
@@ -67,41 +32,6 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1775916392000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 118791,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.08705214008096,
-        39.633537420091969
-      ]
-    },
-    "properties": {
-      "objectid": 118791,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1775884860000,
-      "etr": 1775896200000,
-      "ticket": "11052910",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4812830.9679000005,-11698237.133200001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7D8F915F-5F3A-4E29-8E33-FF6B56559900}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1775912706000,
     "status": "resolved"
   },
   {
@@ -4516,6 +4446,41 @@
   },
   {
     "type": "Feature",
+    "id": 120117,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.51074249993931,
+        39.568295460030434
+      ]
+    },
+    "properties": {
+      "objectid": 120117,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 87,
+      "off_": 1776037260000,
+      "etr": 1776063600000,
+      "ticket": "13054510",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4803405.044500001,-11968041.1099",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{232C1BA7-9CF0-49FE-90FA-59280E317889}",
+      "county": "GARFIELD",
+      "cause": "Outage",
+      "city": "New Castle",
+      "xcelarea": "New Castle"
+    },
+    "resolvedAt": 1776087950000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 120135,
     "geometry": {
       "type": "Point",
@@ -4582,6 +4547,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1776081026000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 120147,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86431258006942,
+        39.665178859926399
+      ]
+    },
+    "properties": {
+      "objectid": 120147,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1776058800000,
+      "etr": 1776069900000,
+      "ticket": "13054510",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817405.610100001,-11673441.878800001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{36E71A77-691D-4E98-AA03-343E71EECFE0}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1776087950000,
     "status": "resolved"
   }
 ]
