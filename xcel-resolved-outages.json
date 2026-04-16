@@ -7316,6 +7316,41 @@
   },
   {
     "type": "Feature",
+    "id": 121915,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90951101984078,
+        39.763609819900957
+      ]
+    },
+    "properties": {
+      "objectid": 121915,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1776280320000,
+      "etr": 1776295800000,
+      "ticket": "16000110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831649.930500001,-11678473.346099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6FD7DDB3-4D45-4BF5-AEB0-AC4F6503C615}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1776327210000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 121923,
     "geometry": {
       "type": "Point",
@@ -7417,6 +7452,111 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1776319407000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 121949,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.49652806002248,
+        39.959834289884931
+      ]
+    },
+    "properties": {
+      "objectid": 121949,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1776293880000,
+      "etr": 1776302100000,
+      "ticket": "16000110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4860107.223499998,-11743819.7841",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4134F239-8ABD-4A79-BDEA-E4C278AA2ECA}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Nederland",
+      "xcelarea": "Nederland"
+    },
+    "resolvedAt": 1776327210000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 121951,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.49592080967021,
+        39.959829339869707
+      ]
+    },
+    "properties": {
+      "objectid": 121951,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1776293880000,
+      "etr": 1776304800000,
+      "ticket": "16000110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4860106.504600003,-11743752.1853",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D636C645-FFFD-40AF-A4D7-62F6A6257C3E}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Nederland",
+      "xcelarea": "Nederland"
+    },
+    "resolvedAt": 1776327210000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 121952,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.69296209995723,
+        39.723725659798006
+      ]
+    },
+    "properties": {
+      "objectid": 121952,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1776296160000,
+      "etr": 1776303900000,
+      "ticket": "16000110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825875.691399999,-11765686.7214",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AFF4745A-82B0-40C0-B2FE-F00B875AC706}",
+      "county": "CLEAR CREEK",
+      "cause": "Outage",
+      "city": "Georgetown",
+      "xcelarea": "Georgetown"
+    },
+    "resolvedAt": 1776327210000,
     "status": "resolved"
   }
 ]
