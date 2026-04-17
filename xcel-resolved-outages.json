@@ -4516,6 +4516,41 @@
   },
   {
     "type": "Feature",
+    "id": 122159,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08036516015768,
+        39.999829170108804
+      ]
+    },
+    "properties": {
+      "objectid": 122159,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1776330780000,
+      "etr": 1776384900000,
+      "ticket": "17055710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4865917.454999998,-11697492.741999999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{42A0DDD7-D06E-4B7A-ADAB-60D5FBE5DEDA}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Lafayette",
+      "xcelarea": "Lafayette"
+    },
+    "resolvedAt": 1776434006000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 122165,
     "geometry": {
       "type": "Point",
@@ -6962,6 +6997,41 @@
       "xcelarea": "Grand Junction"
     },
     "resolvedAt": 1776413577000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 122570,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.15056495036795,
+        40.662939999954482
+      ]
+    },
+    "properties": {
+      "objectid": 122570,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 81,
+      "off_": 1776381000000,
+      "etr": 1776421800000,
+      "ticket": "17055710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4962751.794799998,-11705307.346900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BD01F429-CDF2-49CE-8EE5-6F4A0091F7BE}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Bellvue,  Laporte,  Fort Collins",
+      "xcelarea": "Bellvue,  Laporte,  Fort Collins"
+    },
+    "resolvedAt": 1776434006000,
     "status": "resolved"
   },
   {
