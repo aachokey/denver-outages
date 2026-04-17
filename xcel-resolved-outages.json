@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 121316,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.88438872023207,
-        39.632226580084634
-      ]
-    },
-    "properties": {
-      "objectid": 121316,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 12,
-      "off_": 1776205620000,
-      "etr": null,
-      "ticket": "15035311",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4812641.494999997,-11675676.7445",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{EF5551A4-E810-41BC-9150-41E4729DA2AF}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Greenwood Village",
-      "xcelarea": "Greenwood Village"
-    },
-    "resolvedAt": 1776251256000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 121326,
     "geometry": {
       "type": "Point",
@@ -7662,6 +7627,41 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1776423592000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 122625,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.77847630978191,
+        39.796466519733137
+      ]
+    },
+    "properties": {
+      "objectid": 122625,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 24,
+      "off_": 1776401220000,
+      "etr": 1776411900000,
+      "ticket": "17045710",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836409.280299999,-11663886.628899999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7F9216F7-810F-4F4C-BE59-076E35708DCD}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1776427197000,
     "status": "resolved"
   }
 ]
