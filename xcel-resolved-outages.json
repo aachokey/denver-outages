@@ -7631,6 +7631,41 @@
   },
   {
     "type": "Feature",
+    "id": 123489,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05847832001284,
+        39.606453729688383
+      ]
+    },
+    "properties": {
+      "objectid": 123489,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 70,
+      "off_": 1776442260000,
+      "etr": 1776473100000,
+      "ticket": "18004110",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4808916.935800001,-11695056.3101",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5F426B6E-E955-4D8A-A144-11F3AD7E1438}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1776499218000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 123508,
     "geometry": {
       "type": "Point",
@@ -7662,6 +7697,41 @@
       "xcelarea": "Alamosa"
     },
     "resolvedAt": 1776488970000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 123533,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.13139093979656,
+        37.058825720222877
+      ]
+    },
+    "properties": {
+      "objectid": 123533,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 855,
+      "off_": 1776437760000,
+      "etr": 1776476700000,
+      "ticket": "18004110",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4447309.509000003,-11814492.3966",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BB97E16C-6C1C-4D3E-A399-481CE19F8858}",
+      "county": "CONEJOS, RIO GRANDE",
+      "cause": "Outage",
+      "city": "Romeo,  Platoro,  Antonito",
+      "xcelarea": "Romeo,  Platoro,  Antonito"
+    },
+    "resolvedAt": 1776499218000,
     "status": "resolved"
   },
   {
