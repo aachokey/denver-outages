@@ -3011,6 +3011,41 @@
   },
   {
     "type": "Feature",
+    "id": 124814,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00069283021084,
+        39.612086049868125
+      ]
+    },
+    "properties": {
+      "objectid": 124814,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 47,
+      "off_": 1776681180000,
+      "etr": 1776706200000,
+      "ticket": "21053310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4809730.771200001,-11688623.6588",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FA2A1AF5-B1A1-4B1E-9739-474CAF755633}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1776779361000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 124818,
     "geometry": {
       "type": "Point",
@@ -4866,6 +4901,41 @@
   },
   {
     "type": "Feature",
+    "id": 125143,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.69477345025926,
+        40.398496969774399
+      ]
+    },
+    "properties": {
+      "objectid": 125143,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 20,
+      "off_": 1776730620000,
+      "etr": 1776752100000,
+      "ticket": "21053310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4924020.880999997,-11654568.869199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4A3C19FF-010E-4916-B7D8-B51FF9F85F29}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1776779361000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 125151,
     "geometry": {
       "type": "Point",
@@ -5107,6 +5177,41 @@
       "xcelarea": "Milliken"
     },
     "resolvedAt": 1776771554000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 125185,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01310786993253,
+        39.720373610287346
+      ]
+    },
+    "properties": {
+      "objectid": 125185,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1776745500000,
+      "etr": 1776755700000,
+      "ticket": "21053310",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825390.549800001,-11690005.694699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EACA79EC-3F5C-4A85-9DAD-A3AC164CF6ED}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1776779361000,
     "status": "resolved"
   }
 ]
