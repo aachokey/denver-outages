@@ -7313,5 +7313,145 @@
     },
     "resolvedAt": 1777128356000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 128067,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.28269292000908,
+        40.010021710152515
+      ]
+    },
+    "properties": {
+      "objectid": 128067,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 12,
+      "off_": 1777105680000,
+      "etr": 1777113000000,
+      "ticket": "25084111",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4867398.714000002,-11720015.7652",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1640A96B-EE26-4FE9-9876-931BC4CAA8DB}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1777131719000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 128068,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01864939007069,
+        39.680362790252154
+      ]
+    },
+    "properties": {
+      "objectid": 128068,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 11,
+      "off_": 1777106100000,
+      "etr": 1777117500000,
+      "ticket": "25084111",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819601.609499998,-11690622.5739",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9B819E09-44B9-4C87-BAD0-B3453A7D3D05}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1777131719000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 128069,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0177943403456,
+        39.679015630340523
+      ]
+    },
+    "properties": {
+      "objectid": 128069,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777106100000,
+      "etr": 1777117500000,
+      "ticket": "25084111",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819406.754900001,-11690527.3902",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0100A8A3-B4D8-408A-B758-76AFC8ED07CA}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1777131719000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 128070,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.70580399029545,
+        40.385206269834555
+      ]
+    },
+    "properties": {
+      "objectid": 128070,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777106280000,
+      "etr": 1777117500000,
+      "ticket": "25084111",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4922078.319600001,-11655796.783300001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BFA80437-8003-4D38-9728-EEC7573522EC}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Evans",
+      "xcelarea": "Evans"
+    },
+    "resolvedAt": 1777131719000,
+    "status": "resolved"
   }
 ]
