@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 126958,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.26784550031446,
-        39.715149820300809
-      ]
-    },
-    "properties": {
-      "objectid": 126958,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 4,
-      "off_": 1776941280000,
-      "etr": 1776970800000,
-      "ticket": "23154510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4824634.558499999,-11718362.958",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{AAB83DE5-B8D2-4BF0-AE3D-0A1E24E838AD}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1776984644000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 126976,
     "geometry": {
       "type": "Point",
@@ -207,41 +172,6 @@
       "xcelarea": "Salida"
     },
     "resolvedAt": 1776999289000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 127036,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.99104132996034,
-        39.609134620014778
-      ]
-    },
-    "properties": {
-      "objectid": 127036,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 556,
-      "off_": 1776946020000,
-      "etr": 1776964500000,
-      "ticket": "23154510",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4809304.299599998,-11798868.749499999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{433D0D3D-FACC-4491-BFFF-BBC313A96BE6}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Keystone,  Dillon",
-      "xcelarea": "Keystone,  Dillon"
-    },
-    "resolvedAt": 1776984644000,
     "status": "resolved"
   },
   {
@@ -487,146 +417,6 @@
       "xcelarea": "Windsor,  Loveland,  Johnstown"
     },
     "resolvedAt": 1777009130000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 127201,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.50457019993706,
-        39.043227779757373
-      ]
-    },
-    "properties": {
-      "objectid": 127201,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1776957540000,
-      "etr": 1776964500000,
-      "ticket": "23154510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4727865.473999999,-12078673.5034",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CC8D0CDC-E7C0-46A7-818B-18AC4AB9E07C}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1776984644000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 127221,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.9927036201728,
-        39.598601880095949
-      ]
-    },
-    "properties": {
-      "objectid": 127221,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 17,
-      "off_": 1776958500000,
-      "etr": 1776968100000,
-      "ticket": "23154510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4807782.502599999,-11799053.7948",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{10896480-DD07-429E-A917-25F110FBE288}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Keystone,  Dillon,  Silverthorne",
-      "xcelarea": "Keystone,  Dillon,  Silverthorne"
-    },
-    "resolvedAt": 1776984644000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 127222,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.9866845502397,
-        39.602971590102037
-      ]
-    },
-    "properties": {
-      "objectid": 127222,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1776958500000,
-      "etr": 1776965400000,
-      "ticket": "23154510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4808413.8213,-11798383.754999999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1C6C5C14-0B01-40C0-A83C-4C026CECB217}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Dillon",
-      "xcelarea": "Dillon"
-    },
-    "resolvedAt": 1776984644000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 127223,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.97822614018689,
-        39.606991600199208
-      ]
-    },
-    "properties": {
-      "objectid": 127223,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 22,
-      "off_": 1776958500000,
-      "etr": 1776968100000,
-      "ticket": "23154510",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4808994.651900001,-11797442.1691",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{02A188EB-B4A6-48B1-AC8B-3E8475BAF899}",
-      "county": "SUMMIT",
-      "cause": "Outage",
-      "city": "Keystone,  Dillon",
-      "xcelarea": "Keystone,  Dillon"
-    },
-    "resolvedAt": 1776984644000,
     "status": "resolved"
   },
   {
@@ -6581,6 +6371,41 @@
   },
   {
     "type": "Feature",
+    "id": 128159,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00181502991826,
+        39.766197999761282
+      ]
+    },
+    "properties": {
+      "objectid": 128159,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1777122900000,
+      "etr": 1777140900000,
+      "ticket": "25163311",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832024.750399999,-11688748.581500001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{294748EA-F33B-4ADC-BA26-468D7677EC02}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1777160471000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 128168,
     "geometry": {
       "type": "Point",
@@ -6612,6 +6437,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1777149726000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 128171,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.11535512976897,
+        39.916267879975905
+      ]
+    },
+    "properties": {
+      "objectid": 128171,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777125360000,
+      "etr": 1777131000000,
+      "ticket": "25163311",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4853782.005999997,-11701387.807599999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9367CFE5-6D7E-443C-884E-83DA4D8144E6}",
+      "county": "BROOMFIELD",
+      "cause": "Outage",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1777160471000,
     "status": "resolved"
   },
   {
@@ -6756,6 +6616,41 @@
   },
   {
     "type": "Feature",
+    "id": 128184,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.71120167039366,
+        40.399188299746854
+      ]
+    },
+    "properties": {
+      "objectid": 128184,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777128480000,
+      "etr": 1777136400000,
+      "ticket": "25163311",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4924121.935900003,-11656397.6503",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E5D92A09-5071-435D-8EFC-3078FD5988D4}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1777160471000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 128191,
     "geometry": {
       "type": "Point",
@@ -6787,6 +6682,41 @@
       "xcelarea": "Breckenridge"
     },
     "resolvedAt": 1777156810000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 128198,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98123095983608,
+        39.5924768498517
+      ]
+    },
+    "properties": {
+      "objectid": 128198,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 22,
+      "off_": 1777131660000,
+      "etr": 1777139100000,
+      "ticket": "25163311",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4806897.649099998,-11686457.1733",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{6595DAED-E32E-4240-924D-333EE6B393EB}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1777160471000,
     "status": "resolved"
   }
 ]
