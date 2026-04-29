@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 128720,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70695625032721,
-        40.375787850147084
-      ]
-    },
-    "properties": {
-      "objectid": 128720,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 5,
-      "off_": 1777254960000,
-      "etr": 1777264200000,
-      "ticket": "27051538",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4920701.960600004,-11655925.052299999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{4648C395-648F-4801-AC60-214318E56467}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Evans",
-      "xcelarea": "Evans"
-    },
-    "resolvedAt": 1777295092000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 128736,
     "geometry": {
       "type": "Point",
@@ -8327,6 +8292,146 @@
       "xcelarea": "Highlands Ranch"
     },
     "resolvedAt": 1777460287000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 130398,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.29698874004372,
+        39.25059309025103
+      ]
+    },
+    "properties": {
+      "objectid": 130398,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777442400000,
+      "etr": 1777450500000,
+      "ticket": "29061538",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4757630.713799998,-11832926.659400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AADBC4AC-998F-478F-B2ED-931AAEE5B217}",
+      "county": "LAKE",
+      "cause": "Outage",
+      "city": "Leadville",
+      "xcelarea": "Leadville"
+    },
+    "resolvedAt": 1777473499000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 130399,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.15973389008127,
+        39.965640610024643
+      ]
+    },
+    "properties": {
+      "objectid": 130399,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777442700000,
+      "etr": 1777450500000,
+      "ticket": "29061538",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4860950.522100002,-11706328.0286",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{63FF6E09-A0BD-4E40-8995-8317EEE9542E}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Louisville",
+      "xcelarea": "Louisville"
+    },
+    "resolvedAt": 1777473499000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 130401,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.30045151998686,
+        39.241805540108636
+      ]
+    },
+    "properties": {
+      "objectid": 130401,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777442880000,
+      "etr": 1777450500000,
+      "ticket": "29061538",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4756367.565700002,-11833312.134300001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1A5ACA6E-A3BC-4319-81A3-DE89884EB1F7}",
+      "county": "LAKE",
+      "cause": "Outage",
+      "city": "Leadville",
+      "xcelarea": "Leadville"
+    },
+    "resolvedAt": 1777473499000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 130402,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.43082832998279,
+        39.578301660330801
+      ]
+    },
+    "properties": {
+      "objectid": 130402,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777443000000,
+      "etr": 1777454100000,
+      "ticket": "29061538",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4804850.127999999,-11847825.6144",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{68A1EE00-F36E-4380-9B15-6D523B559F32}",
+      "county": "EAGLE",
+      "cause": "Outage",
+      "city": "Minturn",
+      "xcelarea": "Minturn"
+    },
+    "resolvedAt": 1777473499000,
     "status": "resolved"
   }
 ]
