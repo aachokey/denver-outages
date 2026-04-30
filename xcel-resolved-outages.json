@@ -8751,6 +8751,41 @@
   },
   {
     "type": "Feature",
+    "id": 130969,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.53120109969122,
+        39.075903610058482
+      ]
+    },
+    "properties": {
+      "objectid": 130969,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1777503120000,
+      "etr": null,
+      "ticket": "30045138",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4732549.9526999965,-12081638.0416",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{62D4CFD2-54B0-4F26-AC3C-6FAEA744A221}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1777551539000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 130981,
     "geometry": {
       "type": "Point",
