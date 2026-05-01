@@ -7138,5 +7138,75 @@
     },
     "resolvedAt": 1777648105000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 131793,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83369924025162,
+        39.660653760223951
+      ]
+    },
+    "properties": {
+      "objectid": 131793,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 44,
+      "off_": 1777625820000,
+      "etr": 1777636800000,
+      "ticket": "1090338",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816751.253899999,-11670034.0174",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{76E2D87A-4E30-4840-AB1A-1828DCD487E5}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1777653122000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 131794,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83372238983648,
+        39.66010577982891
+      ]
+    },
+    "properties": {
+      "objectid": 131794,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777625820000,
+      "etr": 1777636800000,
+      "ticket": "1090338",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816672.015600003,-11670036.5944",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C05AFE2C-FE05-4154-B597-6D95E08A6883}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1777653122000,
+    "status": "resolved"
   }
 ]
