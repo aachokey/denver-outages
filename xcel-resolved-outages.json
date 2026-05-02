@@ -4201,6 +4201,41 @@
   },
   {
     "type": "Feature",
+    "id": 131788,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.89929057968996,
+        37.919444300097659
+      ]
+    },
+    "properties": {
+      "objectid": 131788,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 5,
+      "off_": 1777625580000,
+      "etr": 1777646700000,
+      "ticket": "2071538",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4568052.236000001,-11788655.102699999",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{303393E5-0F82-4B3E-8AB1-C82F250C365B}",
+      "county": "ALAMOSA, SAGUACHE",
+      "cause": "Outage",
+      "city": "Alamosa,  Moffat",
+      "xcelarea": "Alamosa,  Moffat"
+    },
+    "resolvedAt": 1777732178000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 131793,
     "geometry": {
       "type": "Point",
@@ -6437,6 +6472,41 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1777727931000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132163,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.78890605026784,
+        39.640381819895438
+      ]
+    },
+    "properties": {
+      "objectid": 132163,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1777701540000,
+      "etr": null,
+      "ticket": "2071538",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813820.337099999,-11665047.6623",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6B177073-9148-4688-8440-07E80B1F11D5}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1777732178000,
     "status": "resolved"
   }
 ]
