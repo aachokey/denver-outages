@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 130969,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.53120109969122,
-        39.075903610058482
-      ]
-    },
-    "properties": {
-      "objectid": 130969,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 3,
-      "off_": 1777503120000,
-      "etr": null,
-      "ticket": "30045138",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4732549.9526999965,-12081638.0416",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{62D4CFD2-54B0-4F26-AC3C-6FAEA744A221}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1777551539000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 131030,
     "geometry": {
       "type": "Point",
@@ -6021,6 +5986,41 @@
   },
   {
     "type": "Feature",
+    "id": 132079,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01574410998278,
+        39.687877269672221
+      ]
+    },
+    "properties": {
+      "objectid": 132079,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1777653960000,
+      "etr": 1777665600000,
+      "ticket": "2054338",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4820688.581299998,-11690299.1596",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5D01DED6-D3AB-4758-8DF9-0A1DFFD42775}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1777727931000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 132090,
     "geometry": {
       "type": "Point",
@@ -6402,6 +6402,41 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1777709277000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132156,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.70561571958157,
+        40.388197120077884
+      ]
+    },
+    "properties": {
+      "objectid": 132156,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 369,
+      "off_": 1777695300000,
+      "etr": 1777705200000,
+      "ticket": "2054338",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4922515.427199997,-11655775.825100001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{394547D0-FEF5-4FB0-9036-D8CAB37EBB35}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1777727931000,
     "status": "resolved"
   }
 ]
