@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 131588,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.09354774022111,
-        39.877870610032872
-      ]
-    },
-    "properties": {
-      "objectid": 131588,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1777603080000,
-      "etr": null,
-      "ticket": "1034338",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4848210.608599998,-11698960.2201",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4BAB7E5A-6E33-4B37-9FBE-A7603C4E5434}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Westminster",
-      "xcelarea": "Westminster"
-    },
-    "resolvedAt": 1777633743000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 131601,
     "geometry": {
       "type": "Point",
@@ -5912,6 +5877,76 @@
       "xcelarea": "Milliken"
     },
     "resolvedAt": 1777796443000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132459,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90836246985114,
+        39.787501229844821
+      ]
+    },
+    "properties": {
+      "objectid": 132459,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777763580000,
+      "etr": null,
+      "ticket": "3045030",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835110.417099997,-11678345.4901",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{68D75498-5FA0-42E2-9FD7-6FE1773B0189}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1777809036000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132460,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9123403500664,
+        39.787600769740806
+      ]
+    },
+    "properties": {
+      "objectid": 132460,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777763760000,
+      "etr": null,
+      "ticket": "3045030",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835124.837200001,-11678788.3057",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3E23E711-E901-45D3-824A-95BEEC287ECF}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1777809036000,
     "status": "resolved"
   },
   {
