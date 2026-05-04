@@ -106,41 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 132175,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70998049969812,
-        40.387366890265824
-      ]
-    },
-    "properties": {
-      "objectid": 132175,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 149,
-      "off_": 1777695300000,
-      "etr": 1777726800000,
-      "ticket": "2111938",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4922394.088600002,-11656261.7102",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{0CB8CD68-5D96-47F7-B3F8-3E1C3284BED1}",
-      "county": "WELD",
-      "cause": "Outage",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1777745420000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 132190,
     "geometry": {
       "type": "Point",
@@ -312,146 +277,6 @@
       "xcelarea": "Carbondale"
     },
     "resolvedAt": 1777754810000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132232,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.04171387034907,
-        39.673027180289793
-      ]
-    },
-    "properties": {
-      "objectid": 132232,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 37,
-      "off_": 1777713840000,
-      "etr": 1777721400000,
-      "ticket": "2120338",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818540.625299998,-11693190.1001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4F1D628D-2C2F-470D-8C43-82AFB6F0D6D2}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1777750497000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132294,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.98845440023271,
-        38.529100490245675
-      ]
-    },
-    "properties": {
-      "objectid": 132294,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1777718160000,
-      "etr": 1777726800000,
-      "ticket": "2120338",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4654441.975599997,-11798580.7738",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{0241B3AD-94B7-4968-A206-47C3AD495B5F}",
-      "county": "CHAFFEE",
-      "cause": "Outage",
-      "city": "Salida",
-      "xcelarea": "Salida"
-    },
-    "resolvedAt": 1777750497000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132300,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.98364634009056,
-        39.583432519729527
-      ]
-    },
-    "properties": {
-      "objectid": 132300,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1777719720000,
-      "etr": 1777726800000,
-      "ticket": "2111938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4805591.201499999,-11686726.0522",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5C0A03CB-2A74-4A3B-BA8B-9E72DF4780AF}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1777745420000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132301,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.86947134962458,
-        39.697543890342452
-      ]
-    },
-    "properties": {
-      "objectid": 132301,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1777719360000,
-      "etr": 1777726800000,
-      "ticket": "2111938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4822087.034999996,-11674016.1504",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{6B9104BC-A66E-48DA-8E29-79C6EB7E93B8}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1777745420000,
     "status": "resolved"
   },
   {
@@ -3606,6 +3431,41 @@
   },
   {
     "type": "Feature",
+    "id": 132838,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99433945044812,
+        39.610140299974383
+      ]
+    },
+    "properties": {
+      "objectid": 132838,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 30,
+      "off_": 1777885020000,
+      "etr": 1777906800000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4809449.6149,-11687916.4038",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{BC42BEE3-25A9-4422-B0D4-DE26E8F82C4D}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 132851,
     "geometry": {
       "type": "Point",
@@ -3637,6 +3497,41 @@
       "xcelarea": "Westminster"
     },
     "resolvedAt": 1777916581000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132861,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0524639500653,
+        39.782454390257925
+      ]
+    },
+    "properties": {
+      "objectid": 132861,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1777885560000,
+      "etr": 1777906800000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4834379.321199998,-11694386.793499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8E0D4064-A970-47B3-B6B2-F359A3311B05}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakeside",
+      "xcelarea": "Lakeside"
+    },
+    "resolvedAt": 1777923829000,
     "status": "resolved"
   },
   {
@@ -3742,6 +3637,41 @@
       "xcelarea": "Brush"
     },
     "resolvedAt": 1777916581000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132871,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.33920603963594,
+        39.697944239772603
+      ]
+    },
+    "properties": {
+      "objectid": 132871,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777886040000,
+      "etr": 1777903200000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822144.9570999965,-11726306.7769",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C7DEDDC2-5783-4AB1-81F8-730FDF75CAD0}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1777923829000,
     "status": "resolved"
   },
   {
@@ -3917,6 +3847,531 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1777916581000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132886,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.38287169032623,
+        40.078603450284781
+      ]
+    },
+    "properties": {
+      "objectid": 132886,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1777886520000,
+      "etr": 1777912200000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4877371.301799998,-11731167.6149",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D6B782F3-7894-4CBE-A398-AE3C11620C28}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder,  Jamestown",
+      "xcelarea": "Boulder,  Jamestown"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132887,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.2562905103407,
+        39.69588970977675
+      ]
+    },
+    "properties": {
+      "objectid": 132887,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777886580000,
+      "etr": 1777900500000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4821847.713600002,-11717076.6624",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{BD742CD4-E5B7-4FEB-AF33-FD6A13DD6D30}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132890,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.38157695030387,
+        40.079214310308544
+      ]
+    },
+    "properties": {
+      "objectid": 132890,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 27,
+      "off_": 1777886820000,
+      "etr": 1777919400000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4877460.173100002,-11731023.485100001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3FB81831-2D2D-4C6A-A94A-DB2AEBD11C54}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder,  Jamestown",
+      "xcelarea": "Boulder,  Jamestown"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132903,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.35858393998949,
+        39.598265469795741
+      ]
+    },
+    "properties": {
+      "objectid": 132903,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 6,
+      "off_": 1777887600000,
+      "etr": 1777903200000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807733.901000001,-11728463.914900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{34393C77-3D59-4400-B7FE-AD969B7417DB}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132945,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.71538460005569,
+        40.579496220006959
+      ]
+    },
+    "properties": {
+      "objectid": 132945,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777889580000,
+      "etr": null,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4950513.914899997,-11656863.2919",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1325A2DB-98AA-49CF-B4CC-2F986F854635}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Ault",
+      "xcelarea": "Ault"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132971,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0239679995593,
+        39.910037989920191
+      ]
+    },
+    "properties": {
+      "objectid": 132971,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1777890720000,
+      "etr": null,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4852877.844300002,-11691214.638799999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A1A24318-44DE-41D5-9290-C10A2135C8AD}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132978,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99841220982539,
+        39.586160699977583
+      ]
+    },
+    "properties": {
+      "objectid": 132978,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777890960000,
+      "etr": 1777897800000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4805985.2673999965,-11688369.7813",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8BC50965-C2CE-4856-A613-F0B0038C9A00}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 132983,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13266185014895,
+        39.767459260248096
+      ]
+    },
+    "properties": {
+      "objectid": 132983,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1777891260000,
+      "etr": 1777920300000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4832207.4111,-11703314.3829",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{131666FD-E5E0-4233-B18E-522F15F6F015}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Wheat Ridge",
+      "xcelarea": "Wheat Ridge"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133007,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87410522996596,
+        39.654554509942152
+      ]
+    },
+    "properties": {
+      "objectid": 133007,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777892580000,
+      "etr": 1777914900000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815869.333999999,-11674531.9916",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{30588545-E804-4AF1-B3FB-71651327ECE2}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133008,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10482906024021,
+        40.594353769942806
+      ]
+    },
+    "properties": {
+      "objectid": 133008,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777892280000,
+      "etr": 1777897800000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4952691.807700001,-11700216.050900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F93AC962-942D-4165-947C-BB5C19DB7D0D}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Fort Collins",
+      "xcelarea": "Fort Collins"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133023,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02301500023059,
+        39.846581769692506
+      ]
+    },
+    "properties": {
+      "objectid": 133023,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777893840000,
+      "etr": 1777904100000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4843672.942000002,-11691108.5514",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E481AAD1-40DF-4C5E-9675-99B99FD6A930}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133025,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.77710024976845,
+        39.687253739743241
+      ]
+    },
+    "properties": {
+      "objectid": 133025,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777894140000,
+      "etr": 1777905000000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4820598.383000001,-11663733.446600001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{16E0568F-4C07-4DA1-B2CD-742F5179242A}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133031,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.17758889000838,
+        39.819137970237598
+      ]
+    },
+    "properties": {
+      "objectid": 133031,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 6,
+      "off_": 1777894320000,
+      "etr": 1777905900000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839694.6049000025,-11708315.6381",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C06EA26A-1310-4308-B17D-EEF72EB1D44B}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133032,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07451875989696,
+        39.793869070164284
+      ]
+    },
+    "properties": {
+      "objectid": 133032,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777894380000,
+      "etr": 1777905900000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836032.952500001,-11696841.923700001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8ADD8A0E-F877-4C49-B430-1D301998F88B}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1777923829000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133033,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.06033417021955,
+        39.797989750207933
+      ]
+    },
+    "properties": {
+      "objectid": 133033,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777894560000,
+      "etr": 1777905900000,
+      "ticket": "4113829",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836629.978,-11695262.9024",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AC6F422A-55BC-44C2-8F60-341935540CF2}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1777923829000,
     "status": "resolved"
   }
 ]
