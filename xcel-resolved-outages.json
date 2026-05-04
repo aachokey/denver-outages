@@ -1,6 +1,41 @@
 [
   {
     "type": "Feature",
+    "id": 128754,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01054901974403,
+        39.62812995995391
+      ]
+    },
+    "properties": {
+      "objectid": 128754,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1777267380000,
+      "etr": null,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812049.379900001,-11689720.8448",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C527E4BC-8FFB-4CE4-9549-E64EC8AB76A2}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood,  Littleton,  Sheridan",
+      "xcelarea": "Englewood,  Littleton,  Sheridan"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 131507,
     "geometry": {
       "type": "Point",
@@ -102,41 +137,6 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1777762088000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132307,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.85229728975081,
-        39.667695619672799
-      ]
-    },
-    "properties": {
-      "objectid": 132307,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 103,
-      "off_": 1777721820000,
-      "etr": 1777726800000,
-      "ticket": "2143938",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4817769.567000002,-11672104.342799999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{89B8F1DC-D753-4E56-A839-370789D51D49}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1777758299000,
     "status": "resolved"
   },
   {
@@ -281,41 +281,6 @@
   },
   {
     "type": "Feature",
-    "id": 132360,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.8515294296089,
-        39.668218100280718
-      ]
-    },
-    "properties": {
-      "objectid": 132360,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 8,
-      "off_": 1777721820000,
-      "etr": 1777734900000,
-      "ticket": "2143938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4817845.1263,-11672018.865",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{4EE65E6C-6D68-4463-A8BF-823328DBA47C}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1777758299000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 132361,
     "geometry": {
       "type": "Point",
@@ -347,76 +312,6 @@
       "xcelarea": "Louisville"
     },
     "resolvedAt": 1777765771000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132374,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92635805971348,
-        39.593214729779525
-      ]
-    },
-    "properties": {
-      "objectid": 132374,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1777731720000,
-      "etr": 1777739400000,
-      "ticket": "2143938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4807004.242899999,-11680348.75",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{0287C177-964C-4828-AA65-B0DC01900787}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1777758299000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 132375,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.95674741988655,
-        39.888313870109521
-      ]
-    },
-    "properties": {
-      "objectid": 132375,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1777732260000,
-      "etr": 1777743900000,
-      "ticket": "2143938",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4849725.604000002,-11683731.678100001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1FFF126B-9401-4359-B1D2-D20EE1910114}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1777758299000,
     "status": "resolved"
   },
   {
@@ -3116,6 +3011,41 @@
   },
   {
     "type": "Feature",
+    "id": 132820,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.31511586027119,
+        39.608652090144432
+      ]
+    },
+    "properties": {
+      "objectid": 132820,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 4,
+      "off_": 1777884000000,
+      "etr": 1777926600000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4809234.577399999,-11723625.0704",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{DA99AEF4-ABE5-4368-8CA2-290B9FAFD69A}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 132822,
     "geometry": {
       "type": "Point",
@@ -4687,6 +4617,601 @@
       "xcelarea": "Littleton"
     },
     "resolvedAt": 1777929057000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133150,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95346674012958,
+        40.335605330051628
+      ]
+    },
+    "properties": {
+      "objectid": 133150,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 831,
+      "off_": 1777903440000,
+      "etr": 1777909500000,
+      "ticket": "4150629",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4914832.055600002,-11683366.4745",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{5870D7F2-0A35-4CD2-9791-8475B969C0FB}",
+      "county": "WELD, LARIMER",
+      "cause": "Outage",
+      "city": "Loveland,  Johnstown,  Fort Collins",
+      "xcelarea": "Loveland,  Johnstown,  Fort Collins"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133158,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99921976023153,
+        39.938890799907924
+      ]
+    },
+    "properties": {
+      "objectid": 133158,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1777905000000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4857066.0266999975,-11688459.6774",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{A816A2E7-7276-4E87-A491-0B7A988E34C0}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133195,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.11158681040025,
+        37.704946519710461
+      ]
+    },
+    "properties": {
+      "objectid": 133195,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 60,
+      "off_": 1777906440000,
+      "etr": 1777914900000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4537828.093199998,-11812287.811",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D9DEE48E-C451-4AD3-B028-6E1540861ED7}",
+      "county": "SAGUACHE, ALAMOSA, RIO GRANDE",
+      "cause": "Outage",
+      "city": "Mosca,  Center,  Monte Vista",
+      "xcelarea": "Mosca,  Center,  Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133198,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.11154197009455,
+        37.68666289970124
+      ]
+    },
+    "properties": {
+      "objectid": 133198,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4535255.864200003,-11812282.819400001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5C52D404-9EB2-46D4-B53D-0E37F0A564DE}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133199,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.8618473496653,
+        37.467625979891388
+      ]
+    },
+    "properties": {
+      "objectid": 133199,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 5,
+      "off_": 1777906620000,
+      "etr": 1777911300000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4504489.811899997,-11784486.941399999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FBCD412A-5759-456C-A054-243B9A348064}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Alamosa",
+      "xcelarea": "Alamosa"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133200,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.89452838040013,
+        37.476512649828521
+      ]
+    },
+    "properties": {
+      "objectid": 133200,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4505736.280199997,-11788124.9771",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{55303CAA-E351-407C-B710-F35727FB3540}",
+      "county": "SAGUACHE",
+      "cause": "Outage",
+      "city": "Center",
+      "xcelarea": "Center"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133201,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.14007949014029,
+        37.661802669821434
+      ]
+    },
+    "properties": {
+      "objectid": 133201,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4531759.422600001,-11815459.601599999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{52C3E87A-A5D5-422E-8940-09F9DAA9DA6A}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133202,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.88247462961095,
+        37.46660781994138
+      ]
+    },
+    "properties": {
+      "objectid": 133202,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4504347.011500001,-11786783.159699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0F1F7907-CB88-40A8-A03A-F48B80DE3B5A}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133203,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.11145332973219,
+        37.705386730315524
+      ]
+    },
+    "properties": {
+      "objectid": 133203,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 115,
+      "off_": 1777906500000,
+      "etr": 1777914900000,
+      "ticket": "4150629",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4537890.031999998,-11812272.952",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8FE07E06-0F21-46BF-86FF-932B1FBBD11D}",
+      "county": "SAGUACHE, RIO GRANDE",
+      "cause": "Outage",
+      "city": "Center",
+      "xcelarea": "Center"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133204,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.12877950043467,
+        37.668681090285475
+      ]
+    },
+    "properties": {
+      "objectid": 133204,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1777906620000,
+      "etr": 1777911300000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4532726.713799998,-11814201.692499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E095ACCB-BE23-404E-9686-D1479E9D0FAF}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133205,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.89332348987249,
+        37.475636100228215
+      ]
+    },
+    "properties": {
+      "objectid": 133205,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4505613.326399997,-11787990.8493",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{AD25D089-E36E-4783-8D57-32D5C8A8EEBC}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Alamosa",
+      "xcelarea": "Alamosa"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133206,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.11167368018317,
+        37.667998399649314
+      ]
+    },
+    "properties": {
+      "objectid": 133206,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4532630.7051,-11812297.4813",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4BE74223-F693-4B75-9254-6DA1671B01B7}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133207,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.87725305973261,
+        37.468856429906701
+      ]
+    },
+    "properties": {
+      "objectid": 133207,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4504662.389300004,-11786201.8972",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8EE8F10A-3AB7-4BDB-AEB0-C77BFF38BB39}",
+      "county": "ALAMOSA",
+      "cause": "Outage",
+      "city": "Alamosa",
+      "xcelarea": "Alamosa"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133208,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.07389833042156,
+        37.647327390257111
+      ]
+    },
+    "properties": {
+      "objectid": 133208,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4529724.101099998,-11808092.3486",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9BB3516F-F231-4446-B2EF-47D4012EC316}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133209,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.11154387991282,
+        37.691007960291579
+      ]
+    },
+    "properties": {
+      "objectid": 133209,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1777906620000,
+      "etr": 1777912200000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4535867.0911,-11812283.032",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{312D1ABC-491C-4EC8-83FB-E128065EA6AD}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Center",
+      "xcelarea": "Center"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133212,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.07058517027889,
+        37.661388920085635
+      ]
+    },
+    "properties": {
+      "objectid": 133212,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1777906620000,
+      "etr": 1777911300000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4531701.241099998,-11807723.5293",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0AA6D60A-12E8-41E2-AFA8-D6239E371CB0}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Monte Vista",
+      "xcelarea": "Monte Vista"
+    },
+    "resolvedAt": 1777933941000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133213,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.11151091982674,
+        37.700869819912285
+      ]
+    },
+    "properties": {
+      "objectid": 133213,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 5,
+      "off_": 1777906620000,
+      "etr": 1777911300000,
+      "ticket": "4150629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4537254.508199997,-11812279.3629",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{15BDB849-2691-4561-AC5B-459124092E26}",
+      "county": "RIO GRANDE",
+      "cause": "Outage",
+      "city": "Center",
+      "xcelarea": "Center"
+    },
+    "resolvedAt": 1777933941000,
     "status": "resolved"
   }
 ]
