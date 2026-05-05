@@ -5006,6 +5006,41 @@
   },
   {
     "type": "Feature",
+    "id": 133240,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02538518983638,
+        39.62475195022234
+      ]
+    },
+    "properties": {
+      "objectid": 133240,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 5,
+      "off_": 1777911000000,
+      "etr": 1777921200000,
+      "ticket": "4213029",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811561.157300003,-11691372.3997",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E5C3E755-5A98-46B3-99F6-DAD52EACDB44}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1777961927000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 133242,
     "geometry": {
       "type": "Point",
@@ -5247,6 +5282,76 @@
       "xcelarea": "Monte Vista"
     },
     "resolvedAt": 1777952061000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133315,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.28442199008143,
+        40.016391090023113
+      ]
+    },
+    "properties": {
+      "objectid": 133315,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 310,
+      "off_": 1777927620000,
+      "etr": 1777938300000,
+      "ticket": "4213029",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4868324.473999999,-11720208.2444",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C554DF0E-8C1B-4922-8A16-E7E49926636E}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1777961927000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 133316,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.3365758704004,
+        39.633435149771387
+      ]
+    },
+    "properties": {
+      "objectid": 133316,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1777927680000,
+      "etr": 1777939200000,
+      "ticket": "4213029",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812816.1853,-11726013.9878",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2936A96F-62FB-4A86-AADE-8F0BE3A9E932}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1777961927000,
     "status": "resolved"
   }
 ]
