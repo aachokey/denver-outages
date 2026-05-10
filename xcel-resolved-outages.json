@@ -8541,6 +8541,41 @@
   },
   {
     "type": "Feature",
+    "id": 139783,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97065824977776,
+        39.725879540072754
+      ]
+    },
+    "properties": {
+      "objectid": 139783,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 64,
+      "off_": 1778354400000,
+      "etr": 1778418000000,
+      "ticket": "10055030",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826187.434600003,-11685280.2246",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6F4CC192-FC59-4910-A8A9-C708BE871358}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1778419497000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 139797,
     "geometry": {
       "type": "Point",
@@ -9346,6 +9381,41 @@
   },
   {
     "type": "Feature",
+    "id": 139862,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13012073989069,
+        39.780335019925921
+      ]
+    },
+    "properties": {
+      "objectid": 139862,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 62,
+      "off_": 1778360520000,
+      "etr": 1778418000000,
+      "ticket": "10055030",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4834072.320699997,-11703031.5078",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{67BB43E6-49D7-4B36-868D-3286A6E6EDEC}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Wheat Ridge",
+      "xcelarea": "Wheat Ridge"
+    },
+    "resolvedAt": 1778419497000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 139864,
     "geometry": {
       "type": "Point",
@@ -10077,6 +10147,41 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1778414064000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 139997,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02244472004381,
+        39.675138169677112
+      ]
+    },
+    "properties": {
+      "objectid": 139997,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1778391540000,
+      "etr": 1778402700000,
+      "ticket": "10055030",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818845.9362,-11691045.0681",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{698C7373-3C39-4EB1-88A8-07933D0F3B91}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1778419497000,
     "status": "resolved"
   }
 ]
