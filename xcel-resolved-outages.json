@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 142538,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.10850934027992,
-        39.738947839712424
-      ]
-    },
-    "properties": {
-      "objectid": 142538,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 3,
-      "off_": 1778697540000,
-      "etr": 1778729400000,
-      "ticket": "14020230",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4828079.0918999985,-11700625.7378",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{998D3927-6A0F-406C-8BAE-3C4F56483351}",
-      "county": "JEFFERSON",
-      "cause": "Outage",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1778756174000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 142571,
     "geometry": {
       "type": "Point",
@@ -242,76 +207,6 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1778763396000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 142606,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -106.00351949968699,
-        38.525019599698112
-      ]
-    },
-    "properties": {
-      "objectid": 142606,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 511,
-      "off_": 1778709900000,
-      "etr": 1778720400000,
-      "ticket": "14020230",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4653861.284699999,-11800257.813000001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A7623E9A-AF4F-480F-B417-285F92087EFE}",
-      "county": "CHAFFEE",
-      "cause": "Outage",
-      "city": "Salida",
-      "xcelarea": "Salida"
-    },
-    "resolvedAt": 1778756174000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 142649,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.96897241023012,
-        39.861181260156947
-      ]
-    },
-    "properties": {
-      "objectid": 142649,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1778715840000,
-      "etr": 1778727600000,
-      "ticket": "14020230",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4845789.976800002,-11685092.557799999",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{83E79F68-1983-4AC8-813E-D4B6CC28CA17}",
-      "county": "ADAMS",
-      "cause": "Outage",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1778756174000,
     "status": "resolved"
   },
   {
@@ -10007,6 +9902,41 @@
       "xcelarea": "Timnath"
     },
     "resolvedAt": 1778919773000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 144695,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.29260360044913,
+        40.013469560314412
+      ]
+    },
+    "properties": {
+      "objectid": 144695,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 26,
+      "off_": 1778890740000,
+      "etr": null,
+      "ticket": "16035430",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4867899.832400002,-11721119.017099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{3F884FBD-19EF-469D-99C0-A08440D701EA}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1778929632000,
     "status": "resolved"
   },
   {
