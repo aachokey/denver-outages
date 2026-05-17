@@ -6371,6 +6371,41 @@
   },
   {
     "type": "Feature",
+    "id": 145413,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83096040001952,
+        39.743335350230709
+      ]
+    },
+    "properties": {
+      "objectid": 145413,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1778971440000,
+      "etr": null,
+      "ticket": "17034630",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828714.271499999,-11669729.131099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{41050872-AEEA-4ECE-8D8A-47E126C743B6}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1779016184000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 145414,
     "geometry": {
       "type": "Point",
@@ -6507,6 +6542,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1779004543000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 145468,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07881592022881,
+        39.864674039706117
+      ]
+    },
+    "properties": {
+      "objectid": 145468,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1778988480000,
+      "etr": 1778997600000,
+      "ticket": "17034630",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4846296.522600003,-11697320.281399999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F8013AF9-6632-4C3C-81FF-514AC5D0C528}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1779016184000,
     "status": "resolved"
   }
 ]
