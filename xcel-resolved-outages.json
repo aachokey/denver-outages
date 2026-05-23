@@ -5878,5 +5878,40 @@
     },
     "resolvedAt": 1779533597000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 150183,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.92237945994766,
+        40.289594639679827
+      ]
+    },
+    "properties": {
+      "objectid": 150183,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 16,
+      "off_": 1779502860000,
+      "etr": 1779516900000,
+      "ticket": "23044629",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4908115.056500003,-11679905.8543",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0115C9D0-5E89-4A0A-B08E-E359BCD1F9C7}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Johnstown",
+      "xcelarea": "Johnstown"
+    },
+    "resolvedAt": 1779537639000,
+    "status": "resolved"
   }
 ]
