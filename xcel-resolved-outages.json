@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 151054,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.91069080964279,
-        39.708358670106414
-      ]
-    },
-    "properties": {
-      "objectid": 151054,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1779660480000,
-      "etr": 1779670800000,
-      "ticket": "25030750",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4823651.823100001,-11678604.6797",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{CF74E828-450F-4893-9A7F-AF1FB5588445}",
-      "county": "DENVER",
-      "cause": "Outage",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1779713322000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 151122,
     "geometry": {
       "type": "Point",
@@ -2657,6 +2622,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1779828936000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 152021,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95132019958852,
+        39.686428110046691
+      ]
+    },
+    "properties": {
+      "objectid": 152021,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1779789000000,
+      "etr": 1779871500000,
+      "ticket": "27055150",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4820478.9507,-11683127.5227",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{ACA74774-90D0-4F0C-964A-5EC2902661BA}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1779897120000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 152022,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.04605549016141,
+        39.472916370209518
+      ]
+    },
+    "properties": {
+      "objectid": 152022,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 99,
+      "off_": 1779757560000,
+      "etr": 1779883200000,
+      "ticket": "27055150",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4789640.9626,-11804992.8978",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EA1AD845-0245-4918-A664-12A6B28F71E3}",
+      "county": "SUMMIT",
+      "cause": "Outage",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "resolvedAt": 1779897120000,
     "status": "resolved"
   },
   {
