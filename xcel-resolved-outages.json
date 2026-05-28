@@ -5426,6 +5426,41 @@
   },
   {
     "type": "Feature",
+    "id": 153208,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.18306615006099,
+        40.635454070215644
+      ]
+    },
+    "properties": {
+      "objectid": 153208,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1779894120000,
+      "etr": 1779964200000,
+      "ticket": "28023950",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4958719.0145,-11708925.3639",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F14A5974-D5C4-4180-985F-E8D9CADEA90B}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Bellvue",
+      "xcelarea": "Bellvue"
+    },
+    "resolvedAt": 1779971401000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 153223,
     "geometry": {
       "type": "Point",
