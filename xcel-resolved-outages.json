@@ -106,111 +106,6 @@
   },
   {
     "type": "Feature",
-    "id": 157168,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.94945492964773,
-        39.64110734028683
-      ]
-    },
-    "properties": {
-      "objectid": 157168,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 155,
-      "off_": 1780357140000,
-      "etr": 1780367400000,
-      "ticket": "2024831",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4813925.218000002,-11682919.8818",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{DCA630C8-2AC5-4400-8E15-EFCDACE8D378}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Englewood,  Cherry Hills Village",
-      "xcelarea": "Englewood,  Cherry Hills Village"
-    },
-    "resolvedAt": 1780404235000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 157196,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.94924320032851,
-        39.641072980223854
-      ]
-    },
-    "properties": {
-      "objectid": 157196,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1780359600000,
-      "etr": 1780367400000,
-      "ticket": "2024831",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4813920.2509,-11682896.312199999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{11D5CB02-8FD8-49E1-B2C6-50CE9C5E5295}",
-      "county": "ARAPAHOE",
-      "cause": "Outage",
-      "city": "Cherry Hills Village",
-      "xcelarea": "Cherry Hills Village"
-    },
-    "resolvedAt": 1780404235000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 157209,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.59229222983866,
-        39.092864949840553
-      ]
-    },
-    "properties": {
-      "objectid": 157209,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 25,
-      "off_": 1780367580000,
-      "etr": 1780376400000,
-      "ticket": "2024831",
-      "outageimpact": "Small",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4734982.422799997,-12088438.675099999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A876E9F7-7EB3-48B2-869C-7A4E5CE86C55}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1780404235000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 157227,
     "geometry": {
       "type": "Point",
@@ -5037,6 +4932,111 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1780570032000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 159063,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0540503101784,
+        39.812614959937555
+      ]
+    },
+    "properties": {
+      "objectid": 159063,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1780535400000,
+      "etr": 1780545600000,
+      "ticket": "4044031",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4838749.243100002,-11694563.386300001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E22E3F93-A979-492B-9A9D-8B3F994C1DB5}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1780581730000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 159096,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94223471965331,
+        39.93053724972949
+      ]
+    },
+    "properties": {
+      "objectid": 159096,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1780546560000,
+      "etr": 1780554600000,
+      "ticket": "4044031",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4855853.270300001,-11682116.1317",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{CF7AEA74-DAA9-4C25-956A-C65C023173D5}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1780581730000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 159103,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90472948970437,
+        39.762382410215103
+      ]
+    },
+    "properties": {
+      "objectid": 159103,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1780547760000,
+      "etr": 1780559100000,
+      "ticket": "4044031",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831472.182099998,-11677941.068599999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A0FAC10E-E6B7-42D5-AA43-501714EA5B81}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1780581730000,
     "status": "resolved"
   }
 ]
