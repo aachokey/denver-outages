@@ -5286,6 +5286,41 @@
   },
   {
     "type": "Feature",
+    "id": 161484,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.78500911993777,
+        39.626856190265826
+      ]
+    },
+    "properties": {
+      "objectid": 161484,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1780785480000,
+      "etr": 1780850700000,
+      "ticket": "7124431",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811865.279600002,-11664613.858",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{71C336A5-FB82-41D8-A3D6-30D2590CFE34}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1780863230000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 161490,
     "geometry": {
       "type": "Point",
@@ -5671,6 +5706,41 @@
   },
   {
     "type": "Feature",
+    "id": 161609,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.38469570962917,
+        39.632120580177791
+      ]
+    },
+    "properties": {
+      "objectid": 161609,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1780819560000,
+      "etr": 1780832700000,
+      "ticket": "7124431",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812626.173600003,-11731370.663800001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{DEE7CCEB-67C0-41D7-9617-DBA3CC3A2D3E}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1780863230000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 161612,
     "geometry": {
       "type": "Point",
@@ -5702,6 +5772,41 @@
       "xcelarea": "Kersey"
     },
     "resolvedAt": 1780858107000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 161626,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0298692204086,
+        39.835810329667254
+      ]
+    },
+    "properties": {
+      "objectid": 161626,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 23,
+      "off_": 1780777200000,
+      "etr": 1780833600000,
+      "ticket": "7124431",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4842111.291599996,-11691871.559700001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A7E1E690-534F-402A-A331-959907F3D6C7}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1780863230000,
     "status": "resolved"
   },
   {
@@ -5912,6 +6017,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1780858107000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 161698,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.28413402972721,
+        40.011243819764324
+      ]
+    },
+    "properties": {
+      "objectid": 161698,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1780833780000,
+      "etr": 1780840800000,
+      "ticket": "7124431",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4867576.3352999985,-11720176.1888",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9470D07A-FC2E-4FE2-BBBD-E457B96A36B8}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1780863230000,
     "status": "resolved"
   }
 ]
