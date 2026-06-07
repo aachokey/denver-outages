@@ -5461,6 +5461,41 @@
   },
   {
     "type": "Feature",
+    "id": 161422,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02887514022359,
+        39.836046820049575
+      ]
+    },
+    "properties": {
+      "objectid": 161422,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1780777200000,
+      "etr": 1780833600000,
+      "ticket": "7075631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4842145.575499997,-11691760.8992",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9B1F50DA-380D-45A2-B85A-AE76059CF3CD}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1780846752000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 161424,
     "geometry": {
       "type": "Point",
@@ -6052,6 +6087,111 @@
       "xcelarea": "Westminster"
     },
     "resolvedAt": 1780832980000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 161513,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01643515967633,
+        39.719719730295573
+      ]
+    },
+    "properties": {
+      "objectid": 161513,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 6,
+      "off_": 1780804320000,
+      "etr": 1780822800000,
+      "ticket": "7075631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825295.916599996,-11690376.0869",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{D25C7546-DF63-45CE-AA8B-4B4EEF7CF846}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1780846752000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 161573,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96666934004743,
+        39.856540599933055
+      ]
+    },
+    "properties": {
+      "objectid": 161573,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 30,
+      "off_": 1780815600000,
+      "etr": 1780822800000,
+      "ticket": "7075631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4845116.997699998,-11684836.181200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{273FFE1C-38E0-4F5A-AE40-E90BAB17C750}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1780846752000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 161594,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.92227299970503,
+        39.823647430258873
+      ]
+    },
+    "properties": {
+      "objectid": 161594,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1780817940000,
+      "etr": 1780825500000,
+      "ticket": "7075631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840348.200900003,-11679894.0032",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0DFBE906-3EDB-4B64-AB64-D9CACBE95CCB}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1780846752000,
     "status": "resolved"
   }
 ]
