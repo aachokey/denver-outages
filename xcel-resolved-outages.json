@@ -6406,6 +6406,41 @@
   },
   {
     "type": "Feature",
+    "id": 170254,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.60268124969278,
+        39.086341039948316
+      ]
+    },
+    "properties": {
+      "objectid": 170254,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1781275140000,
+      "etr": null,
+      "ticket": "13033631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4734046.742600001,-12089595.1755",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C1792EB4-36EE-40DA-A7B1-B37344CD69E0}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1781351701000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 170266,
     "geometry": {
       "type": "Point",
@@ -7802,6 +7837,76 @@
       "xcelarea": "Evergreen"
     },
     "resolvedAt": 1781331578000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 170592,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.79758092016814,
+        39.716990629990946
+      ]
+    },
+    "properties": {
+      "objectid": 170592,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1781317800000,
+      "etr": 1781325900000,
+      "ticket": "13033631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4824900.955499999,-11666013.3444",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{66AC1C65-ABEC-450E-93BF-C0283821340F}",
+      "county": "ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1781351701000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 170595,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.09674262008863,
+        39.615413579865304
+      ]
+    },
+    "properties": {
+      "objectid": 170595,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 45,
+      "off_": 1781320200000,
+      "etr": 1781328600000,
+      "ticket": "13033631",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4810211.6098000035,-11699315.872499999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{24D7A137-58C7-4D75-AB6D-35B2C0F94C43}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1781351701000,
     "status": "resolved"
   }
 ]
