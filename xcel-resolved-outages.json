@@ -6161,6 +6161,41 @@
   },
   {
     "type": "Feature",
+    "id": 177851,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.288611910433,
+        40.035615469989928
+      ]
+    },
+    "properties": {
+      "objectid": 177851,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1781906700000,
+      "etr": 1781931600000,
+      "ticket": "20042831",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4871119.173100002,-11720674.6642",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1305F628-589D-48BF-BCA1-9F47C6B26684}",
+      "county": "BOULDER",
+      "cause": "Outage",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1781958409000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 177919,
     "geometry": {
       "type": "Point",
