@@ -6441,6 +6441,41 @@
   },
   {
     "type": "Feature",
+    "id": 181195,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.43158164993311,
+        37.384702810335057
+      ]
+    },
+    "properties": {
+      "objectid": 181195,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1782234240000,
+      "etr": 1782259200000,
+      "ticket": "24044831",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4492865.9174000025,-11736589.9828",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B56017F2-1DEE-4738-BA8E-821A5E9C7AE8}",
+      "county": "COSTILLA",
+      "cause": "Outage",
+      "city": "Fort Garland",
+      "xcelarea": "Fort Garland"
+    },
+    "resolvedAt": 1782307404000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 181218,
     "geometry": {
       "type": "Point",
@@ -7242,6 +7277,41 @@
       "xcelarea": "Glendale"
     },
     "resolvedAt": 1782298359000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 181569,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.66258779997946,
+        40.392797400272578
+      ]
+    },
+    "properties": {
+      "objectid": 181569,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1782267720000,
+      "etr": 1782279900000,
+      "ticket": "24044831",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4923187.788099997,-11650985.979",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{993AF12F-A7F0-4376-80C0-5821A04FF5F6}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1782307404000,
     "status": "resolved"
   }
 ]
