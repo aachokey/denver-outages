@@ -7278,5 +7278,145 @@
     },
     "resolvedAt": 1783172334000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 193227,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.91655473962798,
+        40.336677010338086
+      ]
+    },
+    "properties": {
+      "objectid": 193227,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1783147740000,
+      "etr": 1783157400000,
+      "ticket": "4073403",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4914988.562399998,-11679257.4494",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7B834192-A879-4288-8923-BF2290F8F135}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Johnstown",
+      "xcelarea": "Johnstown"
+    },
+    "resolvedAt": 1783177620000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 193241,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.93858267006969,
+        39.823214079695923
+      ]
+    },
+    "properties": {
+      "objectid": 193241,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1783150020000,
+      "etr": 1783161000000,
+      "ticket": "4073403",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840285.389700003,-11681709.5874",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{45302F9A-2C50-4BE6-9D0B-F39FBACD5281}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Commerce City",
+      "xcelarea": "Commerce City"
+    },
+    "resolvedAt": 1783177620000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 193243,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01218579959905,
+        39.70401274029777
+      ]
+    },
+    "properties": {
+      "objectid": 193243,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 168,
+      "off_": 1783150140000,
+      "etr": 1783161000000,
+      "ticket": "4073403",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4823022.982000001,-11689903.0503",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{541C72F9-C556-4D3D-B4E8-491F2B064552}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783177620000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 193245,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.06873159993593,
+        39.718086580013924
+      ]
+    },
+    "properties": {
+      "objectid": 193245,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1783150320000,
+      "etr": 1783161900000,
+      "ticket": "4073403",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825059.561800003,-11696197.7",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E5896B23-471A-47F3-9107-18065EEDD5B2}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1783177620000,
+    "status": "resolved"
   }
 ]
