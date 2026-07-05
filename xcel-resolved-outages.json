@@ -141,41 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 192613,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.48733113976598,
-        39.070080709988837
-      ]
-    },
-    "properties": {
-      "objectid": 192613,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 971,
-      "off_": 1783052160000,
-      "etr": 1783062000000,
-      "ticket": "3043403",
-      "outageimpact": "Medium",
-      "outagetype": "Unplanned Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4731715.010200001,-12076754.46",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7FA3B8D9-CA3B-447B-84F4-39AEDF8B8245}",
-      "county": "MESA",
-      "cause": "Outage",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1783083398000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 192623,
     "geometry": {
       "type": "Point",
@@ -3707,6 +3672,76 @@
       "xcelarea": "Westminster"
     },
     "resolvedAt": 1783251365000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 194103,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05714873973048,
+        39.791238189710356
+      ]
+    },
+    "properties": {
+      "objectid": 194103,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 169,
+      "off_": 1783222560000,
+      "etr": 1783233900000,
+      "ticket": "5053003",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4835651.795599997,-11694908.3019",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{6B485211-6086-45EC-8CA5-C55BE811C9AE}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Denver,  Arvada",
+      "xcelarea": "Denver,  Arvada"
+    },
+    "resolvedAt": 1783259144000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 194121,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98104912016133,
+        39.891666420202768
+      ]
+    },
+    "properties": {
+      "objectid": 194121,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 16,
+      "off_": 1783227900000,
+      "etr": 1783239300000,
+      "ticket": "5053003",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4850212.004699998,-11686436.931",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C6DAF446-0F5F-4137-BC47-34F643E9592E}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Northglenn",
+      "xcelarea": "Northglenn"
+    },
+    "resolvedAt": 1783259144000,
     "status": "resolved"
   }
 ]
