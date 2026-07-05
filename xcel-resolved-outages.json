@@ -3743,5 +3743,110 @@
     },
     "resolvedAt": 1783259144000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 194186,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.92637575023636,
+        39.741964020201074
+      ]
+    },
+    "properties": {
+      "objectid": 194186,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 22,
+      "off_": 1783236540000,
+      "etr": 1783243800000,
+      "ticket": "5074203",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828515.739799999,-11680350.7193",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E9FC3088-0139-466C-8EF8-ED8E820813B1}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783264461000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 194187,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94880595973702,
+        39.74046824989378
+      ]
+    },
+    "properties": {
+      "objectid": 194187,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 5,
+      "off_": 1783236600000,
+      "etr": 1783243800000,
+      "ticket": "5074203",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828299.196999997,-11682847.638799999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1448E94C-3571-4DD2-B93A-F578D827585A}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783264461000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 194188,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90423853974033,
+        39.539864469878736
+      ]
+    },
+    "properties": {
+      "objectid": 194188,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1783236780000,
+      "etr": 1783248300000,
+      "ticket": "5074203",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4799300.2124999985,-11677886.416299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{21640796-9DBC-454D-8929-7A83FB602064}",
+      "county": "DOUGLAS",
+      "cause": "Outage",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1783264461000,
+    "status": "resolved"
   }
 ]
