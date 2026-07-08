@@ -9451,6 +9451,76 @@
   },
   {
     "type": "Feature",
+    "id": 197588,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98765362036843,
+        39.681698300275599
+      ]
+    },
+    "properties": {
+      "objectid": 197588,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 6,
+      "off_": 1783462260000,
+      "etr": 1783476900000,
+      "ticket": "8030603",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819794.782799996,-11687172.1406",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C01161B9-7818-4CC4-A8EA-212BC71BE5D6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783509764000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 197590,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98765908032874,
+        39.681212780345113
+      ]
+    },
+    "properties": {
+      "objectid": 197590,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 5,
+      "off_": 1783462440000,
+      "etr": 1783475100000,
+      "ticket": "8030603",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819724.554899998,-11687172.748399999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{095A3814-77D9-41A1-8367-106D8CF464CE}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783509764000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 197599,
     "geometry": {
       "type": "Point",
@@ -9587,6 +9657,41 @@
       "xcelarea": "New Castle"
     },
     "resolvedAt": 1783501741000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 197618,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98765736005498,
+        39.6809069700127
+      ]
+    },
+    "properties": {
+      "objectid": 197618,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 9,
+      "off_": 1783470000000,
+      "etr": 1783475100000,
+      "ticket": "8030603",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819680.3213,-11687172.5569",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E669FECF-C8DD-4978-8294-C96DCEC7000C}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783509764000,
     "status": "resolved"
   }
 ]
