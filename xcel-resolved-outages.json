@@ -8051,6 +8051,41 @@
   },
   {
     "type": "Feature",
+    "id": 200320,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.66822232000405,
+        40.40630478981528
+      ]
+    },
+    "properties": {
+      "objectid": 200320,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 172,
+      "off_": 1783731720000,
+      "etr": 1783746000000,
+      "ticket": "11062203",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4925162.2465,-11651613.210900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2DBC02F7-37D8-4CF6-A529-80E6F32DF9E2}",
+      "county": "WELD",
+      "cause": "Outage",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1783778576000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 200325,
     "geometry": {
       "type": "Point",
@@ -8082,6 +8117,41 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1783772924000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 200331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.29539345959947,
+        39.682795220159477
+      ]
+    },
+    "properties": {
+      "objectid": 200331,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 85,
+      "off_": 1783738380000,
+      "etr": 1783751400000,
+      "ticket": "11062203",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819953.448299997,-11721429.5828",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{667C0A66-8E13-4E74-94F2-F5A3D612C1E2}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1783778576000,
     "status": "resolved"
   },
   {
