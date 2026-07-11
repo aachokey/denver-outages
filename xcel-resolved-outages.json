@@ -8923,5 +8923,110 @@
     },
     "resolvedAt": 1783798994000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 200647,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98629436963058,
+        39.723029100217147
+      ]
+    },
+    "properties": {
+      "objectid": 200647,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1783775340000,
+      "etr": 1783782900000,
+      "ticket": "11133803",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825774.876500003,-11687020.8295",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{08FF321F-9B76-46F4-945F-71AF2C2BC7B6}",
+      "county": "DENVER",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1783803148000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 200650,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95661682999706,
+        40.509131309874661
+      ]
+    },
+    "properties": {
+      "objectid": 200650,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1783776000000,
+      "etr": 1783782900000,
+      "ticket": "11133803",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4940206.043200001,-11683717.1409",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D4153BC0-7C40-4CD4-BF86-47D1B278E6B6}",
+      "county": "LARIMER",
+      "cause": "Outage",
+      "city": "Timnath",
+      "xcelarea": "Timnath"
+    },
+    "resolvedAt": 1783803148000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 200654,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.10416918029036,
+        39.655492180304336
+      ]
+    },
+    "properties": {
+      "objectid": 200654,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1783776900000,
+      "etr": 1783788300000,
+      "ticket": "11133803",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816004.911200002,-11700142.5934",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{97107AE9-FC05-4FB0-AEE8-5D510E56A054}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1783803148000,
+    "status": "resolved"
   }
 ]
