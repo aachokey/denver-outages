@@ -9938,5 +9938,75 @@
     },
     "resolvedAt": 1784290247000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 207072,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.93091519961466,
+        40.341051439852976
+      ]
+    },
+    "properties": {
+      "objectid": 207072,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1784263320000,
+      "etr": 1784272500000,
+      "ticket": "17060603",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4915627.424199998,-11569536.5577",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{504B6D6D-F48F-4B7C-8355-789295517378}",
+      "county": "MORGAN",
+      "cause": "Outage",
+      "city": "Weldona,  Snyder",
+      "xcelarea": "Weldona,  Snyder"
+    },
+    "resolvedAt": 1784297536000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 207079,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.4772918699846,
+        39.084518599659859
+      ]
+    },
+    "properties": {
+      "objectid": 207079,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 42,
+      "off_": 1784236140000,
+      "etr": 1784278800000,
+      "ticket": "17060603",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4733785.377800003,-12075636.8936",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{FAE2F80C-4CA5-4FC1-BB07-21D1696D9886}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1784297536000,
+    "status": "resolved"
   }
 ]
