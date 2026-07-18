@@ -11443,5 +11443,75 @@
     },
     "resolvedAt": 1784368631000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 208112,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82616664021883,
+        39.738514210332944
+      ]
+    },
+    "properties": {
+      "objectid": 208112,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 682,
+      "off_": 1784344020000,
+      "etr": 1784348100000,
+      "ticket": "18035403",
+      "outageimpact": "Medium",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828016.317599997,-11669195.4922",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{ADB59CED-0B0C-470C-BF6B-F0DE4A49667F}",
+      "county": "ADAMS, ARAPAHOE",
+      "cause": "Outage",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1784373057000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 208122,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01422649973502,
+        39.831938520333047
+      ]
+    },
+    "properties": {
+      "objectid": 208122,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 7,
+      "off_": 1784345700000,
+      "etr": 1784357100000,
+      "ticket": "18035403",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841550.013999999,-11690130.219999999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9CD98A89-0218-419D-83AD-5FB8D8E16FAF}",
+      "county": "ADAMS",
+      "cause": "Outage",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1784373057000,
+    "status": "resolved"
   }
 ]
