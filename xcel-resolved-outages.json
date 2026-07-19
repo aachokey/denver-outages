@@ -10183,5 +10183,75 @@
     },
     "resolvedAt": 1784458525000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 208809,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.30837026976725,
+        39.702474629876839
+      ]
+    },
+    "properties": {
+      "objectid": 208809,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1744,
+      "off_": 1784433960000,
+      "etr": 1784445300000,
+      "ticket": "19045003",
+      "outageimpact": "Large",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822800.4322,-11722874.1547",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{461EA175-FB85-40B1-B052-5D01CB0B11DF}",
+      "county": "JEFFERSON",
+      "cause": "Outage",
+      "city": "Golden,  Evergreen",
+      "xcelarea": "Golden,  Evergreen"
+    },
+    "resolvedAt": 1784462489000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 208819,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.55094484972402,
+        39.103513939985334
+      ]
+    },
+    "properties": {
+      "objectid": 208819,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 20,
+      "off_": 1784434500000,
+      "etr": 1784445300000,
+      "ticket": "19045003",
+      "outageimpact": "Small",
+      "outagetype": "Unplanned Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4736509.921300001,-12083835.9058",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B1874100-8BA4-4E35-A3CB-81D5709E44BE}",
+      "county": "MESA",
+      "cause": "Outage",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1784462489000,
+    "status": "resolved"
   }
 ]
