@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 222161,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.9133341796214,
-        39.952075420311836
-      ]
-    },
-    "properties": {
-      "objectid": 222161,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1785432240000,
-      "etr": 1785456000000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4858980.452200003,-11678898.938299999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{2ED04058-378F-4A20-843D-6C53DCC7F71E}",
-      "county": "ADAMS",
-      "cause": "Unplanned",
-      "city": "Thornton",
-      "xcelarea": "Thornton"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 222290,
     "geometry": {
       "type": "Point",
@@ -102,41 +67,6 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1785522109000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222312,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.79992214000433,
-        39.718592030265732
-      ]
-    },
-    "properties": {
-      "objectid": 222312,
-      "boundary": null,
-      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
-      "customers": 17,
-      "off_": 1785423000000,
-      "etr": null,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825132.711599998,-11666273.967799999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{1F4A5F15-1728-4AAC-A132-3B14447E5D64}",
-      "county": "ARAPAHOE",
-      "cause": "Planned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1785492315000,
     "status": "resolved"
   },
   {
@@ -211,811 +141,6 @@
   },
   {
     "type": "Feature",
-    "id": 222326,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.79587070034373,
-        39.682609440044665
-      ]
-    },
-    "properties": {
-      "objectid": 222326,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1785450540000,
-      "etr": 1785460500000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4819926.5757,-11665822.9636",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A379DFCE-77E5-41BB-8B8F-B2760A8BAB1F}",
-      "county": "ARAPAHOE",
-      "cause": "Unplanned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222361,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70666248955121,
-        40.348620480107485
-      ]
-    },
-    "properties": {
-      "objectid": 222361,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1447,
-      "off_": 1785456360000,
-      "etr": 1785462300000,
-      "ticket": "31011721",
-      "outageimpact": "Large",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4916732.939499997,-11655892.351",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D90CECD1-6AF6-4B9A-8BDA-20F88AEC0A3B}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Greeley,  La Salle,  Evans,  Lasalle",
-      "xcelarea": "Greeley,  La Salle,  Evans,  Lasalle"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222363,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.72521088018152,
-        40.523474240007289
-      ]
-    },
-    "properties": {
-      "objectid": 222363,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1665,
-      "off_": 1785456360000,
-      "etr": 1785462300000,
-      "ticket": "31011721",
-      "outageimpact": "Large",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4942306.2842999995,-11657957.148400001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{961BE737-51AC-47FF-8147-56671338BADA}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Eaton,  Ault,  Severance,  Greeley",
-      "xcelarea": "Eaton,  Ault,  Severance,  Greeley"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222366,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.52583169023161,
-        40.305901819708019
-      ]
-    },
-    "properties": {
-      "objectid": 222366,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 161,
-      "off_": 1785456360000,
-      "etr": 1785462300000,
-      "ticket": "31011721",
-      "outageimpact": "Medium",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4910495.1822,-11635762.3585",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F402E227-8170-4649-9712-329BD44354F4}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Greeley,  Kersey",
-      "xcelarea": "Greeley,  Kersey"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222367,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.48813072995867,
-        40.389368940334478
-      ]
-    },
-    "properties": {
-      "objectid": 222367,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456660000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4922686.692000002,-11631565.5068",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7440EC39-81E6-42DD-9D31-68027BB8036D}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Kersey",
-      "xcelarea": "Kersey"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222368,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70003016043491,
-        40.524155830105968
-      ]
-    },
-    "properties": {
-      "objectid": 222368,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456660000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4942406.1010000035,-11655154.043499999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5BFEAF0E-8E9D-4012-9C38-2D581E5D63E8}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Eaton",
-      "xcelarea": "Eaton"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222369,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.74775662021425,
-        40.319270060264699
-      ]
-    },
-    "properties": {
-      "objectid": 222369,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456660000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4912446.7815999985,-11660466.9287",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{EEAEAEDF-0372-47E9-A03E-3CF6A3F8E27C}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222370,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.75411485986263,
-        40.267550720209933
-      ]
-    },
-    "properties": {
-      "objectid": 222370,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 5,
-      "off_": 1785456720000,
-      "etr": 1785466800000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4904898.533699997,-11661174.7247",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4ABBD3EC-32E2-45BC-8C05-BE5579F02B8A}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Lasalle,  La Salle,  Platteville",
-      "xcelarea": "Lasalle,  La Salle,  Platteville"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222371,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.71536720957009,
-        40.554261219725902
-      ]
-    },
-    "properties": {
-      "objectid": 222371,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4946815.952500001,-11656861.355999999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{0D9D074B-277F-44C1-8F4F-0BCF420447C2}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Eaton",
-      "xcelarea": "Eaton"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222372,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.78796919995298,
-        40.495608409851407
-      ]
-    },
-    "properties": {
-      "objectid": 222372,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4938226.290799998,-11664943.3726",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4DD0A5AD-5815-49FB-B854-A77023D4E0B2}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222373,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.5616074503579,
-        40.44240448000911
-      ]
-    },
-    "properties": {
-      "objectid": 222373,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4930441.106299996,-11639744.8979",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{F8724473-20CC-4296-87F6-ACC31376BF6D}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Eaton",
-      "xcelarea": "Eaton"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222374,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.67188803026816,
-        40.639376149728228
-      ]
-    },
-    "properties": {
-      "objectid": 222374,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4959294.366800003,-11652021.275899999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{70877628-4ABA-416A-85CD-E490D5020FAF}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222375,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.72867998965415,
-        40.525394970050598
-      ]
-    },
-    "properties": {
-      "objectid": 222375,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4942587.571699999,-11658343.3279",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{87E693E1-CD14-4238-BEC3-A8B4473ACAD6}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Eaton",
-      "xcelarea": "Eaton"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222376,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.70868777998683,
-        40.524505460145043
-      ]
-    },
-    "properties": {
-      "objectid": 222376,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4942457.303599998,-11656117.805300001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{400C71AC-ED1F-4A83-8E33-E92006C0FC11}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Eaton",
-      "xcelarea": "Eaton"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222377,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.711329630016,
-        40.314082220109242
-      ]
-    },
-    "properties": {
-      "objectid": 222377,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4911689.374600001,-11656411.8947",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{B0771286-FE1D-4BDD-9752-B8D4FACFAFAB}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "La Salle",
-      "xcelarea": "La Salle"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222378,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.73189626020522,
-        40.349444519882738
-      ]
-    },
-    "properties": {
-      "objectid": 222378,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785456720000,
-      "etr": 1785464100000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4916853.304200001,-11658701.361499999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{83749072-DA08-4D72-BE3C-C5D45E2BA69B}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Evans",
-      "xcelarea": "Evans"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222379,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.73410833015134,
-        40.304884389715404
-      ]
-    },
-    "properties": {
-      "objectid": 222379,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 19,
-      "off_": 1785456660000,
-      "etr": 1785466800000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4910346.6657000035,-11658947.608",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{9C1D1021-6F89-4AAD-85BA-D80BEACF1E25}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Lasalle,  La Salle",
-      "xcelarea": "Lasalle,  La Salle"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222380,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.52566171999669,
-        40.305441000317053
-      ]
-    },
-    "properties": {
-      "objectid": 222380,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 215,
-      "off_": 1785456360000,
-      "etr": 1785462300000,
-      "ticket": "31011721",
-      "outageimpact": "Medium",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4910427.915100001,-11635743.4375",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{3324C9AB-6EEB-4BB4-82DE-CAECCA303B38}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Greeley,  Lasalle,  La Salle,  Kersey",
-      "xcelarea": "Greeley,  Lasalle,  La Salle,  Kersey"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222382,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.91808345035767,
-        39.786581330286857
-      ]
-    },
-    "properties": {
-      "objectid": 222382,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785457980000,
-      "etr": 1785465900000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4834977.1545,-11679427.624699999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5D2A8E66-C7E9-4712-A091-A6120E25B824}",
-      "county": "ADAMS",
-      "cause": "Unplanned",
-      "city": "Commerce City",
-      "xcelarea": "Commerce City"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222386,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.54758245022566,
-        39.0940388699672
-      ]
-    },
-    "properties": {
-      "objectid": 222386,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785458880000,
-      "etr": 1785467700000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4735150.799400002,-12083461.6052",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5EE43468-E9A8-4544-88FA-0E3A96D33F05}",
-      "county": "MESA",
-      "cause": "Unplanned",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222388,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.79523160022303,
-        39.683180069744878
-      ]
-    },
-    "properties": {
-      "objectid": 222388,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 89,
-      "off_": 1785450240000,
-      "etr": 1785462300000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4820009.115999997,-11665751.8193",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{F9442BD5-C47A-4D23-BE75-4269B8539399}",
-      "county": "ARAPAHOE",
-      "cause": "Unplanned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222391,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -103.20621785034439,
-        40.633502579868455
-      ]
-    },
-    "properties": {
-      "objectid": 222391,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785459360000,
-      "etr": 1785467700000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4958432.751800001,-11488863.6178",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5B1203D1-3DBB-44AB-8DE1-734A0898830E}",
-      "county": "LOGAN",
-      "cause": "Unplanned",
-      "city": "Sterling",
-      "xcelarea": "Sterling"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222392,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.97916686038359,
-        39.530844379858841
-      ]
-    },
-    "properties": {
-      "objectid": 222392,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1785459360000,
-      "etr": 1785467700000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4797998.254199997,-11686227.3988",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{61600616-9F99-4AE3-B723-C7E4A4F866ED}",
-      "county": "DOUGLAS",
-      "cause": "Unplanned",
-      "city": "Highlands Ranch",
-      "xcelarea": "Highlands Ranch"
-    },
-    "resolvedAt": 1785492315000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 222396,
     "geometry": {
       "type": "Point",
@@ -1047,41 +172,6 @@
       "xcelarea": "Englewood"
     },
     "resolvedAt": 1785500779000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 222397,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.977118890182,
-        39.652850189983504
-      ]
-    },
-    "properties": {
-      "objectid": 222397,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 6,
-      "off_": 1785459840000,
-      "etr": 1785470400000,
-      "ticket": "31011721",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4815622.912100002,-11685999.4198",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{56E663DE-D01A-4EB8-92E1-36854C372E54}",
-      "county": "ARAPAHOE",
-      "cause": "Unplanned",
-      "city": "Englewood",
-      "xcelarea": "Englewood"
-    },
-    "resolvedAt": 1785492315000,
     "status": "resolved"
   },
   {
@@ -7841,6 +6931,41 @@
   },
   {
     "type": "Feature",
+    "id": 225154,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95320990011177,
+        39.899618209972466
+      ]
+    },
+    "properties": {
+      "objectid": 225154,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1785600540000,
+      "etr": 1785609000000,
+      "ticket": "2024944",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4851365.775700003,-11683337.883200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{56122E47-E2F6-4C4F-879E-7FA298710CB8}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1785667334000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 225214,
     "geometry": {
       "type": "Point",
@@ -8292,6 +7417,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1785660875000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 225300,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96340831992046,
+        39.624147519868799
+      ]
+    },
+    "properties": {
+      "objectid": 225300,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 61,
+      "off_": 1785636000000,
+      "etr": 1785644100000,
+      "ticket": "2024944",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811473.801700003,-11684473.1661",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{AF15CF57-F7D6-4635-8548-119A6CF3224A}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Cherry Hills Village",
+      "xcelarea": "Cherry Hills Village"
+    },
+    "resolvedAt": 1785667334000,
     "status": "resolved"
   }
 ]
