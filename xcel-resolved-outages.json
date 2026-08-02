@@ -6511,6 +6511,41 @@
   },
   {
     "type": "Feature",
+    "id": 225379,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98651246980178,
+        39.829059089797902
+      ]
+    },
+    "properties": {
+      "objectid": 225379,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 1,
+      "off_": 1785654540000,
+      "etr": null,
+      "ticket": "2122544",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841132.617299996,-11687045.1083",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{301420DA-54FE-4BD1-9888-3238DC8CE136}",
+      "county": "ADAMS",
+      "cause": "Planned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1785700018000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 225384,
     "geometry": {
       "type": "Point",
@@ -6962,6 +6997,111 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1785695405000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 225498,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.48830275014906,
+        40.456683100294697
+      ]
+    },
+    "properties": {
+      "objectid": 225498,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1785670740000,
+      "etr": 1785676500000,
+      "ticket": "2122544",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4932529.8521,-11631584.656",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E16108F4-CE7D-4B33-8A00-8A5177F69BE2}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "Gill",
+      "xcelarea": "Gill"
+    },
+    "resolvedAt": 1785700018000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 225505,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99410740033889,
+        39.753375540144631
+      ]
+    },
+    "properties": {
+      "objectid": 225505,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1785671160000,
+      "etr": 1785676500000,
+      "ticket": "2122544",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4830167.941299997,-11687890.5721",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{05642C2F-CFB9-4ABF-9C41-F8089D78E336}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1785700018000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 225512,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.27990857010553,
+        40.543875669891854
+      ]
+    },
+    "properties": {
+      "objectid": 225512,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1785672300000,
+      "etr": 1785679200000,
+      "ticket": "2122544",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4945294.448399998,-11497066.8312",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{D1AE0ED4-7A45-42A9-86D6-310760F4FEE4}",
+      "county": "LOGAN",
+      "cause": "Unplanned",
+      "city": "Atwood",
+      "xcelarea": "Atwood"
+    },
+    "resolvedAt": 1785700018000,
     "status": "resolved"
   }
 ]
