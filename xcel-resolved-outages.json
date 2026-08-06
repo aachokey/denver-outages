@@ -7666,6 +7666,41 @@
   },
   {
     "type": "Feature",
+    "id": 228594,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07119981999372,
+        39.750026199741257
+      ]
+    },
+    "properties": {
+      "objectid": 228594,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 1,
+      "off_": 1785964080000,
+      "etr": 1785974400000,
+      "ticket": "6062144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829682.983199999,-11696472.461",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4A9D352F-B432-41F1-AA38-F02B7DDB2CB6}",
+      "county": "JEFFERSON",
+      "cause": "Planned",
+      "city": "Edgewater",
+      "xcelarea": "Edgewater"
+    },
+    "resolvedAt": 1786028067000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 228596,
     "geometry": {
       "type": "Point",
@@ -7837,6 +7872,41 @@
       "xcelarea": "Wheat Ridge"
     },
     "resolvedAt": 1786010926000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 228634,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.6708052603135,
+        39.812061949805347
+      ]
+    },
+    "properties": {
+      "objectid": 228634,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 4,
+      "off_": 1785973800000,
+      "etr": 1785985200000,
+      "ticket": "6062144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4838669.1010000035,-11651900.7425",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{207FCE62-CF14-4A7F-9E1C-AD9E21FFA392}",
+      "county": "ADAMS",
+      "cause": "Planned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1786028067000,
     "status": "resolved"
   },
   {
@@ -8047,6 +8117,111 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1786019145000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 228706,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.06266363021034,
+        39.742484850142141
+      ]
+    },
+    "properties": {
+      "objectid": 228706,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 30,
+      "off_": 1785996420000,
+      "etr": 1786006800000,
+      "ticket": "6062144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828591.141500004,-11695522.216699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{49A42B2C-ACB6-4008-A44B-CFB6EDB36431}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1786028067000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 228709,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.14289702003592,
+        39.720012169914725
+      ]
+    },
+    "properties": {
+      "objectid": 228709,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1785997140000,
+      "etr": 1786005000000,
+      "ticket": "6062144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825338.240000002,-11704453.7568",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6ABB7E05-DAAB-4593-A0C8-0584D87E9246}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1786028067000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 228710,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.14259607992416,
+        39.721705069777371
+      ]
+    },
+    "properties": {
+      "objectid": 228710,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1785997140000,
+      "etr": 1786005000000,
+      "ticket": "6062144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825583.248899996,-11704420.256299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1FEA9AF4-446C-48D6-8914-4E65E7702731}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1786028067000,
     "status": "resolved"
   }
 ]
