@@ -5738,5 +5738,75 @@
     },
     "resolvedAt": 1786095132000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 229629,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13669096038656,
+        39.81420992998067
+      ]
+    },
+    "properties": {
+      "objectid": 229629,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 6,
+      "off_": 1786071960000,
+      "etr": 1786082400000,
+      "ticket": "7032544",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4838980.389399998,-11703762.9014",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{83F44E28-9BEA-4664-8039-EC27F00963C8}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1786100052000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 229631,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83110364986632,
+        39.721386840064675
+      ]
+    },
+    "properties": {
+      "objectid": 229631,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1786072680000,
+      "etr": 1786084200000,
+      "ticket": "7032544",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825537.1919,-11669745.0776",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{35541C6A-805C-410B-BABC-9BE33B17228B}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1786100052000,
+    "status": "resolved"
   }
 ]
