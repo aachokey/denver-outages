@@ -6543,5 +6543,180 @@
     },
     "resolvedAt": 1786143985000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 230182,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.04816973980085,
+        39.816534749662253
+      ]
+    },
+    "properties": {
+      "objectid": 230182,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 24,
+      "off_": 1786118220000,
+      "etr": 1786127400000,
+      "ticket": "7170144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839317.316600002,-11693908.7642",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{95B403E0-C4C6-472F-9A81-BBCE8B0C8E2F}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1786147151000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 230183,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.87410537998461,
+        39.745400899988084
+      ]
+    },
+    "properties": {
+      "objectid": 230183,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1786118340000,
+      "etr": 1786126500000,
+      "ticket": "7170144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4829013.314999998,-11674532.008299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{9398BB66-B6DA-442E-8671-6BFA51FAC805}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1786147151000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 230204,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0481417303303,
+        39.816771229813888
+      ]
+    },
+    "properties": {
+      "objectid": 230204,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 10,
+      "off_": 1786118220000,
+      "etr": 1786128300000,
+      "ticket": "7170144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839351.589400001,-11693905.646200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C77F231D-F60B-4266-A8C1-BBAA43A4F4E8}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Arvada,  Westminster",
+      "xcelarea": "Arvada,  Westminster"
+    },
+    "resolvedAt": 1786147151000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 230211,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.9836564201468,
+        38.524708779884264
+      ]
+    },
+    "properties": {
+      "objectid": 230211,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1786121700000,
+      "etr": 1786129200000,
+      "ticket": "7170144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4653817.057899997,-11798046.6651",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{087BFD32-A20A-4A65-BC9C-62DEBE39A84E}",
+      "county": "CHAFFEE",
+      "cause": "Unplanned",
+      "city": "Salida",
+      "xcelarea": "Salida"
+    },
+    "resolvedAt": 1786147151000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 230216,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.50441016956078,
+        39.078143319668413
+      ]
+    },
+    "properties": {
+      "objectid": 230216,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 6,
+      "off_": 1786121640000,
+      "etr": 1786132800000,
+      "ticket": "7170144",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4732871.121799998,-12078655.688900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5A15E412-680E-45D0-B380-D5FE99A1E4CA}",
+      "county": "MESA",
+      "cause": "Unplanned",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1786147151000,
+    "status": "resolved"
   }
 ]
