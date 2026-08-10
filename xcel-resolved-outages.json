@@ -351,41 +351,6 @@
   },
   {
     "type": "Feature",
-    "id": 230486,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.09597682966512,
-        39.725896659983974
-      ]
-    },
-    "properties": {
-      "objectid": 230486,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 19,
-      "off_": 1786157940000,
-      "etr": 1786168800000,
-      "ticket": "8043344",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4826189.9125000015,-11699230.6251",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{51F5DE4D-A5EC-4D49-AA69-327CF682844A}",
-      "county": "JEFFERSON",
-      "cause": "Unplanned",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1786188645000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 230487,
     "geometry": {
       "type": "Point",
@@ -13826,6 +13791,41 @@
   },
   {
     "type": "Feature",
+    "id": 231709,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.93171025002404,
+        39.584225550096612
+      ]
+    },
+    "properties": {
+      "objectid": 231709,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 2,
+      "off_": 1786309920000,
+      "etr": 1786339800000,
+      "ticket": "10043744",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4805705.747400001,-11680944.553100001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{02139ABE-7AC0-47FE-A0C2-2DAF5E429458}",
+      "county": "ARAPAHOE",
+      "cause": "Planned",
+      "city": "Centennial",
+      "xcelarea": "Centennial"
+    },
+    "resolvedAt": 1786362529000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 231710,
     "geometry": {
       "type": "Point",
@@ -14417,6 +14417,41 @@
       "xcelarea": "Eaton,  Ault"
     },
     "resolvedAt": 1786358601000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 231791,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.2476294700042,
+        40.003778089756537
+      ]
+    },
+    "properties": {
+      "objectid": 231791,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 792,
+      "off_": 1786332480000,
+      "etr": 1786341600000,
+      "ticket": "10043744",
+      "outageimpact": "Medium",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866491.316399999,-11716112.5198",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E0E5DAFE-4930-490B-BAC9-4032512C395F}",
+      "county": "BOULDER",
+      "cause": "Unplanned",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1786362529000,
     "status": "resolved"
   }
 ]
