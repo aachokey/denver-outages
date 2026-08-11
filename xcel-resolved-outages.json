@@ -351,111 +351,6 @@
   },
   {
     "type": "Feature",
-    "id": 231133,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.12370674001598,
-        39.842525630227748
-      ]
-    },
-    "properties": {
-      "objectid": 231133,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1786220700000,
-      "etr": 1786243500000,
-      "ticket": "9024144",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4843084.851499997,-11702317.5046",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{F0666AC1-F7F5-4873-AADF-1B8D785F08AE}",
-      "county": "JEFFERSON",
-      "cause": "Unplanned",
-      "city": "Arvada",
-      "xcelarea": "Arvada"
-    },
-    "resolvedAt": 1786268491000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 231144,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.6726351599883,
-        40.40432211984907
-      ]
-    },
-    "properties": {
-      "objectid": 231144,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1786222560000,
-      "etr": 1786251600000,
-      "ticket": "9024144",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4924872.402599998,-11652104.446",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{47D4D208-6DE5-4BD7-A63B-F7F390D6CD71}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1786268491000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 231145,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.76588998020013,
-        40.388989330245259
-      ]
-    },
-    "properties": {
-      "objectid": 231145,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1786223100000,
-      "etr": 1786251600000,
-      "ticket": "9024144",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4922631.210600004,-11662485.5251",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{5CCB4F87-A775-4332-971E-EE970E1B7534}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Greeley",
-      "xcelarea": "Greeley"
-    },
-    "resolvedAt": 1786268491000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 231159,
     "geometry": {
       "type": "Point",
@@ -10882,6 +10777,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1786438760000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 232512,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.4558061698349,
+        39.064076299808995
+      ]
+    },
+    "properties": {
+      "objectid": 232512,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1786415160000,
+      "etr": 1786424400000,
+      "ticket": "11025744",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4730854.113200001,-12073245.1164",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8BB0C170-725C-481B-89DF-3C6A7160BE68}",
+      "county": "MESA",
+      "cause": "Unplanned",
+      "city": "Clifton",
+      "xcelarea": "Clifton"
+    },
+    "resolvedAt": 1786442805000,
     "status": "resolved"
   }
 ]
