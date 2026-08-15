@@ -12636,6 +12636,41 @@
   },
   {
     "type": "Feature",
+    "id": 235954,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97125397025336,
+        39.491547990098233
+      ]
+    },
+    "properties": {
+      "objectid": 235954,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 13,
+      "off_": 1786733880000,
+      "etr": 1786774500000,
+      "ticket": "15063344",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4792328.192299999,-11685346.539900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{17014D4B-0EEB-43E3-88A4-3204C9CEFC47}",
+      "county": "DOUGLAS",
+      "cause": "Unplanned",
+      "city": "Littleton,  Centennial,  Sedalia,  Highlands Ranch",
+      "xcelarea": "Littleton,  Centennial,  Sedalia,  Highlands Ranch"
+    },
+    "resolvedAt": 1786800700000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 235960,
     "geometry": {
       "type": "Point",
@@ -13997,6 +14032,111 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1786797658000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 236248,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.76220640963152,
+        40.260988809749321
+      ]
+    },
+    "properties": {
+      "objectid": 236248,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 22,
+      "off_": 1786771980000,
+      "etr": 1786783500000,
+      "ticket": "15063344",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4903941.2597,-11662075.471900001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E502DD07-BC1A-43F8-9003-F2799359CD7D}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "Lasalle,  La Salle,  Platteville",
+      "xcelarea": "Lasalle,  La Salle,  Platteville"
+    },
+    "resolvedAt": 1786800700000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 236249,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.76904075009227,
+        40.260957679953961
+      ]
+    },
+    "properties": {
+      "objectid": 236249,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1786772460000,
+      "etr": 1786782600000,
+      "ticket": "15063344",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4903936.718599997,-11662836.2672",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2C65C569-BB04-442E-A468-707F4276A5F9}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "Platteville",
+      "xcelarea": "Platteville"
+    },
+    "resolvedAt": 1786800700000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 236266,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.28418034955821,
+        40.01591376972187
+      ]
+    },
+    "properties": {
+      "objectid": 236266,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 4,
+      "off_": 1786775040000,
+      "etr": 1786786200000,
+      "ticket": "15063344",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4868255.094700001,-11720181.3451",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{92AC1217-0146-4800-A471-234590F9C00F}",
+      "county": "BOULDER",
+      "cause": "Unplanned",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1786800700000,
     "status": "resolved"
   }
 ]
