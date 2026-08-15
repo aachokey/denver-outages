@@ -10081,6 +10081,41 @@
   },
   {
     "type": "Feature",
+    "id": 235713,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.05736140958579,
+        39.729122189865905
+      ]
+    },
+    "properties": {
+      "objectid": 235713,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 2,
+      "off_": 1786721220000,
+      "etr": 1786773600000,
+      "ticket": "15051744",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4826656.7798999995,-11694931.9762",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{669124F4-0D51-4516-8934-93C13B537255}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1786794354000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 235714,
     "geometry": {
       "type": "Point",
