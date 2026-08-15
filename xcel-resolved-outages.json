@@ -13756,6 +13756,41 @@
   },
   {
     "type": "Feature",
+    "id": 236276,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.40832015024833,
+        39.632900090181451
+      ]
+    },
+    "properties": {
+      "objectid": 236276,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 9,
+      "off_": 1786776120000,
+      "etr": 1786799700000,
+      "ticket": "15111744",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812738.845799997,-11734000.524500001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A091D02A-CCE2-4C69-89C3-62A8DA58D99F}",
+      "county": "CLEAR CREEK",
+      "cause": "Planned",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1786816001000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 236277,
     "geometry": {
       "type": "Point",
@@ -14627,6 +14662,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1786814505000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 236386,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9587033001951,
+        39.765439569774685
+      ]
+    },
+    "properties": {
+      "objectid": 236386,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 13,
+      "off_": 1786785720000,
+      "etr": 1786804200000,
+      "ticket": "15111744",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831914.913199998,-11683949.4057",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{71F48A79-1262-4A3A-8C5C-DF7133DA1C14}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1786816001000,
     "status": "resolved"
   },
   {
