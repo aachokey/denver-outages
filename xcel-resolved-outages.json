@@ -13021,6 +13021,41 @@
   },
   {
     "type": "Feature",
+    "id": 236946,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.6214453201912,
+        39.758641899983331
+      ]
+    },
+    "properties": {
+      "objectid": 236946,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1786867320000,
+      "etr": 1786884300000,
+      "ticket": "16111820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4830930.516400002,-11646406.0191",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{20DDA34D-37D7-4287-A591-6311AD2357AA}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Aurora,  Watkins",
+      "xcelarea": "Aurora,  Watkins"
+    },
+    "resolvedAt": 1786902358000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 236955,
     "geometry": {
       "type": "Point",
@@ -13332,6 +13367,41 @@
       "xcelarea": "Windsor"
     },
     "resolvedAt": 1786900858000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 237012,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.83172144015182,
+        39.559983939654359
+      ]
+    },
+    "properties": {
+      "objectid": 237012,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 6,
+      "off_": 1786875300000,
+      "etr": 1786882500000,
+      "ticket": "16111820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802204.863200001,-11669813.8497",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{4FDA1D38-8DCF-4BA2-B2F6-4B52BECA0612}",
+      "county": "DOUGLAS",
+      "cause": "Unplanned",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1786902358000,
     "status": "resolved"
   },
   {
