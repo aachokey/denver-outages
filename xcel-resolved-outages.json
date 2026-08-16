@@ -13616,6 +13616,41 @@
   },
   {
     "type": "Feature",
+    "id": 236984,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.8721749803891,
+        39.623844580342023
+      ]
+    },
+    "properties": {
+      "objectid": 236984,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1786871940000,
+      "etr": 1786878900000,
+      "ticket": "16102220",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811430.019500002,-11674317.1172",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6E6C3281-D923-4F1C-B48E-3B28CA4EFA65}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Greenwood Village",
+      "xcelarea": "Greenwood Village"
+    },
+    "resolvedAt": 1786899210000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 236990,
     "geometry": {
       "type": "Point",
@@ -13682,6 +13717,76 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1786897677000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 237013,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07819147971527,
+        39.692068279684563
+      ]
+    },
+    "properties": {
+      "objectid": 237013,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 22,
+      "off_": 1786875360000,
+      "etr": 1786887000000,
+      "ticket": "16102220",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4821294.863600001,-11697250.769000001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{54A00773-50A0-4ED7-ABF1-02E1D2449A3F}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1786899210000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 237014,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.13261637024274,
+        40.583977849825125
+      ]
+    },
+    "properties": {
+      "objectid": 237014,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1786875360000,
+      "etr": 1786887000000,
+      "ticket": "16102220",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4951170.803300001,-11703309.3201",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{DD510821-BB87-4BFF-8893-52C5BE7890AC}",
+      "county": "LARIMER",
+      "cause": "Unplanned",
+      "city": "Fort Collins",
+      "xcelarea": "Fort Collins"
+    },
+    "resolvedAt": 1786899210000,
     "status": "resolved"
   }
 ]
