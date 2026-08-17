@@ -281,41 +281,6 @@
   },
   {
     "type": "Feature",
-    "id": 235965,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.91594454010664,
-        39.834610729889675
-      ]
-    },
-    "properties": {
-      "objectid": 235965,
-      "boundary": null,
-      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
-      "customers": 43,
-      "off_": 1786727880000,
-      "etr": 1786766400000,
-      "ticket": "15003344",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4841937.387999997,-11679189.522300001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{305D3A7E-1DAD-4F1D-B2D6-4F311F538D6A}",
-      "county": "ADAMS",
-      "cause": "Planned",
-      "city": "Commerce City",
-      "xcelarea": "Commerce City"
-    },
-    "resolvedAt": 1786779114000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 235975,
     "geometry": {
       "type": "Point",
@@ -526,41 +491,6 @@
   },
   {
     "type": "Feature",
-    "id": 236098,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.90757424041016,
-        39.700369109682143
-      ]
-    },
-    "properties": {
-      "objectid": 236098,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 336,
-      "off_": 1786746420000,
-      "etr": 1786755600000,
-      "ticket": "15003344",
-      "outageimpact": "Medium",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4822495.791699998,-11678257.744800001",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7409E415-44B9-4D10-BA85-1108BEF3AB7A}",
-      "county": "DENVER",
-      "cause": "Unplanned",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1786779114000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 236102,
     "geometry": {
       "type": "Point",
@@ -767,41 +697,6 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1786790905000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 236130,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.92167705015902,
-        39.721960719997767
-      ]
-    },
-    "properties": {
-      "objectid": 236130,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1786753380000,
-      "etr": 1786764600000,
-      "ticket": "15003344",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825620.248999998,-11679827.6624",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{D6829D02-D37F-490F-BFAA-8883FA16E245}",
-      "county": "DENVER",
-      "cause": "Unplanned",
-      "city": "Denver",
-      "xcelarea": "Denver"
-    },
-    "resolvedAt": 1786779114000,
     "status": "resolved"
   },
   {
@@ -9972,6 +9867,41 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1786941822000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 237268,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97597108040414,
+        39.560964989873789
+      ]
+    },
+    "properties": {
+      "objectid": 237268,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1786916580000,
+      "etr": 1786926600000,
+      "ticket": "17005420",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4802346.519100003,-11685871.646200001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1BE95369-4A54-4C81-9AF0-BEF95369A77C}",
+      "county": "DOUGLAS",
+      "cause": "Unplanned",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1786953403000,
     "status": "resolved"
   },
   {
