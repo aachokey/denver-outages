@@ -36,41 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 236888,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.11582412041589,
-        39.987141589985718
-      ]
-    },
-    "properties": {
-      "objectid": 236888,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 170,
-      "off_": 1786852440000,
-      "etr": 1786895100000,
-      "ticket": "16054220",
-      "outageimpact": "Medium",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4864073.906300001,-11701440.0154",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{514C21A8-BC7D-4D86-8645-73E730C2A2D1}",
-      "county": "BOULDER",
-      "cause": "Unplanned",
-      "city": "Lafayette",
-      "xcelarea": "Lafayette"
-    },
-    "resolvedAt": 1786884152000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 236895,
     "geometry": {
       "type": "Point",
@@ -9902,6 +9867,41 @@
       "xcelarea": "Greeley"
     },
     "resolvedAt": 1787052391000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 238279,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.11831989000683,
+        39.817769409855167
+      ]
+    },
+    "properties": {
+      "objectid": 238279,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 14,
+      "off_": 1787026140000,
+      "etr": 1787037300000,
+      "ticket": "18054620",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4839496.255800001,-11701717.8432",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{FF201A49-BAD7-443E-A5AF-769396C6C7F2}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1787057418000,
     "status": "resolved"
   }
 ]
