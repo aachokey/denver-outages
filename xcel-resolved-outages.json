@@ -211,41 +211,6 @@
   },
   {
     "type": "Feature",
-    "id": 237144,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.80426245989402,
-        39.675689129746203
-      ]
-    },
-    "properties": {
-      "objectid": 237144,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1786899660000,
-      "etr": 1786909500000,
-      "ticket": "16171820",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4818925.622699998,-11666757.129999999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{E8D10017-1487-4B5F-978F-EFBD2822EB63}",
-      "county": "ARAPAHOE",
-      "cause": "Unplanned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1786923920000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 237154,
     "geometry": {
       "type": "Point",
@@ -9591,6 +9556,41 @@
   },
   {
     "type": "Feature",
+    "id": 238611,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.15379769961461,
+        39.990797699713092
+      ]
+    },
+    "properties": {
+      "objectid": 238611,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 2,
+      "off_": 1787049420000,
+      "etr": null,
+      "ticket": "18171820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4864605.116400003,-11705667.2149",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8E6E4BBE-17F9-49EB-B857-CC67296FCD73}",
+      "county": "BOULDER",
+      "cause": "Planned",
+      "city": "Louisville",
+      "xcelarea": "Louisville"
+    },
+    "resolvedAt": 1787096866000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 238613,
     "geometry": {
       "type": "Point",
@@ -12107,6 +12107,146 @@
       "xcelarea": "Northglenn"
     },
     "resolvedAt": 1787095435000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 238974,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.53186184022711,
+        39.081640510197367
+      ]
+    },
+    "properties": {
+      "objectid": 238974,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787073120000,
+      "etr": 1787079600000,
+      "ticket": "18171820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4733372.631099999,-12081711.5949",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{ED9AF6AE-ABEB-470C-B840-6D17E96F2964}",
+      "county": "MESA",
+      "cause": "Unplanned",
+      "city": "Grand Junction",
+      "xcelarea": "Grand Junction"
+    },
+    "resolvedAt": 1787096866000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 238975,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.8216902803608,
+        39.635190039662909
+      ]
+    },
+    "properties": {
+      "objectid": 238975,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787073180000,
+      "etr": 1787081400000,
+      "ticket": "18171820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4813069.8478000015,-11668697.186099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{88981D5D-6C82-4589-94B0-DD09991041BF}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1787096866000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 238980,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.3476396202543,
+        39.6591693802309
+      ]
+    },
+    "properties": {
+      "objectid": 238980,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787073240000,
+      "etr": 1787084100000,
+      "ticket": "18171820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4816536.6131,-11727245.5988",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B88871FA-F7B7-43F8-A884-10D451D82093}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1787096866000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 238981,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.76592032978201,
+        39.630481280286546
+      ]
+    },
+    "properties": {
+      "objectid": 238981,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787073360000,
+      "etr": 1787085000000,
+      "ticket": "18171820",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812389.229500003,-11662488.9036",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0B47533C-BBB4-4161-AEB7-2B2432BB2AC5}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1787096866000,
     "status": "resolved"
   }
 ]
