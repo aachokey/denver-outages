@@ -14911,6 +14911,41 @@
   },
   {
     "type": "Feature",
+    "id": 241503,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.21539577961961,
+        39.802037889821705
+      ]
+    },
+    "properties": {
+      "objectid": 241503,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 10,
+      "off_": 1787308860000,
+      "etr": null,
+      "ticket": "21123420",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837216.528300002,-11712524.2818",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{DB9D4D5A-A2AB-481B-A6F6-BA30C45D0B7B}",
+      "county": "JEFFERSON",
+      "cause": "Planned",
+      "city": "Arvada,  Golden",
+      "xcelarea": "Arvada,  Golden"
+    },
+    "resolvedAt": 1787340417000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 241505,
     "geometry": {
       "type": "Point",
@@ -15082,6 +15117,76 @@
       "xcelarea": "Kersey"
     },
     "resolvedAt": 1787337521000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 241587,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.90653872004279,
+        39.679359499991882
+      ]
+    },
+    "properties": {
+      "objectid": 241587,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787314500000,
+      "etr": 1787321700000,
+      "ticket": "21123420",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819456.492200002,-11678142.4712",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1E76FC53-1E53-4467-A79C-552F7977DB59}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1787340417000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 241591,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.14203472988963,
+        39.755552330259739
+      ]
+    },
+    "properties": {
+      "objectid": 241591,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787314920000,
+      "etr": 1787326200000,
+      "ticket": "21123420",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4830483.136,-11704357.767099999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{03DDEC51-8CD6-4F60-A0CA-430D5FD0D456}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1787340417000,
     "status": "resolved"
   }
 ]
