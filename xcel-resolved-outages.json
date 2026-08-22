@@ -15923,5 +15923,75 @@
     },
     "resolvedAt": 1787390906000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242003,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00044023024114,
+        39.723656469771861
+      ]
+    },
+    "properties": {
+      "objectid": 242003,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1787377860000,
+      "etr": 1787384700000,
+      "ticket": "22063944",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825865.677299999,-11688595.5395",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{E92B2305-6D1B-4388-AF77-39074E34E43F}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1787405580000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242007,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.11425253040274,
+        39.736149179677462
+      ]
+    },
+    "properties": {
+      "objectid": 242007,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1787379300000,
+      "etr": 1787388300000,
+      "ticket": "22063944",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827673.951200001,-11701265.0668",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{1D724645-EB4E-4967-9357-FDFB0DE0CFB3}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1787405580000,
+    "status": "resolved"
   }
 ]
