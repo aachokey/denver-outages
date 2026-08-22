@@ -9836,6 +9836,41 @@
   },
   {
     "type": "Feature",
+    "id": 241420,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.22652511996398,
+        40.00718260988554
+      ]
+    },
+    "properties": {
+      "objectid": 241420,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 2,
+      "off_": 1787303760000,
+      "etr": 1787355900000,
+      "ticket": "22053944",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4866986.091700003,-11713763.1943",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{CAD66422-6517-4065-840E-8DF1F9DF4D42}",
+      "county": "BOULDER",
+      "cause": "Planned",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1787402555000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 241421,
     "geometry": {
       "type": "Point",
