@@ -12426,6 +12426,41 @@
   },
   {
     "type": "Feature",
+    "id": 242752,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.05993383966687,
+        39.498319130035362
+      ]
+    },
+    "properties": {
+      "objectid": 242752,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 7,
+      "off_": 1787476080000,
+      "etr": null,
+      "ticket": "23114109",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4793304.968999997,-11806537.8286",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0C46A5B5-9844-4386-9CB3-79CFFFB142C7}",
+      "county": "SUMMIT",
+      "cause": "Planned",
+      "city": "Breckenridge",
+      "xcelarea": "Breckenridge"
+    },
+    "resolvedAt": 1787509934000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 242755,
     "geometry": {
       "type": "Point",
@@ -14242,6 +14277,76 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1787507214000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242856,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.03200226016925,
+        39.889136119757332
+      ]
+    },
+    "properties": {
+      "objectid": 242856,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787484720000,
+      "etr": 1787491800000,
+      "ticket": "23114109",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4849844.896899998,-11692109.0086",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{243D08D8-67A3-4770-B5FC-EB8A73542894}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1787509934000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242857,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.08194836987906,
+        39.627609229843898
+      ]
+    },
+    "properties": {
+      "objectid": 242857,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787485020000,
+      "etr": 1787492700000,
+      "ticket": "23114109",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4811974.117399998,-11697668.9841",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{06BA89AF-3A6E-4CF1-A132-4075BC1BC366}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1787509934000,
     "status": "resolved"
   }
 ]
