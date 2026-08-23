@@ -13158,5 +13158,145 @@
     },
     "resolvedAt": 1787495116000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242698,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.22001706019083,
+        40.042601170170038
+      ]
+    },
+    "properties": {
+      "objectid": 242698,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 31,
+      "off_": 1787469600000,
+      "etr": 1787477400000,
+      "ticket": "23084509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4872134.898000002,-11713038.7204",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{14800E47-774F-40AB-804D-A633019BDEA9}",
+      "county": "BOULDER",
+      "cause": "Unplanned",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1787498671000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242722,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9773179298995,
+        39.875104010007171
+      ]
+    },
+    "properties": {
+      "objectid": 242722,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 101,
+      "off_": 1787471640000,
+      "etr": 1787479200000,
+      "ticket": "23084509",
+      "outageimpact": "Medium",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4847809.298799999,-11686021.5768",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{C082FC45-78EA-4631-9D50-C6628B3C2E95}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1787498671000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242729,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.82261719980021,
+        39.697818310085907
+      ]
+    },
+    "properties": {
+      "objectid": 242729,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787472420000,
+      "etr": 1787480100000,
+      "ticket": "23084509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822126.7377,-11668800.370299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{21B701E2-6CD4-4FA3-B657-AD886F2DE74A}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1787498671000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242741,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.033144120405,
+        39.843006399940911
+      ]
+    },
+    "properties": {
+      "objectid": 242741,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787474400000,
+      "etr": 1787485500000,
+      "ticket": "23084509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4843154.555399999,-11692236.1199",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E3517DC1-FBC6-4440-A7C7-127CBBF575CD}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1787498671000,
+    "status": "resolved"
   }
 ]
