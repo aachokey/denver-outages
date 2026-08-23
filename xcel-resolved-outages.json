@@ -13193,5 +13193,40 @@
     },
     "resolvedAt": 1787482269000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242669,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.17453628980712,
+        39.805056679769571
+      ]
+    },
+    "properties": {
+      "objectid": 242669,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787459940000,
+      "etr": 1787471100000,
+      "ticket": "23044509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837653.954700001,-11707975.8242",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FB7F341E-5363-46A9-BC35-4B36CE8D98EF}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Golden",
+      "xcelarea": "Golden"
+    },
+    "resolvedAt": 1787484147000,
+    "status": "resolved"
   }
 ]
