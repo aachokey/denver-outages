@@ -246,41 +246,6 @@
   },
   {
     "type": "Feature",
-    "id": 241984,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.73017302044077,
-        39.155660289734975
-      ]
-    },
-    "properties": {
-      "objectid": 241984,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 6,
-      "off_": 1787360820000,
-      "etr": 1787390100000,
-      "ticket": "22041944",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4743993.163800001,-12103787.4945",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{32E0384D-98D8-4D1F-B101-7768B8786073}",
-      "county": "MESA",
-      "cause": "Unplanned",
-      "city": "Fruita",
-      "xcelarea": "Fruita"
-    },
-    "resolvedAt": 1787395814000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 241986,
     "geometry": {
       "type": "Point",
@@ -11376,6 +11341,41 @@
   },
   {
     "type": "Feature",
+    "id": 243116,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.1543247699379,
+        39.827077970329825
+      ]
+    },
+    "properties": {
+      "objectid": 243116,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 68,
+      "off_": 1787538900000,
+      "etr": 1787547600000,
+      "ticket": "24040509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4840845.448200002,-11705725.8881",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{8D056678-BAEA-4682-AC98-74BC6F0F5A66}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1787569323000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 243121,
     "geometry": {
       "type": "Point",
@@ -11407,6 +11407,76 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1787566240000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 243123,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.154828490352,
+        39.828778200048852
+      ]
+    },
+    "properties": {
+      "objectid": 243123,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1787539080000,
+      "etr": 1787548500000,
+      "ticket": "24040509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841091.901000001,-11705781.962000001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{ED4752DE-714F-4141-990A-568C4FE6E8A0}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1787569323000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 243124,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.154828490352,
+        39.828778200048852
+      ]
+    },
+    "properties": {
+      "objectid": 243124,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1787539080000,
+      "etr": 1787548500000,
+      "ticket": "24040509",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841091.901000001,-11705781.962000001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{66CE83CD-A659-4F22-8547-384ACF1C307D}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1787569323000,
     "status": "resolved"
   }
 ]
