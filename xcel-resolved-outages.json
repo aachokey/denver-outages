@@ -11688,5 +11688,75 @@
     },
     "resolvedAt": 1787662940000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 243926,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.96136113035486,
+        39.921408150211526
+      ]
+    },
+    "properties": {
+      "objectid": 243926,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 132,
+      "off_": 1787639940000,
+      "etr": 1787650200000,
+      "ticket": "25065709",
+      "outageimpact": "Medium",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4854528.090000004,-11684245.274",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E62CB776-72CE-438C-AFFA-8B9E0455D2F5}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Thornton",
+      "xcelarea": "Thornton"
+    },
+    "resolvedAt": 1787667592000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 243932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0783267695903,
+        39.917094889961945
+      ]
+    },
+    "properties": {
+      "objectid": 243932,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1787640900000,
+      "etr": 1787652000000,
+      "ticket": "25065709",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4853902.0385000035,-11697265.8294",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{25930A5E-F3F7-457F-ABDD-2DCE828CF8FE}",
+      "county": "BROOMFIELD",
+      "cause": "Unplanned",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1787667592000,
+    "status": "resolved"
   }
 ]
