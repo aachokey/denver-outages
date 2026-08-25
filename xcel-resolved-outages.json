@@ -211,41 +211,6 @@
   },
   {
     "type": "Feature",
-    "id": 242626,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.55935160011809,
-        39.78613200996768
-      ]
-    },
-    "properties": {
-      "objectid": 242626,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 2,
-      "off_": 1787443020000,
-      "etr": 1787459400000,
-      "ticket": "23032509",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4834912.063699998,-11639493.7778",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{CB71B040-AF39-470D-A2E6-5B35DA2DF186}",
-      "county": "ARAPAHOE, ADAMS",
-      "cause": "Unplanned",
-      "city": "Watkins",
-      "xcelarea": "Watkins"
-    },
-    "resolvedAt": 1787478849000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 242654,
     "geometry": {
       "type": "Point",
@@ -1257,6 +1222,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1787498671000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 242731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99871829997868,
+        39.698509330118164
+      ]
+    },
+    "properties": {
+      "objectid": 242731,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 4,
+      "off_": 1787472720000,
+      "etr": 1787552100000,
+      "ticket": "25033309",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4822226.714299999,-11688403.8551",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{31608FD0-3E25-442E-80E1-0E0FCAFD003D}",
+      "county": "DENVER",
+      "cause": "Planned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1787654095000,
     "status": "resolved"
   },
   {
@@ -12037,6 +12037,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1787650633000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 243894,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.31628819962749,
+        39.149749300063931
+      ]
+    },
+    "properties": {
+      "objectid": 243894,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1787613540000,
+      "etr": 1787624100000,
+      "ticket": "25033309",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4743144.630900003,-12057714.047",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{C5D77539-393A-464C-B980-DCADF06CDB16}",
+      "county": "MESA",
+      "cause": "Unplanned",
+      "city": "Palisade",
+      "xcelarea": "Palisade"
+    },
+    "resolvedAt": 1787654095000,
     "status": "resolved"
   }
 ]
