@@ -5391,6 +5391,41 @@
   },
   {
     "type": "Feature",
+    "id": 250406,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88498793964571,
+        39.651187650138084
+      ]
+    },
+    "properties": {
+      "objectid": 250406,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1788275940000,
+      "etr": 1788286500000,
+      "ticket": "2025243",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815382.536899999,-11675743.4493",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B47E9EBB-9B2B-4EC6-9027-1EB832DC00EB}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1788355879000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 250419,
     "geometry": {
       "type": "Point",
@@ -5737,6 +5772,111 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1788339425000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 250573,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.79372984973163,
+        39.66753628018639
+      ]
+    },
+    "properties": {
+      "objectid": 250573,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 59,
+      "off_": 1788311160000,
+      "etr": 1788331500000,
+      "ticket": "2025243",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817746.5239999965,-11665584.6452",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{4F78EFD9-7938-42A7-8B7B-DBD8D09565E9}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1788355879000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 250574,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.79161613991926,
+        39.667402999819288
+      ]
+    },
+    "properties": {
+      "objectid": 250574,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1788311160000,
+      "etr": 1788318900000,
+      "ticket": "2025243",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4817727.249600001,-11665349.3481",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{F1D8005B-0737-4313-A3BA-55D68D248652}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1788355879000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 250588,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.88406637955529,
+        39.650907670231845
+      ]
+    },
+    "properties": {
+      "objectid": 250588,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3,
+      "off_": 1788313920000,
+      "etr": 1788324300000,
+      "ticket": "2025243",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815342.057099998,-11675640.8617",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{7926C035-7FF2-475A-B17F-C8953ED41004}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1788355879000,
     "status": "resolved"
   }
 ]
