@@ -5916,6 +5916,41 @@
   },
   {
     "type": "Feature",
+    "id": 253063,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.27806353034582,
+        40.048414739957984
+      ]
+    },
+    "properties": {
+      "objectid": 253063,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 75,
+      "off_": 1788554220000,
+      "etr": 1788602400000,
+      "ticket": "5055243",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4872980.273800001,-11719500.4239",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{3AA3DC3F-EE1C-47AA-85D7-2E9A4728C5EB}",
+      "county": "BOULDER",
+      "cause": "Unplanned",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1788620327000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 253069,
     "geometry": {
       "type": "Point",
@@ -5982,6 +6017,41 @@
       "xcelarea": "Aurora"
     },
     "resolvedAt": 1788609396000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 253085,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01962252962809,
+        39.831415849887442
+      ]
+    },
+    "properties": {
+      "objectid": 253085,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1788573960000,
+      "etr": 1788597000000,
+      "ticket": "5055243",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4841474.247400001,-11690730.9033",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{02753107-28AF-4074-92C6-1396E78506CD}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1788620327000,
     "status": "resolved"
   }
 ]
