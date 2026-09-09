@@ -4653,5 +4653,110 @@
     },
     "resolvedAt": 1788935278000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 255352,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.09373517011187,
+        39.59551325992237
+      ]
+    },
+    "properties": {
+      "objectid": 255352,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 66,
+      "off_": 1788903420000,
+      "etr": 1788930900000,
+      "ticket": "9002443",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807336.294799998,-11698981.0847",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{08BE2B61-8D61-4412-A23A-29ED40CE9C39}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1788954357000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 255358,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.09421733994232,
+        39.595611269677285
+      ]
+    },
+    "properties": {
+      "objectid": 255358,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 7,
+      "off_": 1788903420000,
+      "etr": 1788918300000,
+      "ticket": "9002443",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4807350.4538,-11699034.7596",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{0679D087-E6BD-477E-A09D-1BC0391F9233}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Littleton",
+      "xcelarea": "Littleton"
+    },
+    "resolvedAt": 1788954357000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 255404,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.17776018974992,
+        40.029064930217892
+      ]
+    },
+    "properties": {
+      "objectid": 255404,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1788911160000,
+      "etr": 1788921900000,
+      "ticket": "9002443",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4870166.815300003,-11708334.7071",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F44D2F8C-CA11-4AEC-B93B-3FA37983DEC1}",
+      "county": "BOULDER",
+      "cause": "Unplanned",
+      "city": "Boulder",
+      "xcelarea": "Boulder"
+    },
+    "resolvedAt": 1788954357000,
+    "status": "resolved"
   }
 ]
