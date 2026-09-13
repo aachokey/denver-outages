@@ -4443,5 +4443,110 @@
     },
     "resolvedAt": 1789308583000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 258273,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.77797502020897,
+        39.682055399938562
+      ]
+    },
+    "properties": {
+      "objectid": 258273,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 40,
+      "off_": 1789282080000,
+      "etr": 1789292700000,
+      "ticket": "13080443",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819846.435699999,-11663830.8256",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{743CF3FA-DD43-4C13-95E8-B472AC09EAD2}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1789320768000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 258287,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.01820914012299,
+        39.796427709984684
+      ]
+    },
+    "properties": {
+      "objectid": 258287,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 154,
+      "off_": 1789283580000,
+      "etr": 1789291800000,
+      "ticket": "13080443",
+      "outageimpact": "Medium",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4836403.657300003,-11690573.565499999",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{4948510B-BB66-41C4-81B4-94CD5575017E}",
+      "county": "DENVER, ADAMS",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1789320768000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 258288,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.099439739864,
+        39.741458969916891
+      ]
+    },
+    "properties": {
+      "objectid": 258288,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 18,
+      "off_": 1789283640000,
+      "etr": 1789292700000,
+      "ticket": "13080443",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828442.623099998,-11699616.114500001",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{9967FC61-7498-4D14-A9A6-8D94226B06B8}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Lakewood",
+      "xcelarea": "Lakewood"
+    },
+    "resolvedAt": 1789320768000,
+    "status": "resolved"
   }
 ]
