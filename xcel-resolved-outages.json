@@ -2238,5 +2238,110 @@
     },
     "resolvedAt": 1791150502000,
     "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 274134,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.92902513000466,
+        37.356305170142825
+      ]
+    },
+    "properties": {
+      "objectid": 274134,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 11,
+      "off_": 1791125400000,
+      "etr": 1791132300000,
+      "ticket": "4154334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4488888.186499998,-11791965.137699999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{FD1605FD-5424-4B44-80DC-418C8DF445C8}",
+      "county": "ALAMOSA, CONEJOS",
+      "cause": "Unplanned",
+      "city": "Alamosa,  La Jara",
+      "xcelarea": "Alamosa,  La Jara"
+    },
+    "resolvedAt": 1791160354000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 274138,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86724812978917,
+        39.742406009986013
+      ]
+    },
+    "properties": {
+      "objectid": 274138,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1791127980000,
+      "etr": 1791139500000,
+      "ticket": "4154334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4828579.727600001,-11673768.662700001",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A8ACECE6-254D-4ACE-9F36-B2A138E5768A}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1791160354000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 274142,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9988326600059,
+        39.722770849822531
+      ]
+    },
+    "properties": {
+      "objectid": 274142,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1791128160000,
+      "etr": 1791139500000,
+      "ticket": "4154334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4825737.499499999,-11688416.5856",
+      "states": "CO",
+      "crewstatus": "",
+      "globalid": "{3B54621F-A8FD-4EBE-9279-7FA4B9B881E2}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1791160354000,
+    "status": "resolved"
   }
 ]
