@@ -1856,6 +1856,41 @@
   },
   {
     "type": "Feature",
+    "id": 279314,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.74253238976772,
+        39.164971550090925
+      ]
+    },
+    "properties": {
+      "objectid": 279314,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 1,
+      "off_": 1791879780000,
+      "etr": null,
+      "ticket": "14042334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4745329.956100002,-12105163.3332",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{6EB3D474-18BE-40C2-9492-B44C6246EAA3}",
+      "county": "MESA",
+      "cause": "Planned",
+      "city": "Fruita",
+      "xcelarea": "Fruita"
+    },
+    "resolvedAt": 1791991419000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 279315,
     "geometry": {
       "type": "Point",
@@ -3812,6 +3847,76 @@
       "xcelarea": "Thornton"
     },
     "resolvedAt": 1791973678000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 279864,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9238862499878,
+        39.763395489994053
+      ]
+    },
+    "properties": {
+      "objectid": 279864,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 173,
+      "off_": 1791944340000,
+      "etr": 1791954000000,
+      "ticket": "14042334",
+      "outageimpact": "Medium",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4831618.891900003,-11680073.5894",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{30FF6F78-620B-4476-937C-93EBB8611842}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1791991419000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 279919,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.70340846999527,
+        40.367419089906889
+      ]
+    },
+    "properties": {
+      "objectid": 279919,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 3,
+      "off_": 1791951060000,
+      "etr": 1791965700000,
+      "ticket": "14042334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4919479.154799998,-11655530.1152",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{05778086-866F-4FE9-9DFA-E849AC10FE10}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "Evans",
+      "xcelarea": "Evans"
+    },
+    "resolvedAt": 1791991419000,
     "status": "resolved"
   }
 ]
