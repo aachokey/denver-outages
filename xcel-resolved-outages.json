@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 282586,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.24824427967958,
-        39.718765559974727
-      ]
-    },
-    "properties": {
-      "objectid": 282586,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 6,
-      "off_": 1792310880000,
-      "etr": 1792350000000,
-      "ticket": "18175134",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4825157.825300001,-11716180.960099999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{FF124A12-4C39-4FE3-BBF1-625EAA6E6953}",
-      "county": "JEFFERSON",
-      "cause": "Unplanned",
-      "city": "Golden",
-      "xcelarea": "Golden"
-    },
-    "resolvedAt": 1792383992000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 282611,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.09563909994922,
-        39.597764620235502
-      ]
-    },
-    "properties": {
-      "objectid": 282611,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 22,
-      "off_": 1792301820000,
-      "etr": 1792348200000,
-      "ticket": "18175134",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4807661.543099999,-11699193.029199999",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{43A10C93-CFFE-47AD-9706-0AE292F3E25B}",
-      "county": "JEFFERSON",
-      "cause": "Unplanned",
-      "city": "Littleton",
-      "xcelarea": "Littleton"
-    },
-    "resolvedAt": 1792383992000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 282687,
     "geometry": {
       "type": "Point",
@@ -4022,6 +3952,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1792537193000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 283954,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02760065990584,
+        39.904114489764687
+      ]
+    },
+    "properties": {
+      "objectid": 283954,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 17,
+      "off_": 1792506180000,
+      "etr": 1792532700000,
+      "ticket": "20192334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4852018.226099998,-11691619.0247",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{E42622CC-04FD-4111-B318-DEC85CC02399}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Westminster",
+      "xcelarea": "Westminster"
+    },
+    "resolvedAt": 1792564148000,
     "status": "resolved"
   },
   {
