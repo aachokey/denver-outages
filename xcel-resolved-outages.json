@@ -3466,6 +3466,41 @@
   },
   {
     "type": "Feature",
+    "id": 285656,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.99367853024918,
+        39.645755350069955
+      ]
+    },
+    "properties": {
+      "objectid": 285656,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 0,
+      "off_": 1792749240000,
+      "etr": null,
+      "ticket": "23214734",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4814597.158299997,-11687842.8305",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{2043BC09-02C7-472B-82C4-68F66039E5FE}",
+      "county": "ARAPAHOE",
+      "cause": "Planned",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1792831446000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 285668,
     "geometry": {
       "type": "Point",
@@ -4722,6 +4757,111 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1792813937000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 285970,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -107.83314654027623,
+        39.669609679783697
+      ]
+    },
+    "properties": {
+      "objectid": 285970,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 8,
+      "off_": 1792781940000,
+      "etr": 1792797300000,
+      "ticket": "23214734",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818046.374399997,-12003930.9635",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{081878E0-D1FC-4043-9BE2-5B95E019EE8A}",
+      "county": "GARFIELD",
+      "cause": "Unplanned",
+      "city": "Rifle",
+      "xcelarea": "Rifle"
+    },
+    "resolvedAt": 1792831446000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 285976,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.07516180002847,
+        39.803009969829525
+      ]
+    },
+    "properties": {
+      "objectid": 285976,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1792786380000,
+      "etr": 1792800900000,
+      "ticket": "23214734",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4837357.381800003,-11696913.5066",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A3616F79-FB42-46DC-BA6C-FCF3069E7F27}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Arvada",
+      "xcelarea": "Arvada"
+    },
+    "resolvedAt": 1792831446000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 285977,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.00128640011964,
+        39.627806419666918
+      ]
+    },
+    "properties": {
+      "objectid": 285977,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 14,
+      "off_": 1792786560000,
+      "etr": 1792801800000,
+      "ticket": "23214734",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4812002.617700003,-11688689.7347",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{EE2387BA-F334-4039-9395-558BB1A7C362}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Englewood",
+      "xcelarea": "Englewood"
+    },
+    "resolvedAt": 1792831446000,
     "status": "resolved"
   }
 ]
