@@ -36,76 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 289165,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.55974511994641,
-        39.069246739770627
-      ]
-    },
-    "properties": {
-      "objectid": 289165,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1793259960000,
-      "etr": 1793349900000,
-      "ticket": "29193534",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4731595.433300003,-12084815.5474",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{07F724E7-0DDA-495F-A944-8114A963C186}",
-      "county": "MESA",
-      "cause": "Unplanned",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1793348158000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 289391,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.8109801397421,
-        39.630182179957693
-      ]
-    },
-    "properties": {
-      "objectid": 289391,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 44,
-      "off_": 1793276280000,
-      "etr": 1793326500000,
-      "ticket": "29193534",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4812345.998199999,-11667504.9387",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{AFE62FE5-8C1D-49D1-A41A-7EC7E1F3FBD7}",
-      "county": "ARAPAHOE",
-      "cause": "Unplanned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1793348158000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 289473,
     "geometry": {
       "type": "Point",
@@ -137,41 +67,6 @@
       "xcelarea": "Grand Junction"
     },
     "resolvedAt": 1793373089000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 289485,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.78246747967349,
-        39.735588480305275
-      ]
-    },
-    "properties": {
-      "objectid": 289485,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 1,
-      "off_": 1793298960000,
-      "etr": 1793309400000,
-      "ticket": "29193534",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4827592.784999996,-11664330.9239",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{A0C20B30-9B34-4A6F-93F6-A22E58541ED2}",
-      "county": "ARAPAHOE",
-      "cause": "Unplanned",
-      "city": "Aurora",
-      "xcelarea": "Aurora"
-    },
-    "resolvedAt": 1793348158000,
     "status": "resolved"
   },
   {
@@ -2202,6 +2097,41 @@
       "xcelarea": "Monte Vista"
     },
     "resolvedAt": 1793500067000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 290377,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.98014690978215,
+        39.75346714988585
+      ]
+    },
+    "properties": {
+      "objectid": 290377,
+      "boundary": null,
+      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1793475420000,
+      "etr": 1793483100000,
+      "ticket": "31202334",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4830181.206,-11686336.4974",
+      "states": "CO",
+      "crewstatus": "Crew Onsite",
+      "globalid": "{53627521-95DD-4379-A636-DA221FB998DC}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1793525797000,
     "status": "resolved"
   }
 ]
