@@ -36,111 +36,6 @@
   },
   {
     "type": "Feature",
-    "id": 289473,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -108.48068393993846,
-        39.084787289784764
-      ]
-    },
-    "properties": {
-      "objectid": 289473,
-      "boundary": null,
-      "comments": "Crews are in the area working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 56,
-      "off_": 1793296620000,
-      "etr": 1793343600000,
-      "ticket": "30021134",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4733823.911499999,-12076014.4971",
-      "states": "CO",
-      "crewstatus": "Crew Onsite",
-      "globalid": "{0B05E3F3-E231-4E03-9E68-7DDA872440C7}",
-      "county": "MESA",
-      "cause": "Unplanned",
-      "city": "Grand Junction",
-      "xcelarea": "Grand Junction"
-    },
-    "resolvedAt": 1793373089000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 289504,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.91173373033145,
-        40.471938869870677
-      ]
-    },
-    "properties": {
-      "objectid": 289504,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 58,
-      "off_": 1793307300000,
-      "etr": 1793341800000,
-      "ticket": "30021134",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4934762.030599996,-11678720.7771",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{C18985A0-795E-4BE5-9743-1D404FE8AA5C}",
-      "county": "WELD",
-      "cause": "Unplanned",
-      "city": "Windsor",
-      "xcelarea": "Windsor"
-    },
-    "resolvedAt": 1793373089000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 289534,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -103.58366848994558,
-        40.283944089953231
-      ]
-    },
-    "properties": {
-      "objectid": 289534,
-      "boundary": null,
-      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
-      "customers": 1,
-      "off_": 1793326020000,
-      "etr": 1793337300000,
-      "ticket": "30021134",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4907290.460600004,-11530881.2308",
-      "states": "CO",
-      "crewstatus": "",
-      "globalid": "{BA3E7AB6-1A51-4F68-953D-4254907D9EFF}",
-      "county": "MORGAN",
-      "cause": "Unplanned",
-      "city": "Brush",
-      "xcelarea": "Brush"
-    },
-    "resolvedAt": 1793373089000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 289577,
     "geometry": {
       "type": "Point",
@@ -2101,6 +1996,41 @@
   },
   {
     "type": "Feature",
+    "id": 290363,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.7912314696365,
+        40.289461539947752
+      ]
+    },
+    "properties": {
+      "objectid": 290363,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 72,
+      "off_": 1793467980000,
+      "etr": 1793507400000,
+      "ticket": "1023205",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4908095.632200003,-11665306.5268",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B3FEEDBF-83BA-4CDB-8AFE-947B3F66D736}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "La Salle,  Platteville,  Gilcrest",
+      "xcelarea": "La Salle,  Platteville,  Gilcrest"
+    },
+    "resolvedAt": 1793551081000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 290377,
     "geometry": {
       "type": "Point",
@@ -2132,6 +2062,41 @@
       "xcelarea": "Denver"
     },
     "resolvedAt": 1793525797000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 290398,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.69388413968757,
+        40.43914230027999
+      ]
+    },
+    "properties": {
+      "objectid": 290398,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1793498580000,
+      "etr": 1793513700000,
+      "ticket": "1023205",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4929963.961099997,-11654469.8716",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{58B1D035-867A-4722-854C-502E07A6D527}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "Greeley",
+      "xcelarea": "Greeley"
+    },
+    "resolvedAt": 1793551081000,
     "status": "resolved"
   }
 ]
