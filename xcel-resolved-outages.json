@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 293540,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.13406119988447,
-        40.407419700029145
-      ]
-    },
-    "properties": {
-      "objectid": 293540,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 31,
-      "off_": 1793913060000,
-      "etr": 1793927700000,
-      "ticket": "5224005",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4925325.237499997,-11703470.1578",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{63BC7AF0-B017-4DB1-B559-19B0BD317067}",
-      "county": "LARIMER",
-      "cause": "Unplanned",
-      "city": "Loveland",
-      "xcelarea": "Loveland"
-    },
-    "resolvedAt": 1793973298000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 293604,
     "geometry": {
       "type": "Point",
@@ -3707,6 +3672,111 @@
       "xcelarea": "Boulder"
     },
     "resolvedAt": 1794127381000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 294611,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.79442379020379,
+        40.377716720221279
+      ]
+    },
+    "properties": {
+      "objectid": 294611,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 42,
+      "off_": 1794077640000,
+      "etr": 1794118500000,
+      "ticket": "8014005",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4920983.82,-11665661.894299999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{94792B5E-3207-450D-9C99-423DAF387A0E}",
+      "county": "WELD",
+      "cause": "Unplanned",
+      "city": "Greeley,  Milliken",
+      "xcelarea": "Greeley,  Milliken"
+    },
+    "resolvedAt": 1794153032000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 294625,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.97804448999625,
+        39.777507390168488
+      ]
+    },
+    "properties": {
+      "objectid": 294625,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1794084120000,
+      "etr": 1794116700000,
+      "ticket": "8014005",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4833662.7403,-11686102.4571",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{5A163035-FBCE-477C-A23D-11FBBEF11944}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1794153032000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 294691,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.8298114296183,
+        39.732127299905073
+      ]
+    },
+    "properties": {
+      "objectid": 294691,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1794101580000,
+      "etr": 1794116700000,
+      "ticket": "8014005",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4827091.763099998,-11669601.2283",
+      "states": "CO",
+      "crewstatus": "",
+      "globalid": "{8DDE7163-7F06-4977-A2B0-CAB06729949A}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1794153032000,
     "status": "resolved"
   }
 ]
