@@ -1,41 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 295177,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.28798130029007,
-        40.033268970197994
-      ]
-    },
-    "properties": {
-      "objectid": 295177,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 9,
-      "off_": 1794216660000,
-      "etr": 1794267900000,
-      "ticket": "9232805",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4870778.013999999,-11720604.465",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{4E53ACDB-1A1E-4248-B883-1D474C37370C}",
-      "county": "BOULDER",
-      "cause": "Unplanned",
-      "city": "Boulder",
-      "xcelarea": "Boulder"
-    },
-    "resolvedAt": 1794324432000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 295575,
     "geometry": {
       "type": "Point",
@@ -2871,6 +2836,41 @@
   },
   {
     "type": "Feature",
+    "id": 296478,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.07191722991142,
+        39.647869679994017
+      ]
+    },
+    "properties": {
+      "objectid": 296478,
+      "boundary": null,
+      "comments": "We are performing work in your area to maintain safe and reliable power to you.",
+      "customers": 1,
+      "off_": 1794399540000,
+      "etr": 1794414600000,
+      "ticket": "12051605",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4814902.831699997,-11807871.8135",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{F97D4742-D0F0-4D3F-A781-4C6875E39D77}",
+      "county": "SUMMIT",
+      "cause": "Planned",
+      "city": "Silverthorne",
+      "xcelarea": "Silverthorne"
+    },
+    "resolvedAt": 1794514621000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
     "id": 296525,
     "geometry": {
       "type": "Point",
@@ -3252,6 +3252,76 @@
       "xcelarea": "Highlands Ranch"
     },
     "resolvedAt": 1794455010000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 296697,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.56543047000133,
+        39.654810989887281
+      ]
+    },
+    "properties": {
+      "objectid": 296697,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 1,
+      "off_": 1794366900000,
+      "etr": 1794428100000,
+      "ticket": "12051605",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4815906.418099999,-11640170.4745",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{45F141A9-2C48-46A2-928C-AC6765F0D7E5}",
+      "county": "ADAMS",
+      "cause": "Unplanned",
+      "city": "Watkins",
+      "xcelarea": "Watkins"
+    },
+    "resolvedAt": 1794514621000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 296738,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.3098429903019,
+        39.588172549858122
+      ]
+    },
+    "properties": {
+      "objectid": 296738,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 11,
+      "off_": 1794457320000,
+      "etr": 1794472200000,
+      "ticket": "12051605",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4806275.874499999,-11723038.097199999",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{B7C3D225-D913-453C-A3D9-929EE16A8CB4}",
+      "county": "JEFFERSON",
+      "cause": "Unplanned",
+      "city": "Evergreen",
+      "xcelarea": "Evergreen"
+    },
+    "resolvedAt": 1794514621000,
     "status": "resolved"
   }
 ]
