@@ -1,76 +1,6 @@
 [
   {
     "type": "Feature",
-    "id": 302708,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -105.12787215971649,
-        39.752244710216914
-      ]
-    },
-    "properties": {
-      "objectid": 302708,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 35,
-      "off_": 1795470000000,
-      "etr": 1795484700000,
-      "ticket": "23234242",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4830004.203400001,-11702781.197",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{7302FA34-BC10-4BA8-8E21-07846277B13E}",
-      "county": "JEFFERSON",
-      "cause": "Unplanned",
-      "city": "Lakewood",
-      "xcelarea": "Lakewood"
-    },
-    "resolvedAt": 1795545762000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
-    "id": 302713,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -104.91655160989752,
-        39.812996780337492
-      ]
-    },
-    "properties": {
-      "objectid": 302713,
-      "boundary": null,
-      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
-      "customers": 6,
-      "off_": 1795470240000,
-      "etr": 1795484700000,
-      "ticket": "23234242",
-      "outageimpact": "Small",
-      "outagetype": "Outage",
-      "medialink": null,
-      "outagestatus": 0,
-      "datastatus": null,
-      "latlong": "4838804.576800004,-11679257.101",
-      "states": "CO",
-      "crewstatus": null,
-      "globalid": "{64CEE3F3-0F80-442C-89E1-CC42A3CFD671}",
-      "county": "ADAMS",
-      "cause": "Unplanned",
-      "city": "Commerce City",
-      "xcelarea": "Commerce City"
-    },
-    "resolvedAt": 1795545762000,
-    "status": "resolved"
-  },
-  {
-    "type": "Feature",
     "id": 302770,
     "geometry": {
       "type": "Point",
@@ -1362,6 +1292,146 @@
       "xcelarea": "Lakewood"
     },
     "resolvedAt": 1795702422000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 303746,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.02863747025393,
+        39.930188029964761
+      ]
+    },
+    "properties": {
+      "objectid": 303746,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 31,
+      "off_": 1795641360000,
+      "etr": 1795681800000,
+      "ticket": "26070642",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4855802.574299999,-11691734.4419",
+      "states": "CO",
+      "crewstatus": null,
+      "globalid": "{A5F8567D-2B30-4C58-B445-758A977BF013}",
+      "county": "BROOMFIELD",
+      "cause": "Unplanned",
+      "city": "Broomfield",
+      "xcelarea": "Broomfield"
+    },
+    "resolvedAt": 1795734733000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 303782,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.95773266963228,
+        39.68305379027133
+      ]
+    },
+    "properties": {
+      "objectid": 303782,
+      "boundary": null,
+      "comments": "Crews are working to restore power as quickly and safely as possible. Please continue to check back for estimated restoration time updates. Thank you for your patience.",
+      "customers": 3599,
+      "off_": 1795676580000,
+      "etr": 1795691700000,
+      "ticket": "26070642",
+      "outageimpact": "Large",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819990.8499,-11683841.3556",
+      "states": "CO",
+      "crewstatus": "",
+      "globalid": "{5C07D288-2F76-43D7-9463-A0AF3CBC896D}",
+      "county": "ARAPAHOE, DENVER",
+      "cause": "Unplanned",
+      "city": "Denver,  Englewood,  Cherry Hills Village",
+      "xcelarea": "Denver,  Englewood,  Cherry Hills Village"
+    },
+    "resolvedAt": 1795734733000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 303783,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.94254216985591,
+        39.670337299743984
+      ]
+    },
+    "properties": {
+      "objectid": 303783,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1795676640000,
+      "etr": 1795691700000,
+      "ticket": "26070642",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4818151.603299998,-11682150.3569",
+      "states": "CO",
+      "crewstatus": "",
+      "globalid": "{995315FF-9349-4EA4-B38A-C17C8F440951}",
+      "county": "DENVER",
+      "cause": "Unplanned",
+      "city": "Denver",
+      "xcelarea": "Denver"
+    },
+    "resolvedAt": 1795734733000,
+    "status": "resolved"
+  },
+  {
+    "type": "Feature",
+    "id": 303784,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.86759034030169,
+        39.67926657011563
+      ]
+    },
+    "properties": {
+      "objectid": 303784,
+      "boundary": null,
+      "comments": "The outage has been reported. Please continue to check back for additional updates regarding the restoration progress.",
+      "customers": 1,
+      "off_": 1795676700000,
+      "etr": 1795691700000,
+      "ticket": "26070642",
+      "outageimpact": "Small",
+      "outagetype": "Outage",
+      "medialink": null,
+      "outagestatus": 0,
+      "datastatus": null,
+      "latlong": "4819443.050800003,-11673806.757399999",
+      "states": "CO",
+      "crewstatus": "",
+      "globalid": "{0E912816-1E09-4930-B838-14350E3EAB21}",
+      "county": "ARAPAHOE",
+      "cause": "Unplanned",
+      "city": "Aurora",
+      "xcelarea": "Aurora"
+    },
+    "resolvedAt": 1795734733000,
     "status": "resolved"
   }
 ]
